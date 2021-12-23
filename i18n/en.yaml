@@ -1,0 +1,91 @@
+# Header
+- id: menu-models
+  translation: Models
+
+- id: menu-technology
+  translation: Technology
+
+- id: menu-guides
+  translation: Guides
+  
+- id: menu-articles
+  translation: Articles
+
+- id: language
+  translation: Language
+
+# Frontpage
+- id: frontpage-title
+  translation: Electric has gone Audi - Everything about all-electric Audis
+
+- id: guide-understanding-range
+  translation: Understanding range
+
+- id: guide-checking-battery
+  translation: Checking battery health
+
+- id: guide-one-pedal-driving
+  translation: One Pedal driving
+ 
+- id: guide-preserving-battery
+  translation: Preserving battery
+
+- id: frontpage-jumbotron-title
+  translation: Everything about all-electric cars from Audi
+
+- id: frontpage-jumbotron-description
+  translation: Electrichasgoneaudi.net is the ultimate guide to all-electric cars from Audi. On this site, you find every detail about technology and functionality on previous, current, and future models from Audi.
+
+- id: frontpage-sections-models-title
+  translation: Models
+
+- id: frontpage-sections-models-description
+  translation: Read about the different models.
+
+- id: frontpage-sections-technology-title
+  translation: Technology
+
+- id: frontpage-sections-technology-description
+  translation: Learn about all the unique Audi technology.
+
+- id: frontpage-sections-guides-title
+  translation: Guides
+
+- id: frontpage-sections-guides-description
+  translation: Tips, guides and advices about electric cars from Audi
+  
+- id: guide-buying-title
+  translation: Looking to buy an all electric Audi?
+
+- id: guide-buying-description
+  translation: In the models section, we compare all relevant models in detail to help you pick your all electric Audi. We also have an option guide for each model trying to help you pick the most important options.
+  
+- id: guide-options-q4-etron
+  translation: Options guide Q4 e-tron
+
+- id: guide-options-etron
+  translation: Options guide e-tron
+  
+- id: guide-options-etron-gt
+  translation: Options guide e-tron GT
+
+- id: footer-about
+  translation: About electrichasgoneaudi.net
+
+- id: frontpage-article-chargehub-title
+  translation: World first - start of the Audi charging hub as an urban quick-charing concept
+
+- id: frontpage-article-chargehub-synopsis
+  translation: December 23. at the exhibition center in Nuremberg, the first Audi charging hub is going into operation as the only charging concept of its kind in the world.
+
+- id: frontpage-article-electromobilityinwinter-title
+  translation: Electromobility in winter-Intelligent functions optimize range and charging performance
+
+- id: frontpage-article-electromobilityinwinter-synopsis
+  translation: Seat heating instead of a hot air blower, optimum tire pressure, parking in the garage, and selecting the efficiency mode these and other factors determine how quickly the high-voltage battery is drained or not.
+
+- id: frontpage-article-thermalmanagementwinter-title
+  translation: Intelligent thermal management in Audi models preserves range and performance
+
+- id: frontpage-article-thermalmanagementwinter-synopsis
+  translation: Learn how intelligent thermal mangement in all-electric Audis preserve the range in winter time.

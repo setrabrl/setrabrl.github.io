@@ -1,0 +1,91 @@
+# Header
+- id: menu-models
+  translation: Modeller
+
+- id: menu-technology
+  translation: Teknologi
+
+- id: menu-guides
+  translation: Guider
+
+- id: menu-articles
+  translation: Artikler
+
+- id: language
+  translation: Språk
+
+# Frontpage
+- id: frontpage-title
+  translation: Electric has gone Audi - Alt om helelektriske Audier
+
+- id: guide-understanding-range
+  translation: Forstå rekkevidde
+
+- id: guide-checking-battery
+  translation: Sjekke batterihelse
+
+- id: guide-one-pedal-driving
+  translation: En-pedals kjøring
+
+- id: guide-preserving-battery
+  translation: Hvordan beskytte batteri  
+
+- id: frontpage-jumbotron-title
+  translation: Alt om helelektriske Audier 
+
+- id: frontpage-jumbotron-description
+  translation: Electrichasgoneaudi.net er den ultimate guiden for helelektriske biler fra Audi. Her finner du alle detaljer om teknologien og funksjonaliteten på tidligere, nåværende og fremtidige modeller fra Audi.
+
+- id: frontpage-sections-models-title
+  translation: Modeller
+
+- id: frontpage-sections-models-description
+  translation: Lær alt om de forskjellige modellene.
+
+- id: frontpage-sections-technology-title
+  translation: Teknologi
+
+- id: frontpage-sections-technology-description
+  translation: Lær alt om den unike Audi teknologien.
+
+- id: frontpage-sections-guides-title
+  translation: Guider
+
+- id: frontpage-sections-guides-description
+  translation:  Tips, guider og råd om elektriske biler fra Audi
+
+- id: guide-buying-title
+  translation: På jakt etter en helelektrisk Audi?
+
+- id: guide-buying-description
+  translation: I modell seksjonen, så sammenligner vi alle relevant modeller for å hjelpe deg velge riktig helelektriske Audi for deg. For hver modell har vi en ekstrautstyr guide for å hjelpe deg velge utstyret du har behov for. 
+
+- id: guide-options-q4-etron
+  translation: Utstyrsguide Q4 e-tron
+
+- id: guide-options-etron
+  translation: Utstyrsguide guide e-tron
+  
+- id: guide-options-etron-gt
+  translation: Utstyrsguide guide e-tron GT
+
+- id: footer-about
+  translation: Om electrichasgoneaudi.net
+
+- id: frontpage-article-chargehub-title
+  translation: Verdens første - starten på Audi charging hub som et urbant hurtigladekonsept
+
+- id: frontpage-article-chargehub-synopsis
+  translation: Fra 23. desember på utstillingssenteret i Nürnberg åpnes den første Audi charging huben for publikum som et unikt ladekonseptet.
+
+- id: frontpage-article-electromobilityinwinter-title
+  translation: Elbil på vinteren -Intelligente funksjoner øker rekkevidde og ladeytelse
+
+- id: frontpage-article-electromobilityinwinter-synopsis
+  translation: Setevarme i stedet for en varmluftsblåser, optimalt dekktrykk, parkering i garasjen og valg av effektivitetsmodus disse og andre faktorer avgjør hvor raskt høyspentbatteriet tømmes eller ikke.
+  
+- id: frontpage-article-thermalmanagementwinter-title
+  translation: Intelligent termisk styring i Audi-modeller bevarer rekkevidde og ytelse
+
+- id: frontpage-article-thermalmanagementwinter-synopsis
+  translation: Lær hvordan intelligent termisk styring i helelektriske Audier bevarer rekkevidden om vinteren.
