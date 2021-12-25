@@ -5,7 +5,7 @@ description: Borettslaget har flere aktive prosjekt for vedlikehold av borettsla
 weight: 3
 ---
 
-## Tilstandsrapport mai 2011.
+## Tilstandsrapport mai 2011
 
 Mange av prosjektene som er blitt gjennomført og gjennomførers er basert på anbefalinger fra en tilstandsrapport som ble laget i 2011. Rapporten ble laget av Obos Prosjekt.
 
@@ -37,5 +37,13 @@ Punktene var
 
 Detaljene om disse tiltakene kan lese i den originale rapporten. Pga av størrelse måtte det deles i 4 dokumenter for å kunne lastes opp på hjemmesiden. 
 
+## Vedtatte tiltak - ikke startet
+
+- Felles brannvarslingsanlegg 84 - Innhenter tilbud avventer finansiering.
+- Bytte av leilighetsdører
+- Fikse på uteområder. Grillområde
+- Oppussing av innvendige ganger
+
+Nedenfor ser du detaljer om de forskjellige prosjektene.
 
 {{% children description="true" depth="1" %}}
