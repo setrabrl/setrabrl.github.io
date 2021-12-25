@@ -2,7 +2,7 @@
 title: Salgsannonser
 linktitle: Salgsannonser
 description:  Her finner du lenker til aktive og gamle annonser på Finn
-weight: 1
+weight: 2
 ---
 
 

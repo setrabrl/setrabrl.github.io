@@ -2,7 +2,7 @@
 title: Leiligstypene
 linktitle: Leiligstypene
 description:  Leiligstypene
-weight: 4
+weight: 1
 ---
 
 Følgende leilighetstyper finnes i borettslaget.

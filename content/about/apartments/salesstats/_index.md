@@ -2,7 +2,7 @@
 title: Salgsstatistikk
 linktitle: Salgsstatistikk
 description:  Her finner du salgsstatistikk for Setra borettslag
-weight: 4
+weight: 3
 ---
 
 Grafen og tabellen nedenfor viser den gjennomsnittlige prisen ink fellesgjeld for salg av leiligheter fra 2007 - 2020 for Setra Borettslag og for OBOS leiligheter generelt.  
