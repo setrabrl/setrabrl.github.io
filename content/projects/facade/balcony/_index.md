@@ -48,9 +48,8 @@ Det er ikke lov å henge noe på selve rekkverket som f.eks blomsterkasser. Leve
 ## Balkongtak toppetasjer
 
 På balkongene som ligger i toppetasjen bygges det nytt tak i treverk. Dette gir en stor forbedring sammenlignet med bølgeblikktakene man hadde før. Bildet nedenfor viser taket.
- 
-![Balkongtak](balkongtak.jpg)
 
+![Balkongtak](balkongtak.jpg)
 
 ## Balkongdører
 
