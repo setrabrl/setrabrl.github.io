@@ -7,7 +7,7 @@ staticDir = "static"
 publishDir = "public"
 
 title = "Setra borettslag"
-theme = "hugo-theme-electrichasgoneaudi"
+theme = "hugo-theme-setrabrl"
 metadataFormat = "yaml"
 pluralizeListTitles = false
 preservetaxonomynames = true

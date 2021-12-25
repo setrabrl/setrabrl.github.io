@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Page.Language | default "en" }}" class="js csstransforms3d">
+<html lang="{{ .Page.Language | default "nb" }}" class="js csstransforms3d">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -46,14 +46,14 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
-                <a href="{{ with .Site.GetPage `/articles/chargehub/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/about/`}}{{.URL}}{{end}}" class="a-illustrationLink">
                     <div class="">
-                        <img src="articles/chargehub/chargehub_frontpage.jpg">
+                        <img src="/about/about_frontpage.jpg">
                         <div class="a-illustration-overlay">
-                            <span class="sr-only">{{T "frontpage-article-chargehub-title"}}</span>
+                            <span class="sr-only">{{T "frontpage-about-title"}}</span>
                         </div>
                     </div>
-                    <h2 class="a-h2">{{T "frontpage-article-chargehub-title"}}</h2>
+                    <h2 class="a-h2">{{T "frontpage-about-title"}}</h2>
                     <p class="a-js-truncate-2">{{T "frontpage-article-chargehub-synopsis"}}</p>
                 </a>
             </div>

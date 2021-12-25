@@ -27,23 +27,23 @@
                 {{- partial "language-switcher.html" . -}}
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/models/`}}{{.URL}}{{end}}">
-                   {{ T "menu-models"}}
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/about/`}}{{.URL}}{{end}}">
+                   {{ T "menu-about"}}
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/technology/`}}{{.URL}}{{end}}">
-                  {{ T "menu-technology"}} 
+                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/forowners/`}}{{.URL}}{{end}}">
+                  {{ T "menu-forowners"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/guides/`}}{{.URL}}{{end}}">
-                  {{ T "menu-guides"}} 
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/projects/`}}{{.URL}}{{end}}">
+                  {{ T "menu-projects"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/articles/`}}{{.URL}}{{end}}">
-                  {{ T "menu-articles"}} 
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/area/`}}{{.URL}}{{end}}">
+                  {{ T "menu-area"}} 
                 </a>
               </li>
             </ul>
