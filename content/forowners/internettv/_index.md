@@ -13,6 +13,8 @@ Prisen er inkludert i leiligheten og snittprisen er ca 250 kr for TV og 120 for 
 
 For øyeblikket er Internet/Kabel-TV fordelt via fordelingsnøkkel som gir følgende reelle priser for de forskjellige leilighetstypene
 
+![Priser](pris_internett.png "Priser fordelt")
+
 Hastigheten er 75Mbit ned og 10Mbit opp. Dette kan økes til opptil 500Mbit ned. (75,150,300,500 er hastighetene man kan velge mellom)
 
 Dette endres på telenor.no
