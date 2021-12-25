@@ -11,6 +11,9 @@
 - id: menu-area
   translation: Nærområdet
 
+- id: menu-vibbo
+  translation: Vibbo
+
 - id: language
   translation: Språk
 
