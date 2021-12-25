@@ -1,6 +1,6 @@
 ---
-title: Electric Has Gone Audi
-description: Everything about electric cars from Audi
+title: Setrabrl.no
+description: Velkommen til vårt borettslag
 jumbotron: true
 type: "customFrontpage"
 ---

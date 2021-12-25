@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://electrichasgoneaudi.net/sitemap.xml
+Sitemap: https://setrabrl.no/sitemap.xml
