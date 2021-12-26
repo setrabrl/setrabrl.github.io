@@ -2,7 +2,7 @@
 title: For deg som er ny i borettslaget
 linktitle: For nye beboere
 description:  Her finner du en rask oversikt over hva som er nytt å vite om borettslaget for de som er ny i borettslaget.
-weight: 2
+weight: 1
 ---
 
 Velkommen som beboer i Setra borettslag. Borettslaget består av ca 260 leiligheter og har nærmere 800 beboere. I denne artikkelen finner du spørsmål og svar på nyttige ting som er verdt å vite.

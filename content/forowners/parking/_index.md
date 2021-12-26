@@ -2,7 +2,7 @@
 title: Parkering i borettslaget
 linktitle: Parkering
 description:  Borettslaget har flere parkeringsalternativer
-weight: 2
+weight: 4
 ---
 
 ![Parkering](garasje1.jpg "Hovseterveien 70")

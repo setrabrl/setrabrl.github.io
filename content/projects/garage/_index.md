@@ -2,7 +2,7 @@
 title: Garasjeprosjektet
 linktitle: Garasjeprosjektet
 description: Generalforsamlingen vedtok i 2017 å kjøpe garasjeplassene i Hovseterveien 70 og pusse dem opp.
-weight: 2
+weight: 3
 ---
 
 Borettslaget overtok garasjene i Hovseterveien 70  juni 2018 fra Stor Oslo Eiendom.

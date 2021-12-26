@@ -2,12 +2,12 @@
 title: Bad og våtromsprosjektet
 linktitle: Bad og våtrom
 description:  En gjennomgang på hva som ble gjort i prosjektet.
-weight: 2
+weight: 1
 ---
 
 Det ble vedtatt på generalforsamling 27.05.2015 at alle bad i Setra skulle renoveres og alle rør til leilighetene skulle byttes ut.  Som del av prosjektet ble alle andelseierne tilbydt en standardpakke på fliser og toalett. Det var mulig for hver andelseier å velge andre fliser og utstyr til en merkostnad. Se informasjon om vedtak og standardpakke her. 
 
-Status
+## Status
 
 Valg av leverandør ble gjort i mai 2017 og Sansbygg AS ble valgt til å gjennomføre arbeidet med rør og våtrom. Olimb Rørfornying ble på et senere tidspunkt valgt til å fikse taknedløp og bunnledninger.
 
@@ -19,17 +19,15 @@ Prosjektet er avsluttet.
 
 ## Reklamasjon
 
-Vi oppfordrer andelseiere som har leiligheter med feil og mangler som enda ikke er utbedret om å purre på Roger Wågsand hos Sans Bygg på mail: roger@sansbygg.no. Arbeidet utført i forbindelse med bad- og rørføringer er nå inne i garantiperioden på 5 år. Hvis man har behov for å reklamere på noe må det sendes mail til roger@sansbygg.no med kopi til setra@styrerommet.net.  
+Arbeidet utført i forbindelse med bad- og rørføringer er nå inne i garantiperioden på 5 år. Hvis man har behov for å reklamere på noe må det sendes mail til roger@sansbygg.no med kopi til setra@styrerommet.net.  
 
-## Hva ble gjort/Skal gjøres
+## Hva ble gjort
 
-For detaljer om arbeidet som er gjort og gjenstår klikk på seksjonene under
+For detaljer om arbeidet som ble gjort klikk på seksjonene under
 
-Nye bad, fallstammer og vannrør.
-
-Nytt fellesanlegg for varmtvann
-
-Rørfornying taknedløp, bunnledning og stikkledning
+- [Nye bad, fallstammer og vannrør](bathroms).
+- [Nytt fellesanlegg for varmtvann](common)
+- [Rørfornying taknedløp, bunnledning og stikkledning](drains)
 
 ## Kostnader
 

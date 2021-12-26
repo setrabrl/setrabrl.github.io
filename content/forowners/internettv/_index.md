@@ -2,7 +2,7 @@
 title: Internett og TV
 linktitle: Internett og TV
 description:  Borettslaget har kabel-TV fra Telenor.
-weight: 2
+weight: 5
 ---
 
 Inkludert i husleien har hver leilighet kabel-TV og TV fra Telenor. 

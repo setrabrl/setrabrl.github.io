@@ -4,19 +4,16 @@
             <div class="col-12">
                 <ul>
                     <li>
-                        <a href="https://www.facebook.com/electrichasgoneaudi">Facebook</a>
+                        <a href="https://www.facebook.com/groups/855516694552952">Facebook</a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/channel/UCIX5hOCjiv5eTeiJsB7hwkg">Contact</a>
+                        <a href="{{ with .Site.GetPage `/about/contact/`}}{{.URL}}{{end}}">{{T "footer-contact"}}</a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/electrichasgoneaudi/">Vibbo</a>
+                        <a href="https://vibbo.no/setra">Vibbo</a>
                     </li>
                     <li>
                         <a href="https://github.com/setrabrl/">Github</a>
-                    </li>
-                    <li>
-                        <a href="{{ with .Site.GetPage `/articles/about/`}}{{.URL}}{{end}}">{{T "footer-about"}}</a>
                     </li>
                 </ul>
             </div>

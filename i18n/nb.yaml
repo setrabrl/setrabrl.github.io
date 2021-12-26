@@ -17,25 +17,14 @@
 - id: language
   translation: Språk
 
+# Footer
+
+- id: footer-contact
+  translation: Kontaktinformasjon
+
 # Frontpage
 - id: frontpage-title
   translation: Setra borettslag -
-
-- id: frontpage-about-title
-  translation: Nyoppusset og sprek
-
-
-- id: guide-understanding-range
-  translation: Forstå rekkevidde
-
-- id: guide-checking-battery
-  translation: Sjekke batterihelse
-
-- id: guide-one-pedal-driving
-  translation: En-pedals kjøring
-
-- id: guide-preserving-battery
-  translation: Hvordan beskytte batteri  
 
 - id: frontpage-jumbotron-title
   translation: Velkommen til Setra borettslag
@@ -43,38 +32,76 @@
 - id: frontpage-jumbotron-description
   translation: På våre nettsider finner du ut alt om borettslaget og nærområdet. 
 
-- id: frontpage-sections-models-title
-  translation: Modeller
+# Frontpage articles
+- id: frontpage-about-title
+  translation: Setra borettslag - Moderne og sentralt plassert på Oslo Vest
 
-- id: frontpage-sections-models-description
-  translation: Lær alt om de forskjellige modellene.
+- id: frontpage-about-synopsis
+  translation: Etter kraftig moderniseringer siste årene fremstår borettslaget som nytt. Vi er plassert sentralt på Oslo Vest på Hovseter ved Røa med landlige omgivelser med topp offentlige og privat tjenestetilbud. 
 
-- id: frontpage-sections-technology-title
-  translation: Teknologi
+# Frontpage section projects
 
-- id: frontpage-sections-technology-description
-  translation: Lær alt om den unike Audi teknologien.
+- id: frontpage-sections-projects-title
+  translation: Prosjekter
 
-- id: frontpage-sections-guides-title
-  translation: Guider
+- id: frontpage-sections-projects-description
+  translation: Les om våre moderniseringsprosjekter
 
-- id: frontpage-sections-guides-description
-  translation:  Tips, guider og råd om elektriske biler fra Audi
+- id: projects-bath
+  translation: Bad og våtrom
 
-- id: guide-buying-title
-  translation: På jakt etter en helelektrisk Audi?
+- id: projects-facade
+  translation: Nye fasader
 
-- id: guide-buying-description
-  translation: I modell seksjonen, så sammenligner vi alle relevant modeller for å hjelpe deg velge riktig helelektriske Audi for deg. For hver modell har vi en ekstrautstyr guide for å hjelpe deg velge utstyret du har behov for. 
+- id: projects-garage
+  translation: Garasje
 
-- id: guide-options-q4-etron
-  translation: Utstyrsguide Q4 e-tron
+- id: projects-apartments
+  translation: Nye leiligheter
 
-- id: guide-options-etron
-  translation: Utstyrsguide guide e-tron
-  
-- id: guide-options-etron-gt
-  translation: Utstyrsguide guide e-tron GT
+- id: projects-apartmentdoors
+  translation: Nye leilighetsdører
+
+- id: projects-outside
+  translation: Uteområder
+
+# Frontpage section area
+
+- id: frontpage-sections-area-title
+  translation: Nærområdet
+
+- id: frontpage-sections-area-description
+  translation: Nærområde byr på flotte friluftsområder samt et rikt tjenestetilbud
+
+- id: area-kindergarden
+  translation: Barnehager
+
+- id: area-schools
+  translation: Skoler
+
+- id: area-outdoors
+  translation: Friluftsområder
+
+- id: area-transport
+  translation: Kollektivtransport
+
+- id: area-shoppinganddining
+  translation: Butikker og resturanter
+
+
+# Frontpage section for owners
+
+- id: frontpage-sections-forowners-title
+  translation: For beboere
+
+- id: frontpage-sections-forowners-description
+  translation:  Her finner du relevant informasjon for beboere
+
+- id: forowners-welcome
+  translation: For deg som er ny
+
+
+
 
 - id: footer-about
   translation: Om electrichasgoneaudi.net
@@ -82,8 +109,6 @@
 - id: frontpage-article-chargehub-title
   translation: Verdens første - starten på Audi charging hub som et urbant hurtigladekonsept
 
-- id: frontpage-article-chargehub-synopsis
-  translation: Fra 23. desember på utstillingssenteret i Nürnberg åpnes den første Audi charging huben for publikum som et unikt ladekonseptet.
 
 - id: frontpage-article-electromobilityinwinter-title
   translation: Elbil på vinteren -Intelligente funksjoner øker rekkevidde og ladeytelse

@@ -2,7 +2,7 @@
 title: Fellesgjeld og felleskostnader
 linktitle: Fellesgjeld og felleskostnader
 description:  Denne artikkelen prøver å forklare fellesgjeld og felleskostnader i borettslaget.
-weight: 2
+weight: 3
 ---
 
 Hver leilighet i borettslaget har felleskostnader og fellesgjeld. Disse varierer basert på en rekke egenskaper med leilighetene.

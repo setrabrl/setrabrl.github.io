@@ -9,7 +9,7 @@ Borettslaget er i et barnevennlig område med mange barnehager og skoler i nærh
 
 Borettslaget har gjennomgått store moderniseringer de siste årene.
 
-- Rørsystemene er oppgradert og alle leilighetene har fått nye bad i 2017-2018
+- Rørsystemene er oppgradert og alle [leilighetene har fått nye bad](../projects/bath) i 2017-2018
 
 - Alle vinduer og utvendige dører er byttet ut i 2019-2020
 
