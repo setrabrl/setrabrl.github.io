@@ -29,35 +29,35 @@ Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år.
 
 Borettslaget har forskjellige lån tatt opp til forskjellige behov over tid. Eksempler på lån som er tatt opp nylig er rør og våtromsprosjektet, kjøp av garasje og fasadeprosjekt.
 
-Lånene er.
+Lånene er totalt på 166 146 660,- (26.12.2021)
 
 ### OBBK02
 
-- Saldo: 29 201 526,00
+- Saldo: 28 750 872,00
 - Månedlig terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
 
+### OBBK04
+
+- Saldo: 55 919 969,00
+- Månedlig terminer til november 2047
+
+Lån til bad og våtroms rehabilitering.
+
 ### OBOS08
 
-- Saldo: 75 375 629,00
+- Saldo: 74 997 471,00
 - Månedlig terminer til april 2059
 
 Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
 
 ### OBOS09
 
-- Saldo: 6 560 401
+- Saldo: 6 478 348
 - Månedlig terminer til april 2039
 
 Lån til tidligere vedlikehold.
-
-### OBOS04
-
-- Saldo: 56 363 894,00
-- Månedlig terminer til november 2047
-
-Lån til bad og våtroms rehabilitering.
 
 ## Hvordan fordeles fellesgjelden
 
