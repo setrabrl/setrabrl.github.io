@@ -39,6 +39,13 @@
 - id: frontpage-about-synopsis
   translation: Etter kraftig moderniseringer siste årene fremstår borettslaget som nytt. Vi er plassert sentralt på Oslo Vest på Hovseter ved Røa med landlige omgivelser med topp offentlige og privat tjenestetilbud. 
 
+- id: frontpage-vibbo-title
+  translation: Registrer deg på Vibbo for aktuell informasjon
+
+- id: frontpage-vibbo-synopsis
+  translation: Setra borettslag bruker Vibbo for å varsle om aktuell informasjon til beboere. Registrer deg.
+
+
 # Frontpage section projects
 
 - id: frontpage-sections-projects-title
@@ -99,6 +106,21 @@
 
 - id: forowners-welcome
   translation: For deg som er ny
+
+- id: forowners-parking
+  translation: Parkering
+
+- id: forowners-evcharging
+  translation: Elbillading
+
+- id: forowners-internettv
+  translation: Internett og TV
+
+- id: forowners-garbage
+  translation: Avfallshåndtering
+
+- id: forowners-finance
+  translation: Fellesgjeld & felleskostnader
 
 
 
