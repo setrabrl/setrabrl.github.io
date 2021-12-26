@@ -7,7 +7,7 @@ weight: 2
 
 ![Leilighet](075_1990080615.jpg)
 
-Antallet enheter som bygges har variert i løpet av prosessen. Nedenfor viser en oversikt over de 16 boenhetene som etableres. Klikk på lenker på leilighetsnr for Finn annonse og flere bilder.
+Antallet enheter som skulle bygges har variert i løpet av prosessen. Nedenfor viser en oversikt over de 16 boenhetene som ble etablert. Klikk på lenker på leilighetsnr for Finn annonse og flere bilder.
 
 |Leilighetsnr|Bygg|Størrelse|Antall rom|Prisantydning|Status
 |----------|-----|--------|-------|--------|--------|
@@ -34,8 +34,6 @@ Totalt vil de nye leiligheten gi 777.012,- kr i årlig fellesinntekter til boret
 
 ## Tidsplan
 
-Leilighetene ble ferdigstillt i paralell med fasadeprosjektet. Første leilighet ble lagt ut til salgs 18. september 2020 og siste ble lagt ut for salg 27.05.2021.
-
-For detaljer om leiligheten se detaljer om leilighetene.
+Leilighetene ble bygget av Front Entrepenør med underleverandører og ble ferdigstillt i paralell med fasadeprosjektet. Første leilighet ble lagt ut til salgs 18. september 2020 og siste ble lagt ut for salg 27.05.2021.
 
 {{% children description="true" depth="1" %}}

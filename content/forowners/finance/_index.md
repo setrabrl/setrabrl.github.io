@@ -34,7 +34,6 @@ Lånene er.
 ### OBBK02
 
 - Saldo: 29 201 526,00
-- Antall terminer:
 - Månedlig terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
@@ -42,7 +41,6 @@ Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garas
 ### OBOS08
 
 - Saldo: 75 375 629,00
-- Antall terminer:
 - Månedlig terminer til april 2059
 
 Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
@@ -50,7 +48,6 @@ Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
 ### OBOS09
 
 - Saldo: 6 560 401
-- Antall terminer:
 - Månedlig terminer til april 2039
 
 Lån til tidligere vedlikehold.
@@ -58,7 +55,6 @@ Lån til tidligere vedlikehold.
 ### OBOS04
 
 - Saldo: 56 363 894,00
-- Antall terminer:
 - Månedlig terminer til november 2047
 
 Lån til bad og våtroms rehabilitering.
@@ -75,7 +71,7 @@ Fordelingsnøkkelen er en nøkkel som hver leilighet har og som ble definert i d
 
 ### Hvordan ble fordelingsnøkkelen min definert?
 
-Nøkkelen er et resultatet av flere faktorer. Størrelsen på leiligheten er en av faktorene, hvilken etasje man bor i er en annen faktor. Frem til 2018 var også om man hadde garasjeplass en slik faktor, men dette ble trukket ut slik at f.eks kostnadene til fasadaprosjekt ikke skal avhenge om man har parkeringsplass eller ikke.  Fordelingsnøkkelen ble definert i 1978 basert på hvor stort innskudd hver leilighet måtte stå for når de ble solgt første gang. (innskuddskapitalen varierte mellom 7.400 for de minste hyblene til 40.900,- for 4 roms med garasje. 
+Nøkkelen er et resultatet av flere faktorer. Størrelsen på leiligheten er en av faktorene, hvilken etasje man bor i er en annen faktor. Frem til 2018 var også om man hadde garasjeplass en slik faktor, men dette ble trukket ut slik at f.eks kostnadene til fasadaprosjekt ikke skal avhenge om man har parkeringsplass eller ikke.  Fordelingsnøkkelen ble definert i 1978 basert på hvor stort innskudd hver leilighet måtte stå for når de ble solgt første gang. (innskuddskapitalen varierte mellom 7.400 for de minste hyblene til 40.900,- for 4 roms med garasje.
 
 ### Hva er min fordelingsnøkkel?
 
@@ -85,14 +81,13 @@ Dette er en nøkkel som Obos sitter på å benytter når de fordeler. Samlet set
 
 Hvis lånet du ønsker å regne ut skal fordeles via fordelingsnøkkelen så tar man lånesummen og ganger med sin fordelingsnøkkel. Dette gjør Obos
 
-Eksempel. Totallån utenom garasje på 139.203.368 * 0,004693* = 653.324,-  
+Eksempel. Totallån utenom garasje på 139.203.368 * 0,004693 = 653.324,-  
 
 Se nederst for utregning pr leilighetstype
 
 Oversikt over gjeld/fellesutgifter pr bygg
 
 ![Fellesgjeld bygg](fellesgjeldbygg.png "Fellesgjeld pr bygg")
- 
 
 ### Når blir lånet fordelt?
 
@@ -100,15 +95,15 @@ Lånet blir fordelt i det lånet benyttes til å betale kostnader. Det betyr at 
 
 ### Når får man økt felleskostnader grunnet lån?
 
-Bankene krever typisk at man øker felleskostnaden til nødvendig nivå for å betjene lånet før det innvilges. F.eks så betaler man lemge på nivået som er nødvendig for fasadeprosjektet selv om det ikke var utbetalt noe eller man hadde begynt å betale ned på det. 
+Bankene krever typisk at man øker felleskostnaden til nødvendig nivå for å betjene lånet før det innvilges. F.eks så betaler man lemge på nivået som er nødvendig for fasadeprosjektet selv om det ikke var utbetalt noe eller man hadde begynt å betale ned på det.
 
-### Hvordan bestemmes min andel av lånekostnadene som går inn på felleskostnaden? 
+### Hvordan bestemmes min andel av lånekostnadene som går inn på felleskostnaden?
 
 Når et lån tas opp vil nebetalingsplanen og rentenivået avgjøre hvor stor lånekostnad borettslaget har hver måned. Hver måned vil borettslaget betale inn renter og avdrag. Denne kostnaden fordeles utover leilighetene. For lån som fasadelånet benyttes fordelingsnøkkelen for å fordele kostnadene på leilighetene. For lån som garasjelånet fordeles dette flatt utover leilighetene.
 
-Renteendringer ville kunne medføre endringer i det månedelige beløpet som gjør at også leilighetene vil få en endring. Borettslaget gjør en jevnlig vurdering basert på rentenivå om at innbetalingene fra leilighetene er riktig. 
+Renteendringer ville kunne medføre endringer i det månedelige beløpet som gjør at også leilighetene vil få en endring. Borettslaget gjør en jevnlig vurdering basert på rentenivå om at innbetalingene fra leilighetene er riktig.
 
-Nedenfor ser du de forskjellige leilighetstypene med fellesgjeld nå. Hvis du i tilegg har garasjeplass i Hovseterveien 70 må den legges til. Utregningen er basert på hvordan OBOS rapporterer dette til skattemyndighetene. 
+Nedenfor ser du de forskjellige leilighetstypene med fellesgjeld nå. Hvis du i tilegg har garasjeplass i Hovseterveien 70 må den legges til. Utregningen er basert på hvordan OBOS rapporterer dette til skattemyndighetene.
 
 ![Fellesgjeld pr](fellesgjeld.png "Fellesgjeld pr leilighetstype")
 
