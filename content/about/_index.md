@@ -10,19 +10,20 @@ Borettslaget er i et barnevennlig område med mange barnehager og skoler i nærh
 Borettslaget har gjennomgått store moderniseringer de siste årene.
 
 - Rørsystemene er oppgradert og alle [leilighetene har fått nye bad](../projects/bath) i 2017-2018
-
-- Alle vinduer og utvendige dører er byttet ut i 2019-2020
-
-- Vi har fått nye fasader og det er etterisolert 2019-2020
-
-- Vi har renovert garasjen og tilrettelagt for elbillading.
-
-- Vi bygger om næringslokaler til 16 nye leiligheter. 2019-2020
+- Alle [vinduer](../projects/facade/windows/) og [utvendige dører](../projects/facade/firstfloor/) er byttet ut i 2019-2020
+- Vi har fått [nye fasader og det er etterisolert](../projects/facade/facadework/) 2019-2020
+- Vi har [renovert garasjen](../projects/garage/) og [tilrettelagt for elbillading](../forowners/evcharging/)
+- Vi bygger om næringslokaler til [16 nye leiligheter](../projects/apartments/) 2019-2021
+- Alle leiligheter fikk [nye leilighetsdører](../projects/apartmentdoors/) desember2021/januar 2022.
 
 På våre nettsider finner du mye relevant informasjon om borettslaget for beboere og andre som trenger informasjon.
 
-Er du ny i borettslaget bør du lese denne.
+Er du ny i borettslaget bør du lese [denne](../forowners/welcome/).
 
-Les om området.
+[Les om området](../area/)
+
+Se også filmen under. (slå på teksting!)
+
+{{< youtube YLCEjCFeqDI >}}
 
 {{% children description="true" depth="1" %}}

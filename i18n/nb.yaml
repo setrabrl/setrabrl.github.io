@@ -45,6 +45,12 @@
 - id: frontpage-vibbo-synopsis
   translation: Setra borettslag bruker Vibbo for å varsle om aktuell informasjon til beboere. Registrer deg.
 
+- id: frontpage-hovseterdalen-title
+  translation: Oslos beste akebakker?
+
+- id: frontpage-hovseterdalen-synopsis
+  translation: Vet du det er hele 7 forskjellige akebakker med forskjellig vanskelighetsgrad for store og små i Hovseterdalen? 
+
 
 # Frontpage section projects
 
@@ -121,25 +127,3 @@
 
 - id: forowners-finance
   translation: Fellesgjeld & felleskostnader
-
-
-
-
-- id: footer-about
-  translation: Om electrichasgoneaudi.net
-
-- id: frontpage-article-chargehub-title
-  translation: Verdens første - starten på Audi charging hub som et urbant hurtigladekonsept
-
-
-- id: frontpage-article-electromobilityinwinter-title
-  translation: Elbil på vinteren -Intelligente funksjoner øker rekkevidde og ladeytelse
-
-- id: frontpage-article-electromobilityinwinter-synopsis
-  translation: Setevarme i stedet for en varmluftsblåser, optimalt dekktrykk, parkering i garasjen og valg av effektivitetsmodus disse og andre faktorer avgjør hvor raskt høyspentbatteriet tømmes eller ikke.
-  
-- id: frontpage-article-thermalmanagementwinter-title
-  translation: Intelligent termisk styring i Audi-modeller bevarer rekkevidde og ytelse
-
-- id: frontpage-article-thermalmanagementwinter-synopsis
-  translation: Lær hvordan intelligent termisk styring i helelektriske Audier bevarer rekkevidden om vinteren.

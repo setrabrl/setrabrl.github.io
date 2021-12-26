@@ -78,7 +78,7 @@ Arbeidene må utføres av en elektriker, og endringer i anlegget må dokumentere
 
 **Spørsmål:** Hva er et lastbalansert anlegg?
 
-**Svar:** Du kan lese en god forklaring hos Mer.
+**Svar:** Du kan lese en [god forklaring](https://no.mer.eco/nyheter/hjemmelading/hva-er-lastbalansering/) hos Mer.
 
 **Spørsmål:** Hva vil maksimal ladekapasitet for en bil være?
 
