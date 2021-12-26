@@ -1,6 +1,6 @@
 ---
 title: Resturanter, bakeri, cafe og Take-away
-linktitle: Resturanter ++ 
+linktitle: Resturanter & Takeaway 
 description:  Det er flere resturanter, bakeri, cafeer og take away muligheter i nærheten av Setra borettslag.
 weight: 4
 ---
