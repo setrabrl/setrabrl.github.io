@@ -22,9 +22,18 @@ For øyeblikket er Internet/Kabel-TV fordelt via fordelingsnøkkel som gir følg
 |2-roms 84 | kr 237,- | kr 111,- | kr 348,- |
 |1-roms 82 | kr 151,- | kr 71,- | kr 223,- |
 
-Hastigheten er 75Mbit ned og 10Mbit opp. Dette kan økes til opptil 500Mbit ned. (75,150,300,500 er hastighetene man kan velge mellom)
+Hastigheten er 100Mbit ned og 10Mbit opp. Dette kan økes til opptil 1000Mbit ned.
 
-Dette endres på telenor.no
+Hvis man øker utover standard vil dette komme som en seperat faktura fra telenor til deg.
+
+| Hastighet | Pris pr mnd |
+|--------|------------|
+| 200/20 | 199,- |
+| 350/30 | 289,- |
+| 600/50 | 599,- |
+| 1000/50 | 759,- |
+
+Dette endres på [telenor.no](https://www.telenor.no/privat/minesider/web/)
 
 ## Utstyr
 
