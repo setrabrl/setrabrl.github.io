@@ -12,14 +12,14 @@ og består av følgende
 - Leder: Hanne Cecilie Lunde - Hovseterveien 66A
 - Nestleder: Sondre Olsen - Hovseterveien 64B
 
-## Styremedlemmer
+### Styremedlemmer
 
 - Rune Tømmerås Larsen
 - Ragnhild Sundsbak
 - Elin Kolle
 - Francesca Vyvial
 
-## Varamedlemmer
+### Varamedlemmer
 
 - Svein Erling Tysvær
 - Nelly Spes Akeza
@@ -28,12 +28,12 @@ og består av følgende
 
 Akutte henvendelser kan rettes til Hanne Cecilie Lunde på tlf 404 70 246
 
-## Vaktmester
+### Vaktmester
 
-Hovseter Vaktmestersentral
-Tlf: 22 14 15 85
-epost: post@hovvakt.no
-Adr: Hovseterveien 68A, 0768 Oslo
+- Hovseter Vaktmestersentral
+- Tlf: 22 14 15 85
+- epost: post@hovvakt.no
+- Adr: Hovseterveien 68A, 0768 Oslo
 
 Åpningstider er 9 - 10 og 13-14 på hverdager.
 
