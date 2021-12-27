@@ -11,7 +11,7 @@ På denne siden finner du en oversikt over butikkene som er tilgjengelig i ganga
 
 ## Rema 1000 Hovseter - 0 meter
 
-Rema 1000 på Hovseter er en ny og flott butikk som ble åpnet 2017. Her finner du alt du trenger til hverdagen. 
+Rema 1000 på Hovseter er en ny og flott butikk som ble åpnet 2017. Her finner du alt du trenger til hverdagen.
 
 Åpningstider er 7-23 på hverdager og 8-21 lørdager.
 
@@ -25,7 +25,7 @@ Rema 1000 på Hovseter er en ny og flott butikk som ble åpnet 2017. Her finner 
 
 ## Hovseter frukt og grønt - 0 meter - Søndagsåpent
 
-Hovseter frukt og grønt har et godt utvalg av frukt og grønnsaker i tilegg til et godt og variert tilbud. 
+Hovseter frukt og grønt har et godt utvalg av frukt og grønnsaker i tilegg til et godt og variert tilbud.
 
 Åpningstider er 08:30 - 19:00 på hverdager og 10:00-18:00 på søndager
 
@@ -37,9 +37,19 @@ Hovseter frukt og grønt har et godt utvalg av frukt og grønnsaker i tilegg til
 
 ## Meny Røa - 800 meter
 
+En av norgest flotteste butikker. Helt ny. [Kåret til norgest 2. beste butikk i 2021](https://dagligvarehandelen.no/nyheter/2021/arets-matgledebutikker-er-karet)
+
+[Se facebook side](https://www.facebook.com/MenyRoa)
+
 ## Rema 1000 Røa - 800 meter
 
 ## Rema 1000 Arnebråteveien - 800 meter
+
+## Coop Mega Røa - 850 meter
+
+En av norgest flotteste butikker. Helt ny. [Kåret til norgest 3. beste butikk i 2021](https://dagligvarehandelen.no/nyheter/2021/arets-matgledebutikker-er-karet)
+
+[Se Facebook side](https://www.facebook.com/coopmegaroa)
 
 ## Rema 1000 Stasjonsveien - 900 meter
 
