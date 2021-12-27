@@ -1,7 +1,7 @@
 ---
 title: Leiligstypene
 linktitle: Leiligstypene
-description:  L
+description:  Setra borettslag har flere forskjellige leilighetstyper. 
 weight: 1
 ---
 

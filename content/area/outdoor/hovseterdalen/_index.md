@@ -31,16 +31,31 @@ Det er 7(!) akebakker i Hovseterdalen på vinterstid. Nedenfor finner du beskriv
     <figcaption><h4>Tufterenna</h4></figcaption>
 </figur>
 
-
 Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tufteparken. Dette er en fin nybegynnerbakke for de aller minste barna og hellikopter foreldre.
 
-![Orrekjempen](orrekjempen.jpg "Orrekjempen")
+ <figur>
+    <a href="orrekjempen.jpg">
+        <img src="orrekjempens.jpg" alt="Orrekjempen" title="Orrekjempen">
+    </a>
+    <figcaption><h4>Orrekjempen</h4></figcaption>
+</figur>
 
 Orrekjempen er den største akebakken i Hovseterdalen og har medium vanskelighetsgrad. Man får stor fart når man starter på toppen. Dette er den mest populære bakken.
-
-![Orrekjempen](orrekjempen2.jpg "Orrekjempen")
  
-![Kjevebrekkeren](kjevebrekkeren.jpg "Kjevebrekkeren")
+ <figur>
+    <a href="orrekjempen2.jpg">
+        <img src="orrekjempen2s.jpg" alt="Orrekjempen" title="Orrekjempen">
+    </a>
+    <figcaption><h4>Orrekjempen</h4></figcaption>
+</figur>
+
+ 
+ <figur>
+    <a href="kjevebrekkeren.jpg">
+        <img src="kjevebrekkerens.jpg" alt="Kjevebrekkeren" title="Kjevebrekkeren">
+    </a>
+    <figcaption><h4>Kjevebrekkeren</h4></figcaption>
+</figur>
 
 Kjevebrekkeren går fra skogen på toppen av Hovseterdalen ned den bratteste bakken. Høy vanskelighetsgrad og ender opp i et gjerde hvis man har alt for stor fart.
 
@@ -53,11 +68,21 @@ Kjevebrekkeren går fra skogen på toppen av Hovseterdalen ned den bratteste bak
 
 Vesthumpen er en populær bakke rett ved Vestjordet barnehage. Brukes ofte av de minste barna og de som syns Orrekjempen blir for stor. 
 
-![Hamborgspinneren](hamborgspinneren.jpg "Hamborgspinneren")
+<figur>
+    <a href="hamborgspinneren.jpg">
+        <img src="hamborgspinnerens.jpg" alt="Hamborgspinneren" title="Hamborgspinneren">
+    </a>
+    <figcaption><h4>Hamborgspinneren</h4></figcaption>
+</figur>
 
 Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærne for ekstra spenning. Passer fint for små barn. 
 
-![Mekle tvillingene](mekletvillingene.jpg "Mekle tvillingene")
+<figur>
+    <a href="mekletvillingene.jpg">
+        <img src="mekletvillingenes.jpg" alt="Mekle tvillingene" title="Mekle tvillingene">
+    </a>
+    <figcaption><h4>Mekle tvillingene</h4></figcaption>
+</figur>
 
 Mekle tvillingene er i praksis 2 bakker med relativ lik bakkeprofil som bare er skilt med et lite buskass. Bakken er relativ bratt og krysser gangveien som er et ekstra spenningmoment.
 
