@@ -2,7 +2,7 @@
 title: Ventilasjonssystem 68 og 84
 linktitle: Ventilasjonssystem 68 og 84
 description:  Det har i en tid vært problemer med ventilasjonsanlegget i 68 og 84. Det er igangsatt arbeid får å forbedre dette.
-weight: 2
+weight: 6
 ---
 
 Etter flere befaringer av det eksisterende ventilasjonsannleget på Setra, sammen med Bryn Byggklima og Multiconsult er det kommet opp en plan for å forbedre ventilasjonsanleggene i 68 og 84  

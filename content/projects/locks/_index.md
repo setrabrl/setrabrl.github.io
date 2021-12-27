@@ -2,7 +2,7 @@
 title: Nytt låsesystem
 linktitle: Nytt låsesystem
 description:  Som del av fasadeprosjektet ble låsesystemet i Setra bli byttet ut.
-weight: 2
+weight: 5
 ---
 
 Bakgrunnen for byttet var det gamle låsesystem ikke lenger var beskyttet mot kopiering av nøkler og styret kan ikke lenger kunne med sikkerhet si hvem som har nøkkel til fellesområder og garasjer.

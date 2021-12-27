@@ -2,7 +2,7 @@
 title: Nye andelsleiligheter
 linktitle: Nye andelsleiligheter
 description:  På ekstraordinær generalforsamling 13.10.2014 ble det vedtatt å gi styret fullmakt til å søke om bruksendring av næringslokalene i Hovseterveien 82 og 68 med det formål å gjøre om disse til andeler i borettslaget.
-weight: 2
+weight: 4
 ---
 
 ![Leilighet](075_1990080615.jpg)

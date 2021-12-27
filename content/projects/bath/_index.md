@@ -5,11 +5,11 @@ description:  En gjennomgang på hva som ble gjort i prosjektet.
 weight: 1
 ---
 
-Det ble vedtatt på generalforsamling 27.05.2015 at alle bad i Setra skulle renoveres og alle rør til leilighetene skulle byttes ut.  Som del av prosjektet ble alle andelseierne tilbydt en standardpakke på fliser og toalett. Det var mulig for hver andelseier å velge andre fliser og utstyr til en merkostnad. Se informasjon om vedtak og standardpakke her. 
+Det ble vedtatt på generalforsamling 27.05.2015 at alle bad i Setra skulle renoveres og alle rør til leilighetene skulle byttes ut.  Som del av prosjektet ble alle andelseierne tilbydt en standardpakke på fliser og toalett. Det var mulig for hver andelseier å velge andre fliser og utstyr til en merkostnad. Se informasjon om vedtak og standardpakke [her](decision).
 
 ## Status
 
-Valg av leverandør ble gjort i mai 2017 og Sansbygg AS ble valgt til å gjennomføre arbeidet med rør og våtrom. Olimb Rørfornying ble på et senere tidspunkt valgt til å fikse taknedløp og bunnledninger.
+Valg av leverandør ble gjort i mai 2017 og [Sansbygg AS](https://sansbygg.no/) ble valgt til å gjennomføre arbeidet med rør og våtrom. [Olimb Rørfornying](https://olimb.no/rorfornying/borettslag-og-bygg/) ble på et senere tidspunkt valgt til å fikse taknedløp og bunnledninger.
 
 Prosjektet er avsluttet.
 
@@ -31,7 +31,7 @@ For detaljer om arbeidet som ble gjort klikk på seksjonene under
 
 ## Kostnader
 
-Følgende kostnader er knyttet til badprosjektet. 
+Følgende kostnader er knyttet til badprosjektet.
 
 - OBOS Prosjekt AS 4.139.143,-
 - Advokatene i OBOS 21.643

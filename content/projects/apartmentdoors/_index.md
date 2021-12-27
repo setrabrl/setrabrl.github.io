@@ -2,7 +2,7 @@
 title: Nye inngangsdører leiligheter
 linktitle: Leilighetsdører
 description: Dette ble vedtatt på generalforsamlingen for 2020 at borettslaget skulle bytte dører på leiligheter og trapperom.
-weight: 2
+weight: 10
 ---
 
 De fleste leilighetene hadde dører fra 1975.
