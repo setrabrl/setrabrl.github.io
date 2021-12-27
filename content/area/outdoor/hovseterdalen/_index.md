@@ -44,8 +44,13 @@ Orrekjempen er den største akebakken i Hovseterdalen og har medium vanskelighet
 
 Kjevebrekkeren går fra skogen på toppen av Hovseterdalen ned den bratteste bakken. Høy vanskelighetsgrad og ender opp i et gjerde hvis man har alt for stor fart.
 
-![Vesthumpen](vesthumpen.jpg "Vesthumpen")
- 
+<figur>
+    <a href="vesthumpen.jpg">
+        <img src="vesthumpens.jpg" alt="Vesthumpen" title="Vesthumpen">
+    </a>
+    <figcaption><h4>Vesthumpen</h4></figcaption>
+</figur>
+
 Vesthumpen er en populær bakke rett ved Vestjordet barnehage. Brukes ofte av de minste barna og de som syns Orrekjempen blir for stor. 
 
 ![Hamborgspinneren](hamborgspinneren.jpg "Hamborgspinneren")
