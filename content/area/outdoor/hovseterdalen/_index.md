@@ -4,6 +4,7 @@ linktitle: Hovseterdalen
 description:  Setra borettslag ligger inntil Hovseterdalen som gir mange muligheter for utfoldelse i det fri både i vinter og sommersesongen.
 weight: 4
 ---
+<!-- markdownlint-disable MD033 -->
 
 Dalen som ofte feilaktig kalles for Mærradalen starter der Mærradalen slutter ved Huseby Skole. [Se kart](https://bym.maps.arcgis.com/apps/webappviewer/index.html?id=ca80e1e44054470084dff1534bbe4aec&marker=10.651128420632718%2C59.950926733015095%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Hovseterdalen%20(turvei%20A3%20%2FA4)%22%2C%22longitude%22%3A10.651128420632718%2C%22latitude%22%3A59.950926733015095%2C%22isIncludeShareUrl%22%3Atrue%7D&level=16)
 
@@ -21,7 +22,15 @@ Det er 7(!) akebakker i Hovseterdalen på vinterstid. Nedenfor finner du beskriv
 
 {{< youtube 3X_o8b6UbMw >}}
 
-![Tuftererenna](tufterenna.jpg "Tuftererenna")
+<br />
+
+<figur>
+    <a href="tufterenna.jpg">
+        <img src="tufterennas.jpg" alt="Tufterenna" title="Tufterenna">
+    </a>
+    <figcaption><h4>Tufterenna</h4></figcaption>
+</figur>
+
 
 Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tufteparken. Dette er en fin nybegynnerbakke for de aller minste barna og hellikopter foreldre.
 
