@@ -5,7 +5,7 @@ description:  Setra Borettslag er et hyggelig borettslag som ligger på Røa/Hov
 weight: 1
 ---
 
-Borettslaget er i et barnevennlig område med mange barnehager og skoler i nærheten. I omenget er det et godt tilbud av dagligvarer, butikker, og forretninger, og det er tilgang til t-bane og buss innen 5 minutters gange.
+Borettslaget er i et barnevennlig område med mange [barnehager](../area/kindergardenschools/kindergarden/) og [skoler](../area/kindergardenschools/schools/) i nærheten. I omenget er det et godt tilbud av [dagligvarer](../area/shoppinganddining/grocery/), [andre butikker](../area/shoppinganddining/shopping/), [resturanter & takeaway](../area/shoppinganddining/dining/), og det er tilgang til [t-bane](../area/transport/subway/) og [buss](../area/transport/bus/) innen 5 minutters gange.
 
 Borettslaget har gjennomgått store moderniseringer de siste årene.
 
