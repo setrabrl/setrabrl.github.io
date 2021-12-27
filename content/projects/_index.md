@@ -35,7 +35,7 @@ Punktene var
 20. Omlegging og etterisolering og takene, 2016, utført som del av fasadeprosjekt 2019-2020
 21. Utskiftning av sluk på tak, 2016, utført om del av fasadeprosjekt 2019-2020
 
-Detaljene om disse tiltakene kan lese i den originale rapporten. Pga av størrelse måtte det deles i 4 dokumenter for å kunne lastes opp på hjemmesiden. 
+Detaljene om disse tiltakene kan lese i den [originale rapporten](tilstandsrapport2011.pdf).
 
 ## Vedtatte tiltak - ikke startet
 
