@@ -26,7 +26,7 @@ Hastigheten er 100Mbit ned og 10Mbit opp. Dette kan økes til opptil 1000Mbit ne
 
 Hvis man øker utover standard vil dette komme som en seperat faktura fra telenor til deg.
 
-| Hastighet | Pris pr mnd |
+| Hastighet ned/opp | Pris pr mnd |
 |--------|------------|
 | 200/20 | 199,- |
 | 350/30 | 289,- |
