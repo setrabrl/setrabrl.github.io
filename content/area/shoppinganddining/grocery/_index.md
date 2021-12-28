@@ -33,7 +33,13 @@ Hovseter frukt og grønt har et godt utvalg av frukt og grønnsaker i tilegg til
 
 [Se facebook side](https://www.facebook.com/hovseterfruktgront/)
 
-## Coop Extra - 450 meter
+## Coop Extra Huseby - 450 meter
+
+Coop Extra Huseby finner du ved Hovseter T-bane stasjon. Her finner du også ditt nærmeste post i butikk kontor.
+
+[Se Facebook side](https://www.facebook.com/extrahuseby)
+
+[Se hjemmeside](https://coop.no/butikker/extra/huseby-4369/)
 
 ## Meny Røa - 800 meter
 
