@@ -25,4 +25,11 @@ weight: 2
     <figcaption><h4>Før og etter</h4></figcaption>
 </figur>
 
+<figur>
+    <a href="before_after_68_backside.jpg">
+        <img src="before_after_68_backsides.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
 {{% children description="true" depth="1" %}}
