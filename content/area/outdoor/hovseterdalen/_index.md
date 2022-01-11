@@ -17,7 +17,7 @@ Dalen som ofte feilaktig kalles for Mærradalen starter der Mærradalen slutter 
 ![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for cornafri trening.")
 
 
-## Oppkjøre skiløyper
+## Oppkjørte skiløyper
 
 Når forholdene ligger til rette for det så kjøres det opp skiløyper i Hovseterdalen. Disse går opp til Bogstad Camping som igjen har løpyer ut til hele marka.
 
@@ -118,5 +118,11 @@ Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærn
 </figur>
 
 Mekle tvillingene er i praksis 2 bakker med relativ lik bakkeprofil som bare er skilt med et lite buskass. Bakken er relativ bratt og krysser gangveien som er et ekstra spenningmoment.
+
+## Skøytebane
+
+På vinteren ordner kommunen skjøytebane ved orrekjempen akebakke. Tenk det. Skøytebane 300 meter fra Setra
+
+{{< youtube QzTfaRGJGZY >}}
 
 {{% children description="true" depth="1" %}}
