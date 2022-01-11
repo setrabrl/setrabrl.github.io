@@ -17,4 +17,10 @@ Ved Bogstadvannet finner man også Bogstad gård med cafe og mulighet for å bes
 
 ![På kalde vintere er det mulighet for å stå på skøyter](DJI_0780.jpg "På kalde vintere er det mulighet for å stå på skøyter")
 
+
+{{< youtube R0-riohAdIg >}}
+
+
+{{< youtube ladNLnv_Uks >}}
+
 {{% children description="true" depth="1" %}}
