@@ -46,7 +46,7 @@ Boksen har uttakt for Type 2 kabel som kobles inn i den. (følger typisk med elb
 
 ## Hvordan bestiller man?
 
-For å bestille ladeboks trenger du å fylle ut dette skjemaet, scanne det og sende på epost til order.no@mer.eco  Prisen er 22.495,-
+For å bestille ladeboks trenger du å fylle ut [dette skjemaet](bestillingskjema.pdf), scanne det og sende på epost til order.no@mer.eco  Prisen er 22.495,-
 
 Mer vil da ordne montering og ladebrikke til deg. Forvent ca 2-4 ukers leveringstid fra man bestiller.
 
