@@ -17,9 +17,10 @@ Det ble også søkt om støtte fra Oslo Kommune for arbeidet med ladeinfrastrukt
 
 Strømmen til elbilladingen går over et abonnement betalt av borettslaget. Denne utgiften må dekkes av de som bruker strøm til elbilladingen. 
 
-Det er borettslagets styre som setter prisen på lading. Prisen settes basert på prinsippet om at borettslaget ikke skal tjene eller tape penger på elbilladingen. Prisen vil derfor settes basert på [gjennomsnittlig strømpris med avgifter](http://www.ssb.no/elkraftpris/), det påslaget som Mer tar for å drifte anlegget og et lite påslag for å dekke vedlikeholdsavtalen borettslaget har for årlig vedlikehold med OneCo
+Det er borettslagets styre som setter prisen på lading. Prisen settes basert på prinsippet om at borettslaget ikke skal tjene eller tape penger på elbilladingen. 
+Prisen vil derfor settes basert på gjennomsnittlig strømpris med avgifter, det påslaget som Mer tar for å drifte anlegget og et lite påslag for å dekke vedlikeholdsavtalen borettslaget har for årlig vedlikehold med OneCo
 
-I første omgang settes prisen til 150øre/kwh. Når styret får mer erfaring med det reelle kostnadsbildet vil dette kunne justeres litt.
+Prisen fra 13.01.2022 er 2kr kWh for lading i garasjen. Dette basert på [reell kostnad til anlegget](chargehistory.png).
 
 I tillegg må hver boenehet inngå avtale med Mer og må betale 39 kr pr måned i tilegg til strømprisen i anlegget. Med avtalen følger det med en ladebrikke for enkel tilgang til egen lader og hele Mers [landsdekkende ladenettverk](https://no.mer.eco/ladekart/) på ca 1500 ladere. Denne avtalen gir også 15% rabatt på hurtigladenettverket til Mer.
 
