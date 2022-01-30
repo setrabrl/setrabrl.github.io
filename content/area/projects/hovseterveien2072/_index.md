@@ -60,7 +60,7 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
 </figur>
 
 <figur>
-    <a href="hv2072_7jpg">
+    <a href="hv2072_7.jpg">
         <img src="hv2072_7s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
     <figcaption><h4>Perspektiv fra under broen mot Hovseterveien 20</h4></figcaption>
