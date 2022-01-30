@@ -51,7 +51,6 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <figcaption><h4>Perspektiv fra litt ovenfor innkjørsel til U3</h4></figcaption>
 </figur>
 
-
 <figur>
     <a href="hv2072_6.jpg">
         <img src="hv2072_6s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
