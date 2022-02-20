@@ -8,15 +8,40 @@ weight: 2
 
 <!-- markdownlint-disable MD033 -->
 
-![Before and after](forskjell_1.jpg "Hovseterveien 64")
+<figur>
+    <a href="forskjell_1.jpg">
+        <img src="forskjell_1s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
 
-![Before and after](forskjell_2.jpg "Hovseterveien 64")
+<figur>
+    <a href="forskjell_2.jpg">
+        <img src="forskjell_2s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
 
-![Before and after](forskjell_3.png "Hovseterveien 64")
+<figur>
+    <a href="forskjell_3.jpg">
+        <img src="forskjell_3s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
 
-![Before and after](forskjell_hjørne.jpg "Hovseterveien 64")
+<figur>
+    <a href="forskjell_hjørne.jpg">
+        <img src="forskjell_hjørnes.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
 
-![Before and after](before_after_82.jpg "Hovseterveien 82")
+<figur>
+    <a href="before_after_82.jpg">
+        <img src="before_after_82s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
 
 <figur>
     <a href="before_after_68_corner.jpg">
@@ -31,5 +56,66 @@ weight: 2
     </a>
     <figcaption><h4>Før og etter</h4></figcaption>
 </figur>
+
+<figur>
+    <a href="before_after_82_rear.jpg">
+        <img src="before_after_82_rears.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="before_after_68_corner_3.jpg">
+        <img src="before_after_68_corner_3s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="before_after_64_front.jpg">
+        <img src="before_after_64_fronts.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+
+<figur>
+    <a href="before_after_68_end.jpg">
+        <img src="before_after_68_ends.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="before_after_68_end_2.jpg">
+        <img src="before_after_68_end_2s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="forskjell_84_front_2.jpg">
+        <img src="forskjell_84_front_2s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="before_after_68_entrance.jpg">
+        <img src="before_after_68_entrances.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+
+<figur>
+    <a href="forskjell_84_front_2.jpg">
+        <img src="forskjell_84_front_2s.jpg" alt="Før og etter" title="Før og etter">
+    </a>
+    <figcaption><h4>Før og etter</h4></figcaption>
+</figur>
+
+
+
 
 {{% children description="true" depth="1" %}}
