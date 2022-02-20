@@ -109,8 +109,8 @@ weight: 2
 
 
 <figur>
-    <a href="forskjell_84_front_2.jpg">
-        <img src="forskjell_84_front_2s.jpg" alt="Før og etter" title="Før og etter">
+    <a href="before_after_68_from_garage.jpg">
+        <img src="before_after_68_from_garages.jpg" alt="Før og etter" title="Før og etter">
     </a>
     <figcaption><h4>Før og etter</h4></figcaption>
 </figur>

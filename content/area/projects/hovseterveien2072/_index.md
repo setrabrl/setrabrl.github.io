@@ -20,6 +20,12 @@ Skolebygget vil få en gangbru mellom nytt bygg i Hovseterveien 72 (inntil Rema 
 
 Slik bygget er prosjektert vil det påvirke utsikten noe til de som bor på østsiden HV68 og delvis HV82/HV84
 
+Se informasjonsvideo fra prosjektet
+
+{{< youtube e5t-3OwOhYc >}}
+
+Besøk også prosjektets [hjemmeside](https://www.oslo.kommune.no/slik-bygger-vi-oslo/hovseter-skole-utvidelse/)
+
 Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for større versjon.
 
 <figur>
