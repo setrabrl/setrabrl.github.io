@@ -49,4 +49,8 @@ Utstyr som følger med er
 
 ![Koblong](kobling_setra_brl.png "Dette kobles slik. (klikk bilde)")
 
+## Oppdatert utstyr
+
+Våren 2022 får borettslaget nye model og Wifi routere til alle leiligheter (som ikke har ny type allerde)
+
 {{% children description="true" depth="1" %}}
