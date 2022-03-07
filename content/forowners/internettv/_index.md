@@ -51,6 +51,16 @@ Utstyr som følger med er
 
 ## Oppdatert utstyr
 
-Våren 2022 får borettslaget nye model og Wifi routere til alle leiligheter (som ikke har ny type allerde)
+Våren 2022 får borettslaget nye model og Wifi routere til alle leiligheter (som ikke har ny type allerde).
+
+Dette skal gi raskere og mer stabilit Internett.
+
+![WifiRouter](wifirouter.jpg "Ny og kraftigere WIFI router")
+
+[Se mer info om router](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-ruter/)
+
+[Koblingsinfo](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-ruter/koble-til/kabel/)
 
 {{% children description="true" depth="1" %}}
+
+![Nytt modem](nyttmodem.jpg "Nytt og bedre modem")
