@@ -48,5 +48,6 @@ Følgende dokumenter kan være relevante i sammenheng med salg av leiligheter.
 [Beskrivelse våtromsrenovering](Beskrivelse_våtromsrenovering.pdf)
 [Ferdigattest HV68](Ferdigattest_bad_HV68.pdf)
 [Gjennomføringsplan HV68](Gjennomfoeringsplan_bad_HV68.pdf)
+[Beboermappe](SansBygg_Beboermappe_bad.pdf)
 
 {{% children description="true" depth="1" %}}
