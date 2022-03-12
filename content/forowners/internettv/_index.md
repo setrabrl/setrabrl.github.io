@@ -5,11 +5,18 @@ description:  Borettslaget har kabel-TV fra Telenor.
 weight: 5
 ---
 
-Inkludert i husleien har hver leilighet kabel-TV og TV fra Telenor.
+Inkludert i husleien har hver leilighet kabel-TV og Internett fra Telenor.
 
 Fra 01.05.2022 vil borettslaget ha [Telenor Frihet](frihet.pdf) avtale som er en revolusjon i forhold til tidligere avtale.
 
 Dette betyr at hver leilighet har 240 poeng de kan bruke fritt hos Telenor slik at man selv kan bestemme om man bare skal ha TV, bare skal ha Internett eller en kombinasjon.
+
+F.eks vil man med 240 poeng kunne sette opp følgende pakker:
+
+- Bredbånd 20 og størst tv-pakke
+- Bredbånd 100 og samme tv-pakke som i dag
+- Bredbånd 200 og liten tv-pakke
+- Bredbånd 350 og ingen tv-pakke
 
 Ekstra poeng kan kjøpes i tilegg. Disse koster 29,- for 20 poeng.
 
@@ -32,6 +39,14 @@ Bruker du bare poeng på Internett får du altså en 350/30 linje inkludert.
 
 ## TV- Kanaler
 
+Telenor tilbyr en rekke kanalpakker og enkeltkanaler man kan velge å bruke poeng på
+
+![Basis](basis.jpg "T-WE Basis")
+
+![Kanalpakker](kanalpakker.jpg "Her finner du både TV-kanaler og strømmeinnhold satt sammen innenfor sjangeren du ønsker")
+
+![Valgfrie](valgfriekanaler.jpg "Valgfrie kanaler 1-3 poeng pr kanal")
+
 ## Strømmetjenester
 
 Du kan også benytte poeng på strømmetjenester slik du slipper å ha eget abonnement på det.
@@ -53,7 +68,7 @@ For øyeblikket er Internet/Kabel-TV fordelt via fordelingsnøkkel som gir følg
 |2-roms 84 | kr 237,- | kr 111,- | kr 348,- |
 |1-roms 82 | kr 151,- | kr 71,- | kr 223,- |
 
-Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra telenor til deg.
+Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor til deg.
 
 ## Utstyr
 
