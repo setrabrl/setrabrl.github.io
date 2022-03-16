@@ -36,4 +36,10 @@ Totalt vil de nye leiligheten gi 777.012,- kr i årlig fellesinntekter til boret
 
 Leilighetene ble bygget av Front Entrepenør med underleverandører og ble ferdigstillt i paralell med fasadeprosjektet. Første leilighet ble lagt ut til salgs 18. september 2020 og siste ble lagt ut for salg 27.05.2021.
 
+## Resultat
+
+Nedenfor ser du foreløpig beregnet resultat av prosjektet. Overskuddet er skattepliktig andelseierne. Det jobbes med å kvalitetsikre alle tallene.
+
+![Resultat](resultat.png)
+
 {{% children description="true" depth="1" %}}
