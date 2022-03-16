@@ -7,7 +7,7 @@ weight: 4
 
 ![Leilighet](075_1990080615.jpg)
 
-Antallet enheter som skulle bygges har variert i løpet av prosessen. Nedenfor viser en oversikt over de 16 boenhetene som ble etablert. Klikk på lenker på leilighetsnr for Finn annonse og flere bilder.
+Antallet enheter som skulle bygges har variert i løpet av prosessen. Nedenfor viser en oversikt over de 16 boenhetene som ble etablert. Klikk på lenker på leilighetsnr for Finn annonse og flere bilder. Grå linjer er i kostnader kun knyttet til tidligere feilet prosjekt. Noen linjer er kombinasjon mellom nytt og gammelt prosjekt. (f.eks OBOS prosjektledelse)
 
 |Leilighetsnr|Bygg|Størrelse|Antall rom|Prisantydning|Status
 |----------|-----|--------|-------|--------|--------|
