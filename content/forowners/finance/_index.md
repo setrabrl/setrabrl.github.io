@@ -23,17 +23,17 @@ Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fo
 
 ### Felleskostnadene har steget en god del i 2017-2018. Når vil de bli satt ned igjen til tidligere nivå?
 
-Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år. Dette betyr at man kan ikke forvente at husleien vil gå ned igjen. Innen 30 år er det sikkert behov for andre prosjekt som krever nye lån. I løpet av 2021 vil det bli gjort en vurdering for behov for justeringer. Siste justering ble effektiv januar 2019. Siden den gang har ingen beboere fått endret hva som må innbetales.
+Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år. Dette betyr at man kan ikke forvente at husleien vil gå ned igjen. Innen 30 år er det sikkert behov for andre prosjekt som krever nye lån. I løpet av 2022 vil det bli gjort en vurdering for behov for justeringer. Siste justering ble effektiv januar 2019. Siden den gang har ingen beboere fått endret hva som må innbetales.
 
 ## Hva dekker fellesgjelden
 
 Borettslaget har forskjellige lån tatt opp til forskjellige behov over tid. Eksempler på lån som er tatt opp nylig er rør og våtromsprosjektet, kjøp av garasje og fasadeprosjekt.
 
-Lånene er totalt på 166 146 660,- (26.12.2021)
+Lånene er totalt på 164 976 786,- (18.03.2021)
 
 ### OBBK02
 
-- Saldo: 28 750 872,00
+- Saldo: 28 472 637,00
 - Månedlig terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
@@ -47,14 +47,14 @@ Lån til bad og våtroms rehabilitering.
 
 ### OBOS08
 
-- Saldo: 74 997 471,00
+- Saldo: 74 481 300,00
 - Månedlig terminer til april 2059
 
 Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
 
 ### OBOS09
 
-- Saldo: 6 478 348
+- Saldo: 6 396 834
 - Månedlig terminer til april 2039
 
 Lån til tidligere vedlikehold.
