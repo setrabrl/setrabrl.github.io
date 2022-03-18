@@ -16,6 +16,39 @@ Dalen som ofte feilaktig kalles for Mærradalen starter der Mærradalen slutter 
 
 ![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for cornafri trening.")
 
+
+## Oppkjørte skiløyper
+
+Når forholdene ligger til rette for det så kjøres det opp skiløyper i Hovseterdalen. Disse går opp til Bogstad Camping som igjen har løpyer ut til hele marka.
+
+<figur>
+    <a href="ski1.jpg">
+        <img src="ski1s.jpg" alt="Skispor i Hovseterdalen" title="Skispor i Hovseterdalen">
+    </a>
+    <figcaption><h4>Skispor i Hovseterdalen</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="ski2.jpg">
+        <img src="ski2s.jpg" alt="Skispor i Hovseterdalen" title="Skispor i Hovseterdalen">
+    </a>
+    <figcaption><h4>Skispor i Hovseterdalen</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="ski3.jpg">
+        <img src="ski3s.jpg" alt="Skispor i Hovseterdalen" title="Skispor i Hovseterdalen">
+    </a>
+    <figcaption><h4>Skispor i Hovseterdalen</h4></figcaption>
+</figur>
+
+<figur>
+    <a href="ski4.jpg">
+        <img src="ski4s.jpg" alt="Skispor i Hovseterdalen" title="Skispor i Hovseterdalen">
+    </a>
+    <figcaption><h4>Skispor i Hovseterdalen</h4></figcaption>
+</figur>
+
 ## Akebakker i Hovseteredalen
 
 Det er 7(!) akebakker i Hovseterdalen på vinterstid. Nedenfor finner du beskrivelse av dem. Se dronevideo med akemuligheter i Hovseterdalen.
@@ -85,5 +118,11 @@ Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærn
 </figur>
 
 Mekle tvillingene er i praksis 2 bakker med relativ lik bakkeprofil som bare er skilt med et lite buskass. Bakken er relativ bratt og krysser gangveien som er et ekstra spenningmoment.
+
+## Skøytebane
+
+På vinteren ordner kommunen skjøytebane ved orrekjempen akebakke. Tenk det. Skøytebane 300 meter fra Setra
+
+{{< youtube QzTfaRGJGZY >}}
 
 {{% children description="true" depth="1" %}}

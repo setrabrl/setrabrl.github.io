@@ -29,12 +29,6 @@ Sushi Huset Røa er en spennende sushibar og asiatisk kjøkken
 
 [Sjekk meny](https://www.sushihuset.com/)
 
-## Burger og Döner
-
-Burger og Döner er en nystartet take-away plass.
-
-Sjekk meny
-
 ## The Smoothie Factory
 
 Lyst på en fantastisk smoothie? Prøv Smoothie Factory på Røa Torg
