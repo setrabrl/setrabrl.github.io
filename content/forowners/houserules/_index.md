@@ -120,11 +120,11 @@ Dersom beboer ikke er til stede på den årlige kontrollen som gjennomføres i b
 
 Dyr kan kun anskaffes etter godkjenning av styret og under forutsetning av undertegnelse av “Erklæring om dyrehold i Setra borettslag”. Alle hunder og katter skal føres i bånd innenfor borettslagets område. Dette gjelder også inne i oppganger. Det forutsettes at enhver hundeeier er kjent med politivedtektene angående hundehold og straffebestemmelser ovenfor hundeeiere hvis hund går løs i tidene hvor det er båndtvang.
 
-Dyreeier er selv ansvarlig og erstatningspliktig for enhver skade som dennes dyr måtte påføre Setra Borettslag eller beboere i borettslaget. Dette gjelder skader som for eksempel skraping på dører, karmer eller biler, skade på planter eller grøntanlegg m.m. 
+Dyreeier er selv ansvarlig og erstatningspliktig for enhver skade som dennes dyr måtte påføre Setra Borettslag eller beboere i borettslaget. Dette gjelder skader som for eksempel skraping på dører, karmer eller biler, skade på planter eller grøntanlegg m.m.
 
 Eier av dyr er forpliktet til omgående å fjerne eventuelle etterlatenskaper som ekskrementer, hårdotter og lignende i trappeoppganger og ellers på borettslagets område. Dersom det kommer berettigede klager fra beboere over lukt, bråk eller at dyreholdet på annen måte sjenerer naboer, kan dyreeier bli pålagt å fjerne dyret fra leiligheten. Det er kun lov å holde ett dyr i hver leilighet. 
 
-Søknadsskjema for dyrehold finner du her. Last ned, fyll ut og send til styret med underskrift. 
+Søknadsskjema for dyrehold finner du [her](SkjemaDyrehold.docx). Last ned, fyll ut og send til styret med underskrift.
 
 ### 4.2 Balkong
 
