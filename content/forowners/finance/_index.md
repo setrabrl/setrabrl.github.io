@@ -19,7 +19,9 @@ Felleskostnadene fordeles basert på fordelingsnøkkelen til hver leilighet. Ned
 
 Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fordelingsnøkkelen. 
 
-![Felleskostnader](felleskostnader2020.png "Felleskostnader Klikk for stor versjon")
+![Felleskostnader](felleskostnader2021.png "Felleskostnader 2021 Klikk for stor versjon")
+
+![Felleskostnader](felleskostnader2020.png "Felleskostnader 2020 Klikk for stor versjon")
 
 ### Felleskostnadene har steget en god del i 2017-2018. Når vil de bli satt ned igjen til tidligere nivå?
 
