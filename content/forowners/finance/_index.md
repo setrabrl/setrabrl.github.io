@@ -15,9 +15,9 @@ Foran hver generalforsamling så legges det frem detaljert regnskap for året f�
 
 ### Hvordan fordeles felleskostandene?
 
-Felleskostnadene fordeles basert på fordelingsnøkkelen til hver leilighet. Nedenfor vises en tabell for regnskapet for 2020 som viser de største kostnadene som ikke dekkes av nye lån.  (Altså ikke fasade og vvs prosjektene).
+Felleskostnadene fordeles basert på fordelingsnøkkelen til hver leilighet. Nedenfor vises en tabeller for regnskapet for 2021 og 2020 som viser de største kostnadene som ikke dekkes av nye lån.  (Altså ikke fasade og vvs prosjektene).
 
-Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fordelingsnøkkelen. 
+Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fordelingsnøkkelen.
 
 ![Felleskostnader](felleskostnader2021.png "Felleskostnader 2021 Klikk for stor versjon")
 
@@ -31,32 +31,32 @@ Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år.
 
 Borettslaget har forskjellige lån tatt opp til forskjellige behov over tid. Eksempler på lån som er tatt opp nylig er rør og våtromsprosjektet, kjøp av garasje og fasadeprosjekt.
 
-Lånene er totalt på 164 976 786,- (18.03.2021)
+Lånene er totalt på 164 200 179,- (05.05.2022)
 
 ### OBBK02
 
-- Saldo: 28 472 637,00
+- Saldo: 28 287 147,00
 - Månedlig terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
 
 ### OBBK04
 
-- Saldo: 55 919 969,00
+- Saldo: 55 190 485,00
 - Månedlig terminer til november 2047
 
 Lån til bad og våtroms rehabilitering.
 
 ### OBOS08
 
-- Saldo: 74 481 300,00
+- Saldo: 74 379 858,00
 - Månedlig terminer til april 2059
 
 Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
 
 ### OBOS09
 
-- Saldo: 6 396 834
+- Saldo: 6 342 689
 - Månedlig terminer til april 2039
 
 Lån til tidligere vedlikehold.
@@ -65,11 +65,11 @@ Lån til tidligere vedlikehold.
 
 Fordelingen av fellesgjelden avhenger av hva gjelden er tatt opp for. Noe av fellesgjelden fordeles jevnt på leilighetene, mens annen gjeld fordeles i henhold til fordelingsnøkkelen.
 
-F.eks fordeles gjelden på garasjen likt på alle leiligheter med garasjeplass i Hovseterveien 70, mens gjelden på Fasadeoppussingen vil fordeles ved hjelp av fordelingsnøkkelen. 
+F.eks fordeles gjelden på garasjen likt på alle leiligheter med garasjeplass i Hovseterveien 70, mens gjelden på Fasadeoppussingen vil fordeles ved hjelp av fordelingsnøkkelen.
 
 ### Hva er fordelingsnøkkelen?
 
-Fordelingsnøkkelen er en nøkkel som hver leilighet har og som ble definert i det borettslaget ble opprettet. Den sier noe om hvor stor andel av fellesgjeld man står til ansvar for. 
+Fordelingsnøkkelen er en nøkkel som hver leilighet har og som ble definert i det borettslaget ble opprettet. Den sier noe om hvor stor andel av fellesgjeld man står til ansvar for.
 
 ### Hvordan ble fordelingsnøkkelen min definert?
 
