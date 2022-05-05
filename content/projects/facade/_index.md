@@ -28,6 +28,19 @@ Valgt entreprenør ble [Front Entrepenør](https://frontent.no/) som har lang er
 
 [Obos Prosjekt AS](https://nye.obos.no/bedrift/prosjektledelse/) ble leid inn for å ha prosjekt- og byggeledelse med prosjektet. Deres oppgave var å følge opp entreprenør og sikre at arbeidet ble gjennomført korrekt og i henhold til avtaler.
 
+## Kostnader
+
+Følgende kostnader er knyttet til prosjektet som helhelt
+
+- Enerhaugen Arkitektkontor AS 934.440,-
+- Firefly AS, brannteknisk kontroll/vurdering 15.375,-
+- Tek-Norge AS 21.000.-
+- OBOS Prosjekt AS 2.983.608.-
+- Front Entreprenør AS 78.981.771,-
+- Oslo Kommune, førstegangsvedtak 93.120.-
+- Tilskudd fra Oslo Kommune -498.375.-
+- SUM KOSTNADER 82.530.939,-
+ 
 ## Detaljert beskrivelse av arbeidet
 
 For å unngå at denne artikkelen blir svært lang er det laget egne artikkler for hvert enkelt område i prosjektet.Klikk på lenkene under
