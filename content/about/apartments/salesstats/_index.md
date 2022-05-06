@@ -5,9 +5,11 @@ description:  Her finner du salgsstatistikk for Setra borettslag
 weight: 3
 ---
 
-Grafen og tabellen nedenfor viser den gjennomsnittlige prisen ink fellesgjeld for salg av leiligheter fra 2007 - 2020 for Setra Borettslag og for OBOS leiligheter generelt.  
+Grafen og tabellen nedenfor viser den gjennomsnittlige prisen ink fellesgjeld for salg av leiligheter fra 2007 - 2021 for Setra Borettslag og for OBOS leiligheter generelt.  
 
-De siste årene har Setra investert mye for å løfte standarden med både fasadeprosjekt og våtromsprosjekt.  Dette har ført til en utvikling som har vært en del bedre en den gjennomsnittlige prisutviklingen til OBOS leiligheter. Graf og tabell viser hvordan vi i de siste årene har tatt igjen forspranget. 
+De siste årene har Setra investert mye for å løfte standarden med både fasadeprosjekt og våtromsprosjekt.  Dette har ført til en utvikling som har vært en del bedre en den gjennomsnittlige prisutviklingen til OBOS leiligheter. 
+
+Graf og tabell viser hvordan vi i de siste årene har tatt igjen forspranget.
 
 ![Gjennomsnitpris](gjennomsnittpris3.jpg "Gjennomsnittpris")
 
