@@ -33,13 +33,13 @@ For detaljer om arbeidet som ble gjort klikk på seksjonene under
 
 Følgende kostnader er knyttet til badprosjektet.
 
-- OBOS Prosjekt AS 4.139.143,-
+- OBOS Prosjekt AS 4.184.995,-
 - Advokatene i OBOS 21.643
-- Olimb rørfornying: 2.340.874,-
+- Olimb rørfornying: 2.419.812,-
 - Sans Bygg AS 54.852.617,-
 - Oslo Kommune 85.140,-
 - Andre kostnader 33 389,-
-- Totalt 61.703.481,-
+- Totalt 61.828.270,-
 
 ## Dokumenter
 

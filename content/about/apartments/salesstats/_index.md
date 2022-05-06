@@ -13,6 +13,6 @@ De siste årene har Setra investert mye for å løfte standarden med både fasad
 
 ![Salstatisitkk](salgstatistikktabell.png "Salgstatistikk")
  
-Gitt denne prisen er totalsummen på de 17082 m2 leilighetene i Setra består i verdt  kr 1 154 137 959,95 Dette en oppgang fra  kr 484 903 386,23 i 2007
+Gitt denne prisen er totalsummen på de 17082 m2 leilighetene i Setra består i verdt kr 1 263 354 716,66  Dette en oppgang fra  kr 484 903 386,23 i 2007
 
 {{% children description="true" depth="1" %}}
