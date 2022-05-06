@@ -31,8 +31,8 @@ weight: 2
 - [2-roms andel 186](https://www.finn.no/realestate/homes/ad.html?finnkode=250764234) 
 - [2-roms andel 190](https://www.finn.no/realestate/homes/ad.html?finnkode=196673443) - 07.01.2021 (3.600.000,-)
 - [3-roms andel 193](https://www.finn.no/realestate/homes/ad.html?finnkode=207442725) - 27.07.2021 (4.400.000,-)
-- [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=204577155) - 15.02.2021 (3.300.000,-)
-- [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=210194930) - 11.05.2021 (4.000.000,-)
+- [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=204577155) - 15.02.2021 (3.300.000,-) Oppussingsobjekt
+- [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=210194930) - 11.05.2021 (4.000.000,-) Pusset opp
 - [2-roms andel 196](https://www.finn.no/realestate/homes/ad.html?finnkode=192462489) - 13.11.2020 (2.850.000,-)
 - [2-roms andel 199](https://www.finn.no/realestate/homes/ad.html?finnkode=246629957) - 03.03.2022 (3.400.000,-) Oppussingsobjekt
 - [2-roms andel 199](https://www.finn.no/realestate/homes/ad.html?finnkode=256270442) - Pusset opp
