@@ -41,7 +41,7 @@ weight: 2
 - [3-roms andel 222](https://www.finn.no/realestate/homes/ad.html?finnkode=258312661) -
 - [3-roms andel 223](https://www.finn.no/realestate/homes/ad.html?finnkode=206173141) - 05.03.2021 (4.515.000,-)
 - [2-roms andel 226](https://www.finn.no/realestate/homes/ad.html?finnkode=218639954) - 06.06.2021 (3.650.000,-)
-- [2-roms andel 229](https://www.finn.no/realestate/homes/ad.html?finnkode=250556072) -
+- [2-roms andel 229](https://www.finn.no/realestate/homes/ad.html?finnkode=250556072) - 11.04.2022 (3.300.000,-) Oppussingsobjekt
 - [3-roms andel 227](https://www.finn.no/realestate/homes/ad.html?finnkode=161037129) - 05.12.2019 (3.350.000,-)
 - [1-roms andel 272](https://www.finn.no/realestate/homes/ad.html?finnkode=210880570) - 21.06.2021 (2.990.000,-)
 - [1-roms andel 273](https://www.finn.no/realestate/homes/ad.html?finnkode=214159932) - 18.05.2021 (2.990.000,-)
