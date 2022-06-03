@@ -55,16 +55,18 @@ Du kan også benytte poeng på strømmetjenester slik du slipper å ha eget abon
 
 ## Kostnader
 
-Fra 01.08.2022 vil Internett/TV kostnadene skilles ut som en egen linje på faktura. 
+Fra 01.08.2022 vil Internett/TV kostnadene skilles ut som en egen linje på faktura.
 Fra denne dato vil enhetene ble belastet den kostnaden som borettslaget blir belastet for enheten.
 
 Tidligere har kostnaden vært fordelt med fordelingsnøkkelen. Dette betyr kostnaden på Internett/TV ble fordelt ujevnt basert på fordelingsnøkkelen. De minste leilighetene ble i praksis sponset av de største.
 
 Kostnaden er 399,- pr mnd.  
 
-De største leilighetene vil fra denne perioden få litt redusert husleie (50-100kr) og de minst vil få noe økt samlet kostnaded. (ca 50-150)
+De største leilighetene vil fra denne perioden få litt redusert husleie (50-100kr) og de minst vil få noe økt samlet kostnaded. (ca 50-150)(flestparten rundt 50,-)
 
 Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor til deg.
+
+Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompensert fra arbeidsgiver for de som får dekket Internett. 
 
 ## Utstyr
 
