@@ -7,7 +7,7 @@ weight: 5
 
 Inkludert i husleien har hver leilighet kabel-TV og Internett fra Telenor.
 
-Fra 01.05.2022 vil borettslaget ha [Telenor Frihet](frihet.pdf) avtale som er en revolusjon i forhold til tidligere avtale.
+Fra 10.06.2022 vil borettslaget ha [Telenor Frihet M](https://www.telenor.no/privat/tv/poengsystem/frihet-m/?cid=11391_fix_sny_awa_all_aup_nul_frihet_m) avtale som er en revolusjon i forhold til tidligere avtale.
 
 Dette betyr at hver leilighet har 240 poeng de kan bruke fritt hos Telenor slik at man selv kan bestemme om man bare skal ha TV, bare skal ha Internett eller en kombinasjon.
 
@@ -55,18 +55,14 @@ Du kan også benytte poeng på strømmetjenester slik du slipper å ha eget abon
 
 ## Kostnader
 
-Prisen for TV/Internett er innbakt i felleskostnaden og vises ikke som egen linje.
+Fra 01.08.2022 vil Internett/TV kostnadene skilles ut som en egen linje på faktura. 
+Fra denne dato vil enhetene ble belastet den kostnaden som borettslaget blir belastet for enheten.
 
-For øyeblikket er Internet/Kabel-TV fordelt via fordelingsnøkkel som gir følgende ca priser for de forskjellige leilighetstypene
+Tidligere har kostnaden vært fordelt med fordelingsnøkkelen. Dette betyr kostnaden på Internett/TV ble fordelt ujevnt basert på fordelingsnøkkelen. De minste leilighetene ble i praksis sponset av de største.
 
-|    | Kabel-TV | Internett | Totalt |
-|----|------|------|------|------|
-|4-roms lavblokk | kr 329,- | kr 154,- | kr 483,- |
-|3-roms lavblokk | kr 296,- | kr 139,- | kr 435,- |
-|3-roms 68 | kr 313,- | kr 154,- | kr 483,- |
-|2-roms 68 | kr 276,- | kr 129,- | kr 405,- |
-|2-roms 84 | kr 237,- | kr 111,- | kr 348,- |
-|1-roms 82 | kr 151,- | kr 71,- | kr 223,- |
+Kostnaden er 399,- pr mnd.  
+
+De største leilighetene vil fra denne perioden få litt redusert husleie (50-100kr) og de minst vil få noe økt samlet kostnaded. (ca 50-150)
 
 Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor til deg.
 
