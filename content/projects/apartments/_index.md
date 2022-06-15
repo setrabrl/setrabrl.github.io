@@ -40,6 +40,14 @@ Leilighetene ble bygget av Front Entrepenør med underleverandører og ble ferdi
 
 Nedenfor ser du foreløpig beregnet resultat av prosjektet. Overskuddet er skattepliktig andelseierne. Det jobbes med å kvalitetssikre alle tallene.
 
-![Resultat](resultat.png)
+## Reklamasjoner
+
+Ved reklamasjoner på ny leilighet kan dette i utgangspunktet tas med Front Entrepenør som er bygget leilighetene. 
+E-post eirik@frontent.no
+
+Sett gjerne setra@styrerommet.no på kopi
+
+
+
 
 {{% children description="true" depth="1" %}}
