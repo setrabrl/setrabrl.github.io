@@ -42,4 +42,14 @@ Nedenfor ser du foreløpig beregnet resultat av prosjektet. Overskuddet er skatt
 
 ![Resultat](resultat.png)
 
+## Reklamasjoner
+
+Ved reklamasjoner på ny leilighet kan dette i utgangspunktet tas med Front Entrepenør som har bygget leilighetene. 
+E-post eirik@frontent.no
+
+Sett gjerne setra@styrerommet.no på kopi
+
+
+
+
 {{% children description="true" depth="1" %}}
