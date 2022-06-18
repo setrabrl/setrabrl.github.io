@@ -17,6 +17,11 @@ Dalen som ofte feilaktig kalles for Mærradalen starter der Mærradalen slutter 
 ![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for cornafri trening.")
 
 
+Nedenfor ser du en dronetur fra Setra, ned til Sørkedalsveien og opp til Bogstad. 
+
+{{< youtube e0PRIakZ3U4 >}}
+
+
 ## Oppkjørte skiløyper
 
 Når forholdene ligger til rette for det så kjøres det opp skiløyper i Hovseterdalen. Disse går opp til Bogstad Camping som igjen har løpyer ut til hele marka.
