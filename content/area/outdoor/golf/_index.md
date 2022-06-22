@@ -10,6 +10,14 @@ Banen ble nylig totalrenovert for 60 millioner kroner og fremstår i dag som et 
 
 Banen tilbyr 18 hull med forskjellig vanskelighetsgrad.
 
+<figur>
+    <a href="golf1.jpg">
+        <img src="golf1s.jpg" alt="Bogstad golfbane" title="Bogstad golfbane">
+    </a>
+    <figcaption><h4>Bogstad golfbane</h4></figcaption>
+</figur>
+
+
 Se video av det fantastiske anlegget. Kun 10 minutter gange fra Setra gjennom Hovseterdalen.
 
 {{< youtube qbBG_d8_kvc >}}
