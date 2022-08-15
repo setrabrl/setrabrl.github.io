@@ -54,9 +54,9 @@ Disse vil monteres ytterst på balkong\tak over med en vinkel på 45 grader som 
 
 ![Markise](markise2020_2.png)
 
-![Markise](markise2020_3.png)
+![Markise](markise2020_3.jpg)
 
-![Markise](markise2020_4.png)
+![Markise](markise2020_4.jpg)
 
 ## Fjernkontroll
 
