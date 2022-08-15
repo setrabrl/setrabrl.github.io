@@ -50,7 +50,7 @@ For markiser med motor vil det komme elektrikerkostnad i tilegg. Dette vil varie
 
 ## Montering
 
-Disse vil monteres ytterst på balkong\tak over med en vinkel på 45 grader som bildet under viser. Dette gir god mulighet for solskjerming selv med lav kveldssol. 
+Disse vil monteres ytterst på balkong\tak over med en vinkel på 45 grader som bildet under viser. Dette gir god mulighet for solskjerming selv med lav kveldssol. Det er ikke tillatt med andre vinkler på markisen.
 
 ![Markise](markise2020_2.png)
 
