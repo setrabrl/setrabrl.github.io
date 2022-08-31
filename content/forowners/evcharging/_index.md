@@ -20,7 +20,7 @@ Strømmen til elbilladingen går over et abonnement betalt av borettslaget. Denn
 Det er borettslagets styre som setter prisen på lading. Prisen settes basert på prinsippet om at borettslaget ikke skal tjene eller tape penger på elbilladingen. 
 Prisen vil derfor settes basert på gjennomsnittlig strømpris med avgifter, det påslaget som Mer tar for å drifte anlegget og et lite påslag for å dekke vedlikeholdsavtalen borettslaget har for årlig vedlikehold med OneCo
 
-Prisen fra 13.01.2022 er 2kr kWh for lading i garasjen. Dette basert på [reell kostnad til anlegget](chargehistory.png).
+Prisen fra 31.08.2022 er kr 2.50,- pr kWh for lading i garasjen. Dette basert på [reell kostnad til anlegget](chargehistory.png).
 
 I tillegg må hver boenehet inngå avtale med Mer og må betale 39 kr pr måned i tilegg til strømprisen i anlegget. Med avtalen følger det med en ladebrikke for enkel tilgang til egen lader og hele Mers [landsdekkende ladenettverk](https://no.mer.eco/ladekart/) på ca 1500 ladere. Denne avtalen gir også 15% rabatt på hurtigladenettverket til Mer.
 
@@ -59,7 +59,7 @@ Les Mer generelle informasjon.
 
 **Spørsmål:** Hva vil det koste å få elbillader på parkeringsplassen 
 
-**Svar:**  Prisen er 22.495,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 150øre/kWh)
+**Svar:**  Prisen er 22.495,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 250øre/kWh)
 
 **Spørsmål:**  Hvordan blir strømforbruket betalt:
 
@@ -105,7 +105,7 @@ Arbeidene må utføres av en elektriker, og endringer i anlegget må dokumentere
 
 **Spørsmål:** Hva vil det koste å fylle full tank? Hva vil kostnaden være per mil og hvor lønnsomt er dette i forhold til en vanlig dieselbil.
 
-**Svar:** Dette vil avhenge av strømprisen. Hvis man tar utgangspunkt i en strømpris på 1.50,- pr KWH inkludert nettleie vil det koste 135,- å fylle opp en Audi e-tron. (Det går noe energi vekk i ladeprosessen slik at man bruker mer enn batteriet lader). Dette vil gi en kostnad på energi på ca 3,75 pr mil med et forbruk på 250WH/km . (For en dieselbil med 0,6mil på mila og Dieselpris på 14 kroner er det 8,40,- kr pr mil.  Ved 15000 km årlig kjørelengde vil det med samme tall være 5625,- i årlig drivstoffskostnad for elbil vs 12600,- for dieselbil.
+**Svar:** Dette vil avhenge av strømprisen. Hvis man tar utgangspunkt i en strømpris på 2.50,- pr KWH inkludert nettleie vil det koste ca 220,- å fylle opp en Audi e-tron. (Det går noe energi vekk i ladeprosessen slik at man bruker mer enn batteriet lader). Dette vil gi en kostnad på energi på ca 6.25 pr mil med et forbruk på 250WH/km . (For en dieselbil med 0,6mil på mila og Dieselpris på 14 kroner er det 8,40,- kr pr mil.  Ved 15000 km årlig kjørelengde vil det med samme tall være 5625,- i årlig drivstoffskostnad for elbil vs 12600,- for dieselbil.
 
 **Spørsmål:** Hvem setter strømprisen?
 
