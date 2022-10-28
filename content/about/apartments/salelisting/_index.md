@@ -22,6 +22,7 @@ weight: 2
 - [3-roms andel 46](https://www.finn.no/realestate/homes/ad.html?finnkode=156200887) - 11.11.2019 - (3.600.000,-)
 - [3(4)-roms andel 77](https://www.finn.no/realestate/homes/ad.html?finnkode=191204190) - 14.12.2020 (4.200.000,-)
 - [4-roms andel 105](https://www.finn.no/realestate/homes/ad.html?finnkode=213494558) - 14.06.2021 (5.300.000,-)
+- [1-roms andel 260](https://www.finn.no/realestate/homes/ad.html?finnkode=10936778) - 07.12.2007 (1.220.000,-)
 
 ## Hovseterveien 68
 
