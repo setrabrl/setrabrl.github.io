@@ -1,13 +1,15 @@
 ---
 title: Finnannonser Hovseterveien
 linktitle: Salgsannonser
-description:  Her finner du lenker til tidligere leilighetsannonser på Finn
+description:  Her finner du lenker til tidligere leilighetsannonser på Finn fra Hovseterveien
 weight: 2
 hidden: true
 ---
 
+M = Meklenborg Borettslag 
+S = Setra Borettslag (64,66,68,82,84)
+K = Kollektivet Borettslag
 
-Start run: 8000000 29.10.2022 10:19:44
 
 https://www.finn.no/realestate/homes/ad.html?finnkode=7076446 M56A
 https://www.finn.no/realestate/homes/ad.html?finnkode=7095418 S84
@@ -22,14 +24,14 @@ https://www.finn.no/realestate/homes/ad.html?finnkode=7204843 M42B
 https://www.finn.no/realestate/homes/ad.html?finnkode=7207491 M48A
 https://www.finn.no/realestate/homes/ad.html?finnkode=7207565 M44A
 https://www.finn.no/realestate/homes/ad.html?finnkode=7256865 M36A
-https://www.finn.no/realestate/homes/ad.html?finnkode=7257362
-https://www.finn.no/realestate/homes/ad.html?finnkode=7309415
-https://www.finn.no/realestate/homes/ad.html?finnkode=7310468
-https://www.finn.no/realestate/homes/ad.html?finnkode=7313790
-https://www.finn.no/realestate/homes/ad.html?finnkode=7342343
-https://www.finn.no/realestate/homes/ad.html?finnkode=7387432
-https://www.finn.no/realestate/homes/ad.html?finnkode=7390070
-https://www.finn.no/realestate/homes/ad.html?finnkode=7502820
+https://www.finn.no/realestate/homes/ad.html?finnkode=7257362 M56C
+https://www.finn.no/realestate/homes/ad.html?finnkode=7309415 S68B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7310468 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=7313790 M56C
+https://www.finn.no/realestate/homes/ad.html?finnkode=7342343 M54B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7387432 M54B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7390070 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=7502820 M54B
 https://www.finn.no/realestate/homes/ad.html?finnkode=7510510
 https://www.finn.no/realestate/homes/ad.html?finnkode=7552253
 https://www.finn.no/realestate/homes/ad.html?finnkode=7623727
