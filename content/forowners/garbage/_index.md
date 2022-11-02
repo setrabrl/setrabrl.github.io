@@ -15,6 +15,7 @@ Papp og papir kastes i papircontainer.
 
 Det vil varsles på forhånd med oppslag på ytterdørene noen dager før containerne plasseres ut.
 
-Vanligvis har man container i januar, etter mai og en gang på høsten. Disse plasseres typisk ved strømtrafo mellom 68 og 66.
+Vanligvis har man container i januar, rundt dugnad april/mai og ca midten av oktober.  Disse plasseres typisk ved strømtrafo mellom 68 og 66.
+
 
 {{% children description="true" depth="1" %}}

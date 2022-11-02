@@ -40,6 +40,11 @@ Følgende kostnader er knyttet til prosjektet som helhelt
 - Oslo Kommune, førstegangsvedtak 93.120.-
 - Tilskudd fra Oslo Kommune -498.375.-
 - SUM KOSTNADER 82.530.939,-
+
+## Reklamasjoner
+Ved reklamasjoner kan dette i utgangspunktet tas med Front Entrepenør som var hovedleverandør. E-post eirik@frontent.no
+
+Sett gjerne setra@styrerommet.no på kopi
  
 ## Detaljert beskrivelse av arbeidet
 
