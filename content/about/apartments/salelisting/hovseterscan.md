@@ -1,5 +1,49 @@
+---
+title: Finnannonser Hovseterveien
+linktitle: Salgsannonser
+description:  Her finner du lenker til tidligere leilighetsannonser på Finn
+weight: 2
+hidden: true
+---
+
 
 Start run: 8000000 29.10.2022 10:19:44
+
+https://www.finn.no/realestate/homes/ad.html?finnkode=7076446 M56A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7095418 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=7107043 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=7119680 S64A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7121749 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=7157462 M34B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7170889 M36B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7204473 M50A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7204834 S64A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7204843 M42B
+https://www.finn.no/realestate/homes/ad.html?finnkode=7207491 M48A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7207565 M44A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7256865 M36A
+https://www.finn.no/realestate/homes/ad.html?finnkode=7257362
+https://www.finn.no/realestate/homes/ad.html?finnkode=7309415
+https://www.finn.no/realestate/homes/ad.html?finnkode=7310468
+https://www.finn.no/realestate/homes/ad.html?finnkode=7313790
+https://www.finn.no/realestate/homes/ad.html?finnkode=7342343
+https://www.finn.no/realestate/homes/ad.html?finnkode=7387432
+https://www.finn.no/realestate/homes/ad.html?finnkode=7390070
+https://www.finn.no/realestate/homes/ad.html?finnkode=7502820
+https://www.finn.no/realestate/homes/ad.html?finnkode=7510510
+https://www.finn.no/realestate/homes/ad.html?finnkode=7552253
+https://www.finn.no/realestate/homes/ad.html?finnkode=7623727
+https://www.finn.no/realestate/homes/ad.html?finnkode=7647440
+https://www.finn.no/realestate/homes/ad.html?finnkode=7677195
+https://www.finn.no/realestate/homes/ad.html?finnkode=7705306
+https://www.finn.no/realestate/homes/ad.html?finnkode=7747242
+https://www.finn.no/realestate/homes/ad.html?finnkode=7774012
+https://www.finn.no/realestate/homes/ad.html?finnkode=7785819
+https://www.finn.no/realestate/homes/ad.html?finnkode=7786223
+https://www.finn.no/realestate/homes/ad.html?finnkode=7846647
+https://www.finn.no/realestate/homes/ad.html?finnkode=7869715
+
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=8062942
 https://www.finn.no/realestate/homes/ad.html?finnkode=8092506
 https://www.finn.no/realestate/homes/ad.html?finnkode=8099354
