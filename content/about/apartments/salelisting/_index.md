@@ -131,3 +131,5 @@ weight: 2
 [Magisk link](https://www.finn.no/realestate/ownershiphistory.html?finnkode=256270442)
 
 [Magisk link 84](https://www.finn.no/realestate/ownershiphistory.html?finnkode=9760177)
+
+[Magisk link 64](https://www.finn.no/realestate/ownershiphistory.html?finnkode=12120233)
