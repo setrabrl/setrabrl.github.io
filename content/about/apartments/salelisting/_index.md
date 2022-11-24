@@ -235,3 +235,5 @@ weight: 2
 [Magisk link](https://www.finn.no/realestate/ownershiphistory.html?finnkode=81856315)
 
 https://www.finn.no/realestate/ownershiphistory.html?finnkode=150010850
+
+[Full scan](hovseterscan.md)
