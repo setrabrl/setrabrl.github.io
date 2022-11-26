@@ -236,4 +236,4 @@ weight: 2
 
 https://www.finn.no/realestate/ownershiphistory.html?finnkode=150010850
 
-[Full scan](hovseterscan.md)
+[Full scan](hovseterscan)
