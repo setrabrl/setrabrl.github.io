@@ -70,7 +70,7 @@ Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompe
 
 For de som trenger mer spesifikasjon for Internettkostnader. 
 
-**Internettpakken 350 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er ren internett utgift for hver beboer**
+**Internettpakken 350 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er utgiften på Internett som er inkludert i TV/Internettpakken hver bebeoer må betale**
 
 
 
