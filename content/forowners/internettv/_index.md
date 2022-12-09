@@ -68,6 +68,12 @@ Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor
 
 Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompensert fra arbeidsgiver for de som får dekket Internett. 
 
+For de som trenger mer spesifikasjon for Internettkostnader. 
+
+**Internettpakken 350 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er ren internett utgift for hver beboer**
+
+
+
 ## Utstyr
 
 Utstyr som er tilknyttet systemet eies av borettslaget. Ved salg skal utstyret viderføres til ny kjøper.
