@@ -6,12 +6,22 @@ weight: 2
 ---
 ## Hovseterveien 64 31-323
 
-- [3-roms andel 12](https://www.finn.no/realestate/homes/ad.html?finnkode=7204834) - 05.04.2006 (1.880.000,-?)
-- [3-roms andel 12](https://www.finn.no/realestate/homes/ad.html?finnkode=127581421) - 04.03.2019 (3.350.000,-?)
-- [4-roms andel 13](https://www.finn.no/realestate/homes/ad.html?finnkode=31088344) - 19.12.2011 (3.200.000,-)
-- [4-roms andel 13](https://www.finn.no/realestate/homes/ad.html?finnkode=81155667) - 05.12.2016 (4.100.000,-)
-- [3-roms andel 14](https://www.finn.no/realestate/homes/ad.html?finnkode=30309791) - 07.10.2011 (2.850.000,-)
-- [3-roms andel 14](https://www.finn.no/realestate/homes/ad.html?finnkode=37641929) - 04.12.2012 (2.990.000,-)
+### 64A 3-roms andel 12
+
+- [05.04.2006](https://www.finn.no/realestate/homes/ad.html?finnkode=7204834) - 1.880.000,-?
+- [04.03.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=127581421) - 3.350.000,-?
+
+### 64B 4 roms andel 13
+
+- [19.12.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=31088344) -  3.200.000,-
+- [05.12.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=81155667) -  4.100.000,-
+
+### 64B 3-roms andel 14
+
+- [07.10.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=30309791) - 2.850.000,-
+- [04.12.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=37641929) - 2.990.000,-
+
+
 - [4-roms andel 41](https://www.finn.no/realestate/homes/ad.html?finnkode=12800588) - 05.12.2018 (3.850.000,-)
 - [4-roms andel 41](https://www.finn.no/realestate/homes/ad.html?finnkode=128170480) - 05.12.2018 (3.850.000,-)
 - [3-roms andel 42](https://www.finn.no/realestate/homes/ad.html?finnkode=154701407) - 08.10.2019 (3.100.000,-)
