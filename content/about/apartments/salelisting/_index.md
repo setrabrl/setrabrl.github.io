@@ -49,7 +49,6 @@ weight: 2
 - [03.11.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=29883744) - 3.200.000,-
 - [30.07.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=41968839) - 3.300.000,-
 
-
 ### 64B 4-roms andel 70
 
 - [22.10.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=18552930) -  2.700.000,-
@@ -100,50 +99,121 @@ weight: 2
 
 ## Hovseterveien 66 31-324
 
+### 4-roms andel 16
+
 - [4-roms andel 16](https://www.finn.no/realestate/homes/ad.html?finnkode=37043397) - 14.12.2012 (3.175.000,-)
 - [4-roms andel 16](https://www.finn.no/realestate/homes/ad.html?finnkode=63624875) - 10.12.2015 (3.940.000,-)
+
+### 3-roms andel 17
+
 - [3-roms andel 17](https://www.finn.no/realestate/homes/ad.html?finnkode=13186175) - 25.08.2008 (2.275.000,-)
 - [3-roms andel 17](https://www.finn.no/realestate/homes/ad.html?finnkode=154424577) - 03.12.2019 (3.450.000,-)
+
+### 4-roms andel 18
+
 - [4-roms andel 18](https://www.finn.no/realestate/homes/ad.html?finnkode=39883390) - 15.04.2013 (2.900.000,-) Oppussingsprosjekt
 - [4-roms andel 18](https://www.finn.no/realestate/homes/ad.html?finnkode=41689261) - 25.07.2013 (3.615.000,-) Pusset opp
 - [4-roms andel 18](https://www.finn.no/realestate/homes/ad.html?finnkode=159656284) - 05.02.2020 (4.300.000,-)
+
+### 3-roms andel 19
+
 - [3-roms andel 19](https://www.finn.no/realestate/homes/ad.html?finnkode=8712146) - 01.02.2007 (2.480.000,-)
+
+### 4-roms andel 20
+
 - [4-roms andel 20](https://www.finn.no/realestate/homes/ad.html?finnkode=36493144) - 08.10.2012 (3.250.000,-)
 - [4-roms andel 20](https://www.finn.no/realestate/homes/ad.html?finnkode=115643992) - 05.06.2018 (4.500.000,-)
+
+### 3-roms andel 21
+
 - [3-roms andel 21](https://www.finn.no/realestate/homes/ad.html?finnkode=64729435) - 20.10.2015 (3.400.000,-)
+
+### 4-roms andel 45
+
 - [4-roms andel 45](https://www.finn.no/realestate/homes/ad.html?finnkode=10960152) - 23.10.2007 (3.000.000,-)
 - [4-roms andel 45](https://www.finn.no/realestate/homes/ad.html?finnkode=43565352) - 28.11.2013 (3.675.000,-)
+
+### 3-roms andel 46
+
 - [3-roms andel 46](https://www.finn.no/realestate/homes/ad.html?finnkode=43848001) - 14.11.2013 - (3.050.000,-)
 - [3-roms andel 46](https://www.finn.no/realestate/homes/ad.html?finnkode=156200887) - 11.11.2019 - (3.600.000,-)
 - [3-roms andel 46](https://www.finn.no/realestate/homes/ad.html?finnkode=273254158) 
+
+### 4-roms andel 47
+
 - [4-roms andel 47](https://www.finn.no/realestate/homes/ad.html?finnkode=73048913) - 20.06.2016 (4.150.000,-)
+
+### 4-roms andel 49
+
 - [4-roms andel 49](https://www.finn.no/realestate/homes/ad.html?finnkode=18471817) - 09.10.2009 (2.400.000,-)
+
+### 3-roms andel 50
+
 - [3-roms andel 50](https://www.finn.no/realestate/homes/ad.html?finnkode=30324588) - 05.10.2011 (2.850.000,-)
+
+### 4-roms andel 74
+
 - [4-roms andel 74](https://www.finn.no/realestate/homes/ad.html?finnkode=48161349) - 23.06.2014 (3.100.000.-)
 - [4-roms andel 74](https://www.finn.no/realestate/homes/ad.html?finnkode=81296089) - 09.11.2016 (4.900.000.-)
+
+### 3-roms andel 75
+
 - [3-roms andel 75](https://www.finn.no/realestate/homes/ad.html?finnkode=38264084) - 17.01.2013 (3.250.000.-)
+
+### 4-roms andel 76
+
 - [4-roms andel 76](https://www.finn.no/realestate/homes/ad.html?finnkode=96010612) - 27.06.2017 (4.050.000.-)
 - [4-roms andel 76](https://www.finn.no/realestate/homes/ad.html?finnkode=191204190) - 14.12.2020 (4.200.000.-)
+
+### 3-roms andel 77
+
 - [3-roms andel 77](https://www.finn.no/realestate/homes/ad.html?finnkode=14795151) - 27.04.2009 (2.070.000,-)
+
+### 3-roms andel 79
+
 - [3-roms andel 79](https://www.finn.no/realestate/homes/ad.html?finnkode=131922570) - Inaktiv
+
+### 4-roms andel 103
+
 - [4-roms andel 103](https://www.finn.no/realestate/homes/ad.html?finnkode=48199623) - 18.08.2014 (3.400.000,-)
+
+### 3-roms andel 104
+
 - [3-roms andel 104](https://www.finn.no/realestate/homes/ad.html?finnkode=31968585) - 12.01.2012 (2.800.000,-)
 - [3-roms andel 104](https://www.finn.no/realestate/homes/ad.html?finnkode=101442598) - Inaktiv
+
+### 4-roms andel 105
+
 - [4-roms andel 105](https://www.finn.no/realestate/homes/ad.html?finnkode=45916361) - 03.03.2014 (3.150.000,-)
 - [4-roms andel 105](https://www.finn.no/realestate/homes/ad.html?finnkode=71671365) - 03.05.2016 (4.650.000,-)
 - [4-roms andel 105](https://www.finn.no/realestate/homes/ad.html?finnkode=213494558) - 14.06.2021 (5.300.000,-)
+
+### 3-roms andel 106
+
 - [3-roms andel 106](https://www.finn.no/realestate/homes/ad.html?finnkode=24164898) - 18.11.2010 (2.800.000,-)
+
+### 4-roms andel 107
+
 - [4-roms andel 107](https://www.finn.no/realestate/homes/ad.html?finnkode=15581750) - 29.11.2008 (2.000.000,-????)
 - [4-roms andel 107](https://www.finn.no/realestate/homes/ad.html?finnkode=44749208) - 05.12.2013 (2.620.000,-)
 - [4-roms andel 107](https://www.finn.no/realestate/homes/ad.html?finnkode=56195834) - 10.04.2015 (4.050.000,-)
+
+### 3-roms andel 108
+
 - [3-roms andel 108](https://www.finn.no/realestate/homes/ad.html?finnkode=28509608) - 06.07.2011 (2.385.000,-)
 - [3-roms andel 108](https://www.finn.no/realestate/homes/ad.html?finnkode=64075188) - 27.10.2015 (3.400.000,-)
 - [3-roms andel 108](https://www.finn.no/realestate/homes/ad.html?finnkode=94442759) - 20.06.2017 (4.310.000,-)
 - [3-roms andel 108](https://www.finn.no/realestate/homes/ad.html?finnkode=121196686) - 20.07.2018 (3.390.000,-)
+
+### 1-roms andel 259
+
 - [1-roms andel 259](https://www.finn.no/realestate/homes/ad.html?finnkode=29037720) - 30.06.2011 (1.250.000,-???)
 - [1-roms andel 259](https://www.finn.no/realestate/homes/ad.html?finnkode=50056946) - 28.06.2014 (1.390.000,-???)
 - [1-roms andel 259](https://www.finn.no/realestate/homes/ad.html?finnkode=80293941) - 19.08.2016 (1.890.000,-???)
 - [1-roms andel 259](https://www.finn.no/realestate/homes/ad.html?finnkode=118394533) - 10.05.2018 (2.230.000,-???)
+
+### 1-roms andel 260
+
 - [1-roms andel 260](https://www.finn.no/realestate/homes/ad.html?finnkode=10936778) - 07.12.2007 (1.220.000,-)
 - [1-roms andel 260](https://www.finn.no/realestate/homes/ad.html?finnkode=32046905) - 03.01.2012 (1.400.000,-)
 - [1-roms andel 260](https://www.finn.no/realestate/homes/ad.html?finnkode=82647268) - 11.10.2016 (2.430.000,-)
