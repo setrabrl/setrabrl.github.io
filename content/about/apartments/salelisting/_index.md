@@ -6,83 +6,110 @@ weight: 2
 ---
 ## Hovseterveien 64 31-323
 
-### 64A 3-roms andel 12
+### 64A 1. etasje andel 12
 
-76m2 1. etasje
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [05.04.2006](https://www.finn.no/realestate/homes/ad.html?finnkode=7204834) - 1.880.000,-?
 - [04.03.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=127581421) - 3.350.000,-
 
-### 64B 4-roms andel 13
+### 64B 1. etasje andel 13
 
-[90m2 1. etasje](/about/apartments/types/#4-roms---90m2)
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [19.12.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=31088344) -  3.200.000,-
 - [05.12.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=81155667) -  4.100.000,-
 
-### 64B 3-roms andel 14
+### 64B 1. etasje andel 14
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [07.10.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=30309791) - 2.850.000,-
 - [04.12.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=37641929) - 2.990.000,-
 
-### 64B 4-roms andel 41
+### 64B 2. etasje andel 41
+
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [05.12.2008](https://www.finn.no/realestate/homes/ad.html?finnkode=12800588) - 2.850.000,-
 - [28.12.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=128170480) - 3.850.000,-
 
-### 64B 3-roms andel 42
+### 64B 2. etasje andel 42
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [08.10.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=154701407) - 3.100.000,-
 
-### 64C 4-roms andel 43
+### 64C 2. etasje andel 43
+
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [04.05.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=69411063) - 3.850.000,-
 
-### 64C 3-roms andel 44
+### 64C 2. etasje andel 44
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [16.12.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=18468570) - 2.225.000,-
 
-### 64A 4-roms andel 68
+### 64A 3. etasje andel 68
+
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [08.05.2010](https://www.finn.no/realestate/homes/ad.html?finnkode=22005455) -  2.990.000,-
 
-### 64A 3-roms andel 69
+### 64A 3. etasje andel 69
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [16.03.2006](https://www.finn.no/realestate/homes/ad.html?finnkode=7119680) -  1.750.000,-?)
 - [22.01.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=29883744) - 2.870.000,-
 - [03.11.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=29883744) - 3.200.000,-
 - [30.07.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=41968839) - 3.300.000,-
 
-### 64B 4-roms andel 70
+### 64B 3. etasje andel 70
+
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [25.02.2008](https://www.finn.no/realestate/homes/ad.html?finnkode=12170980) -  2.835.000,-
 - [22.10.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=18552930) -  2.700.000,-
 - [06.03.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=86368667) -  4.050.000,-
 
-### 64B 3-roms andel 71
+### 64B 3. etasje andel 71
 
 - [07.03.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=45789651) - 3.150.000,-
 - [15.09.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=180453598) - 4.200.000,-
 - [29.08.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=258198417) - 4.850.000,-
 
-### 64B 3-roms andel 100
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
+
+### 64B 4. etasje andel 100
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [trukket](https://www.finn.no/realestate/homes/ad.html?finnkode=130785426) - trukket, se nedenfor
 - [16.12.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=189991704) - 3.780.000,-
 
-### 64C 4-roms andel 101
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
+
+### 64C 4. etasje andel 101
+
+[4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [29.07.2010](https://www.finn.no/realestate/homes/ad.html?finnkode=22237580) - 3.050.000,-
 - [05.10.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=29972826) - 3.490.000,-
 - [28.06.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=92696992) - 4.600.000,-
 
-### 64C 3-roms andel 102
+### 64C 4. etasje andel 102
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=13342429) - Inaktiv
 - [17.10.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=13713040) - 2.290.000,-
 - [07.11.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=36628214) - 3.000.000,-
 
-### 64C 3-roms andel 262
+
+### 64C 1. etasje andel 262
 
 - [02.07.2010](https://www.finn.no/realestate/homes/ad.html?finnkode=22434995) - 2.575.000,-
 - [08.06.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=34146638) - 3.000.000,-
