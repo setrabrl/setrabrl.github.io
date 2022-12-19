@@ -6,6 +6,8 @@ weight: 2
 ---
 ## Hovseterveien 64 31-323
 
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
+
 ### 64A 1. etasje andel 12
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
@@ -133,6 +135,8 @@ weight: 2
 
 ## Hovseterveien 66 31-324
 
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg)
+
 ### 4-roms andel 16
 
 - [14.12.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=37043397) - (3.175.000,-)
@@ -258,6 +262,8 @@ weight: 2
 - [1-roms andel 260](https://www.finn.no/realestate/homes/ad.html?finnkode=177584897) - 05.08.2020 (2.755.000,-)
 
 ## Hovseterveien 68 31-333
+
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653767.55&lon=257278.85&markerLat=6653775.782775348&markerLon=257278.64898391484&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
 
 - [2-roms andel XXX??](https://www.finn.no/realestate/homes/ad.html?finnkode=131374383) - ????????????
 - [1-roms andel 174](https://www.finn.no/realestate/homes/ad.html?finnkode=21998255) - 17.04.2011 (1.400.000,-???)
@@ -394,6 +400,8 @@ weight: 2
 - [1-roms andel 267](https://www.finn.no/realestate/homes/ad.html?finnkode=255658794) - 13.05.2022 (3.300.000,-)
   
 ## Hovseterveien 84 31-331
+
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653821.33&lon=257362.56&markerLat=6653824.832490009&markerLon=257352.65940223876&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
 
 - [2-roms andel 28](https://www.finn.no/realestate/homes/ad.html?finnkode=48022549) - 04.07.2014 (2.000.000,-)
 - [2-roms andel 30](https://www.finn.no/realestate/homes/ad.html?finnkode=73475993) - 04.08.2016 (2.600.000,-)
