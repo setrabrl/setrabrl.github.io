@@ -8,10 +8,14 @@ weight: 2
 
 ### 64A 3-roms andel 12
 
+76m2 1. etasje
+
 - [05.04.2006](https://www.finn.no/realestate/homes/ad.html?finnkode=7204834) - 1.880.000,-?
 - [04.03.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=127581421) - 3.350.000,-
 
 ### 64B 4-roms andel 13
+
+[90m2 1. etasje](/about/apartments/types/#4-roms---90m2)
 
 - [19.12.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=31088344) -  3.200.000,-
 - [05.12.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=81155667) -  4.100.000,-
