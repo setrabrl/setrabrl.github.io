@@ -4,6 +4,16 @@ linktitle: Salgsannonser
 description:  Her finner du lenker til tidligere leilighetsannonser på Finn
 weight: 2
 ---
+
+Hurtiglenker
+
+- [64](#hovseterveien-64-31-323)
+- [66](#hovseterveien-66-31-324)
+- [68](#hovseterveien-68-31-333)
+- [82](#hovseterveien-82-31-324)
+- [84](#hovseterveien-84-31-331)
+
+
 ## Hovseterveien 64 31-323
 
 [Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
