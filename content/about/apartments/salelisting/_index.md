@@ -396,17 +396,23 @@ weight: 2
 
 1-roms 39m2
 
-- [2-roms andel 186](https://www.finn.no/realestate/homes/ad.html?finnkode=11542246) - 14.12.2007 (1.390.000,-)
-- [2-roms andel 186](https://www.finn.no/realestate/homes/ad.html?finnkode=80551772) - 22.09.2016 (2.600.000,-)
-- [2-roms andel 186](https://www.finn.no/realestate/homes/ad.html?finnkode=131374383) - 05.02.2019 (2.650.000,-)
-- [2-roms andel 186](https://www.finn.no/realestate/homes/ad.html?finnkode=250764234) - 19.05.2022 (3.600.000,-)
+- [14.12.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11542246) -  (1.390.000,-)
+- [22.09.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=80551772) -  (2.600.000,-)
+- [05.02.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=131374383) -  (2.650.000,-)
+- [19.05.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=250764234) -  (3.600.000,-)
 
+### 68J 2. etasje andel 187
 
-- [3-roms andel 187](https://www.finn.no/realestate/homes/ad.html?finnkode=10691169) - 12.11.2007 (1.700.000,-)
-- [3-roms andel 187](https://www.finn.no/realestate/homes/ad.html?finnkode=106830555) - 02.02.2018 (3.150.000,-)
+3-roms 77m2
 
+- [12.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10691169) -  (1.700.000,-)
+- [02.02.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=106830555) -  (3.150.000,-)
 
-- [3-roms andel 188](https://www.finn.no/realestate/homes/ad.html?finnkode=140983790) - 02.05.2019 (3.135.000,-)
+### 68J 2. etasje andel 188
+
+3-roms 77m2
+
+- [02.05.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=140983790) - (3.135.000,-)
 
 
 - [2-roms andel 190](https://www.finn.no/realestate/homes/ad.html?finnkode=12818928) - 03.10.2008 (1.400.000,-)
