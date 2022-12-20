@@ -10,9 +10,9 @@ M = Meklenborg Borettslag
 S = Setra Borettslag (64,66,68,82,84)
 K = Kollektivet Borettslag
 
-https://www.finn.no/realestate/homes/ad.html?finnkode=2600151
-https://www.finn.no/realestate/homes/ad.html?finnkode=2402614
-https://www.finn.no/realestate/homes/ad.html?finnkode=3103672
+https://www.finn.no/realestate/homes/ad.html?finnkode=2600151 K96
+https://www.finn.no/realestate/homes/ad.html?finnkode=2402614 M44
+https://www.finn.no/realestate/homes/ad.html?finnkode=3103672 M48A
 https://www.finn.no/realestate/homes/ad.html?finnkode=3503936
 https://www.finn.no/realestate/homes/ad.html?finnkode=3204438
 https://www.finn.no/realestate/homes/ad.html?finnkode=3405367
