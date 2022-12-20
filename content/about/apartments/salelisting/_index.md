@@ -196,70 +196,70 @@ weight: 2
 - [11.11.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=156200887) - 3.600.000,-
 - [3-roms andel 46](https://www.finn.no/realestate/homes/ad.html?finnkode=273254158)
 
-### 4-roms andel 47
+### 66B 2. etasje andel 47
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [20.06.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=73048913) - (4.150.000,-)
 
-### 4-roms andel 49
+### 66C 2. etasje andel 49
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [09.10.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=18471817) -  (2.400.000,-)
 
-### 3-roms andel 50
+### 66C 2. etasje andel 50
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [05.10.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=30324588) - (2.850.000,-)
 
-### 4-roms andel 74
+### 66A 3. etasje andel 74
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [23.06.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=48161349) - (3.100.000.-)
 - [09.11.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=81296089) -  (4.900.000.-)
 
-### 3-roms andel 75
+### 66A 3. etasje andel 75
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [17.01.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=38264084) -  (3.250.000.-)
 
-### 4-roms andel 76
+### 66B 3. etasje andel 76
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [27.06.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=96010612) -  (4.050.000.-)
 - [14.12.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=191204190) -  (4.200.000.-)
 
-### 3-roms andel 77
+### 66B 3. etasje andel 77
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [27.04.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=14795151) -  (2.070.000,-)
 
-### 3-roms andel 79
+### 66C 3. etasje andel 79
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [12.11.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=131922570) - Inaktiv
 
-### 4-roms andel 103
+### 66A 4. etasje andel 103
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [18.08.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=48199623) -  (3.400.000,-)
 
-### 3-roms andel 104
+### 66A 4. etasje andel 104
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [12.01.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=31968585) -  (2.800.000,-)
 - [3-roms andel 104](https://www.finn.no/realestate/homes/ad.html?finnkode=101442598) - Inaktiv
 
-### 4-roms andel 105
+### 66B 4. etasje andel 105
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
@@ -267,13 +267,13 @@ weight: 2
 - [03.05.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=71671365) -  (4.650.000,-)
 - [14.06.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=213494558) -  (5.300.000,-)
 
-### 3-roms andel 106
+### 66B 4. etasje andel 106
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [18.11.2010](https://www.finn.no/realestate/homes/ad.html?finnkode=24164898) -  (2.800.000,-)
 
-### 4-roms andel 107
+### 66C 4. etasje andel 107
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
@@ -281,7 +281,7 @@ weight: 2
 - [05.12.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=44749208) -  (2.620.000,-)
 - [10.04.2015](https://www.finn.no/realestate/homes/ad.html?finnkode=56195834) -  (4.050.000,-)
 
-### 3-roms andel 108
+### 66C 4. etasje andel 108
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
