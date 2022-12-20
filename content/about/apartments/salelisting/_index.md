@@ -424,31 +424,44 @@ Hurtiglenker
 
 - [02.05.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=140983790) - (3.135.000,-)
 
+### 68J 3. etasje andel 190
 
 - [2-roms andel 190](https://www.finn.no/realestate/homes/ad.html?finnkode=12818928) - 03.10.2008 (1.400.000,-)
 - [2-roms andel 190](https://www.finn.no/realestate/homes/ad.html?finnkode=126037802) - 12.09.2018 (3.170.000,-)
 - [2-roms andel 190](https://www.finn.no/realestate/homes/ad.html?finnkode=196673443) - 07.01.2021 (3.600.000,-)
 
 
+### 68J 3. etasje andel 191
+
 - [2-roms andel 191](https://www.finn.no/realestate/homes/ad.html?finnkode=27025365) - 28.04.2011 (1.250.000,-)
 - [2-roms andel 191](https://www.finn.no/realestate/homes/ad.html?finnkode=98080235) - 02.08.2017 (2.805.000,-)
 
+
+### 68J 3. etasje andel 193
 
 - [3-roms andel 193](https://www.finn.no/realestate/homes/ad.html?finnkode=101442553) - 24.10.2017 (3.250.000,-)
 - [3-roms andel 193](https://www.finn.no/realestate/homes/ad.html?finnkode=207442725) - 27.07.2021 (4.400.000,-)
 
 
+### 68J 3. etasje andel 195
+
 - [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=204577155) - 15.02.2021 (3.300.000,-) Oppussingsobjekt
 - [2-roms andel 195](https://www.finn.no/realestate/homes/ad.html?finnkode=210194930) - 11.05.2021 (4.000.000,-) Pusset opp
 
+
+### 68J 3. etasje andel 196
 
 - [2-roms andel 196](https://www.finn.no/realestate/homes/ad.html?finnkode=16831435) - 30.03.2010 (1.450.000,-)
 - [2-roms andel 196](https://www.finn.no/realestate/homes/ad.html?finnkode=192462489) - 13.11.2020 (2.850.000,-)
 
 
-- [3-roms andel 197](https://www.finn.no/realestate/homes/ad.html?finnkode=47165891) - 11.08.2014 (1.990.000,-)
-- [3-roms andel 197](https://www.finn.no/realestate/homes/ad.html?finnkode=78059554) - 29.09.2016 (3.000.000,-)
+### 68J 3. etasje andel 197
 
+- [11.08.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=47165891) - (1.990.000,-)
+- [29.09.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=78059554) -  (3.000.000,-)
+
+
+### 68J 4. etasje andel 199
 
 - [2-roms andel 199](https://www.finn.no/realestate/homes/ad.html?finnkode=246629957) - 03.03.2022 (3.400.000,-) Oppussingsobjekt
 - [2-roms andel 199](https://www.finn.no/realestate/homes/ad.html?finnkode=256270442) - 20.06.2022 (4.350.000,-) Pusset opp
