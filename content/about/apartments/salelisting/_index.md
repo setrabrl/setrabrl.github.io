@@ -7,7 +7,7 @@ weight: 2
 
 I utgangspunktet finner du alle annonser som finnes på Finn og som ikke er slettet.  
 
-Hurtiglenker
+Hurtiglenker adresser
 
 - [64](#hovseterveien-64-31-323)
 - [66](#hovseterveien-66-31-324)
@@ -15,15 +15,13 @@ Hurtiglenker
 - [82](#hovseterveien-82-31-324)
 - [84](#hovseterveien-84-31-331)
 
-- [Magisk link 64 31-323](https://www.finn.no/realestate/ownershiphistory.html?finnkode=12120233)
-- [Maglis link 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
-
-
-- [Full scan](hovseterscan)
+Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se Full Scan. Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag.  [Full scan](hovseterscan)
 
 ## Hovseterveien 64 31-323
 
 [Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
+
+- [Magisk link 64 31-323](https://www.finn.no/realestate/ownershiphistory.html?finnkode=12120233)
 
 ### 64A 1. etasje andel 12
 
@@ -154,6 +152,9 @@ Hurtiglenker
 ## Hovseterveien 66 31-324
 
 [Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg)
+
+[Magisk link 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
+
 
 ### 66A 1. etasje andel 16
 
