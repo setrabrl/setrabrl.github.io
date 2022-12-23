@@ -15,8 +15,8 @@ Hurtiglenker adresser
 - [82](#hovseterveien-82-31-324)
 - [84](#hovseterveien-84-31-331)
 
-Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se Full Scan. Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag.  [Full scan](hovseterscan)
-
+Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full scan](hovseterscan).
+ Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag.  
 ## Hovseterveien 64 31-323
 
 [Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
