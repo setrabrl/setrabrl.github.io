@@ -17,6 +17,7 @@ Hurtiglenker adresser
 
 Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full scan](hovseterscan).
  Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag.  
+
 ## Hovseterveien 64 31-323
 
 [Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
@@ -96,7 +97,8 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
-- [14.09.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10337343) - 2.680.000,-
+- [26.03.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=9302044) - 2.050.000,- Oppussingsobjekt
+- [14.09.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10337343) - 2.680.000,- Pusset opp
 - [07.03.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=45789651) - 3.150.000,-
 - [15.09.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=180453598) - 4.200.000,-
 - [29.08.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=258198417) - 4.850.000,-
@@ -453,6 +455,8 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [3-roms 77m2](/about/apartments/types/#3-roms---768m2---hovseterveien-68)
 
+
+- [02.03.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=9079627) - 1.900.000,-
 - [24.10.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=101442553) - 3.250.000,-
 - [27.07.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=207442725) - 4.400.000,-
 
@@ -711,6 +715,10 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ## Hovseterveien 82 31-324
 
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg)
+
+[Magisk link 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
+
 ### 82A 1. etasje andel 23
 
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
@@ -764,6 +772,13 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [12.03.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=104662464) - 4.000.000,-
 - [09.05.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=247104731) - 5.500.000,-
+
+### 82C 2. etasje andel 56
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
+
+- [08.02.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=8928978) - 2.135.000,-
+
   
 ### 82A 3. etasje andel 81
 
@@ -1021,6 +1036,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
+- [05.02.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=8801406) -  1.410.000,-
 - [15.07.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=41459383) -  2.250.000,-
 - [03.04.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=111304737) -  2.850.000,-
 
@@ -1223,6 +1239,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
+- [24.02.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=46143128) -  2.150.000,-
 - [19.12.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=133618418) -  2.900.000,-
 - [16.07.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=216897261) -  3.550.000,-
 
@@ -1230,9 +1247,9 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
-- [28.09.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10761756) -  1.775.000,-
+- [04.01.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=8799931) -  1.510.000,- Oppussingsobjekt
+- [28.09.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10761756) -  1.775.000,- Pusset opp
 - [06.07.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=28521098) -  1.930.000,-
-- [23.01.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=46143128) -  2.050.000,-??)
 - [06.11.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=126551510) -  3.030.000,-
 
 ### 84D 7. etasje andel 150
