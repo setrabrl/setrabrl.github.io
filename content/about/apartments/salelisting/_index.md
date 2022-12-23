@@ -5,7 +5,7 @@ description:  Her finner du lenker til tidligere leilighetsannonser på Finn
 weight: 2
 ---
 
-I utgangspunktet finner du alle annonser som finnes på Finn og som ikke er slettet.  
+I utgangspunktet finner du alle annonser som finnes på Finn fra ca 2007 og nyere og som ikke er slettet.  
 
 Hurtiglenker adresser
 
@@ -16,7 +16,7 @@ Hurtiglenker adresser
 - [84](#hovseterveien-84-31-331)
 
 Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full scan](hovseterscan).
- Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag.  
+ Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag og eldre annonser som ikke har bilder. 
 
 ## Hovseterveien 64 31-323
 
