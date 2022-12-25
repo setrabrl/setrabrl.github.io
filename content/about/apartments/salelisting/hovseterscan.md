@@ -10,35 +10,41 @@ M = Meklenborg Borettslag
 S = Setra Borettslag (64,66,68,82,84)
 K = Kollektivet Borettslag
 
-https://www.finn.no/realestate/homes/ad.html?finnkode=2165780
-https://www.finn.no/realestate/homes/ad.html?finnkode=2191004
-https://www.finn.no/realestate/homes/ad.html?finnkode=2264594
-https://www.finn.no/realestate/homes/ad.html?finnkode=2264596
-https://www.finn.no/realestate/homes/ad.html?finnkode=2264601
-https://www.finn.no/realestate/homes/ad.html?finnkode=2273302
-https://www.finn.no/realestate/homes/ad.html?finnkode=2274104
-https://www.finn.no/realestate/homes/ad.html?finnkode=2290741
-https://www.finn.no/realestate/homes/ad.html?finnkode=2375718
-https://www.finn.no/realestate/homes/ad.html?finnkode=2382018
-https://www.finn.no/realestate/homes/ad.html?finnkode=2390010
-https://www.finn.no/realestate/homes/ad.html?finnkode=2392853
-https://www.finn.no/realestate/homes/ad.html?finnkode=2393645
-https://www.finn.no/realestate/homes/ad.html?finnkode=2395452
+
+### 2000
+
+https://www.finn.no/realestate/homes/ad.html?finnkode=2165780 S84-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2191004 M54B
+https://www.finn.no/realestate/homes/ad.html?finnkode=2264594 S84-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2264596 M40A?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2264601 M34A
+https://www.finn.no/realestate/homes/ad.html?finnkode=2273302 M56C
+https://www.finn.no/realestate/homes/ad.html?finnkode=2274104 M40
+https://www.finn.no/realestate/homes/ad.html?finnkode=2290741 S66-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2375718 S82-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2382018 S68-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2390010 M36A
+https://www.finn.no/realestate/homes/ad.html?finnkode=2392853 M100
+https://www.finn.no/realestate/homes/ad.html?finnkode=2393645 M46A
+https://www.finn.no/realestate/homes/ad.html?finnkode=2395452 M36A
 https://www.finn.no/realestate/homes/ad.html?finnkode=2402614 M44
-https://www.finn.no/realestate/homes/ad.html?finnkode=2405980
-https://www.finn.no/realestate/homes/ad.html?finnkode=2497058
-https://www.finn.no/realestate/homes/ad.html?finnkode=2511025
-https://www.finn.no/realestate/homes/ad.html?finnkode=2540257
-https://www.finn.no/realestate/homes/ad.html?finnkode=2558883
+https://www.finn.no/realestate/homes/ad.html?finnkode=2405980 S82B-??
+https://www.finn.no/realestate/homes/ad.html?finnkode=2497058 M42
+https://www.finn.no/realestate/homes/ad.html?finnkode=2511025 S84
+https://www.finn.no/realestate/homes/ad.html?finnkode=2540257 M42B
+https://www.finn.no/realestate/homes/ad.html?finnkode=2558883 M40B
+
+### 2001
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=2600151 K96
-https://www.finn.no/realestate/homes/ad.html?finnkode=2649140
-https://www.finn.no/realestate/homes/ad.html?finnkode=2713084
-https://www.finn.no/realestate/homes/ad.html?finnkode=2715899
-https://www.finn.no/realestate/homes/ad.html?finnkode=2722570
-https://www.finn.no/realestate/homes/ad.html?finnkode=2777733
-https://www.finn.no/realestate/homes/ad.html?finnkode=2780125
-https://www.finn.no/realestate/homes/ad.html?finnkode=2794788
-https://www.finn.no/realestate/homes/ad.html?finnkode=2843575
+https://www.finn.no/realestate/homes/ad.html?finnkode=2649140 M40B
+https://www.finn.no/realestate/homes/ad.html?finnkode=2713084 K98
+https://www.finn.no/realestate/homes/ad.html?finnkode=2715899 K98
+https://www.finn.no/realestate/homes/ad.html?finnkode=2722570 M34B
+https://www.finn.no/realestate/homes/ad.html?finnkode=2777733 S84-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2780125 S84-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=2794788 M38B
+https://www.finn.no/realestate/homes/ad.html?finnkode=2843575 M46B
 https://www.finn.no/realestate/homes/ad.html?finnkode=2852509
 https://www.finn.no/realestate/homes/ad.html?finnkode=2856909
 https://www.finn.no/realestate/homes/ad.html?finnkode=2939070
