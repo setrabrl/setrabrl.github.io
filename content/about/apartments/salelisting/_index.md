@@ -1071,8 +1071,8 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
-- [16.02.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=237702891) -  3.300.000,-
-- [28.04.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=251220933) -  3.800.000,-
+- [16.02.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=237702891) -  3.300.000,- Oppussingsobjekt
+- [28.04.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=251220933) -  3.800.000,- Pusset opp
 
 ### 84D 4. etasje andel 121
 
