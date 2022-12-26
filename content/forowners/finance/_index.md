@@ -25,7 +25,13 @@ Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fo
 
 ### Felleskostnadene har steget en god del i 2017-2018. Når vil de bli satt ned igjen til tidligere nivå?
 
-Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år. Dette betyr at man kan ikke forvente at husleien vil gå ned igjen. Innen 30 år er det sikkert behov for andre prosjekt som krever nye lån. I løpet av 2022 vil det bli gjort en vurdering for behov for justeringer. Siste justering ble effektiv januar 2019. Siden den gang har ingen beboere fått endret hva som må innbetales.
+Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år. Dette betyr at man kan ikke forvente at husleien vil gå ned igjen. Innen 30 år er det sikkert behov for andre prosjekt som krever nye lån. 
+
+Fra 1.1.2023 vil felleskostnadene øke med 10%. Dette er i hovedssak grunnet kraftig økte kommunale avgifter samt økte rentekostnader. Det vil gjøres en ny vurdering våren 2023 om det er videre behov for justeringer for å dekke inn økte kostnader grunnet pristigninger.
+
+Grafen nedenfor viser utviklingen av felleskostnader over tid for utvalge leilighetstyper. Endringene er releativ like store på alle typer.
+
+![Felleskostnader](felleskostanderhistorisk.png)
 
 ## Hva dekker fellesgjelden
 

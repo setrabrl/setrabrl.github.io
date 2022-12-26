@@ -628,7 +628,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ### 68J 8. etasje andel 247
 
-[2-roms 66m2](https://setrabrl.no/about/apartments/types/#2-roms---655m2---hovseterveien-68)
+[3-roms 77m2](/about/apartments/types/#3-roms---768m2---hovseterveien-68)
 
 - [08.09.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=79285242) - 2.600.000,-
 
@@ -824,7 +824,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [24.07.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=92229765) -  3.510.000,-
-- [04.04.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=108310970) -  3.500.000,-
+- [04.04.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=108519362) -  3.500.000,-
 - [03.04.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=249961983) -  4.560.000,-
 
 ### 82C 4. etasje andel 114
