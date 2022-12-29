@@ -93,9 +93,12 @@ https://www.finn.no/realestate/homes/ad.html?finnkode=3452680 S66A-?
 https://www.finn.no/realestate/homes/ad.html?finnkode=3453604 M48B
 https://www.finn.no/realestate/homes/ad.html?finnkode=3458624 S84-?
 https://www.finn.no/realestate/homes/ad.html?finnkode=3465299 M46B
-https://www.finn.no/realestate/homes/ad.html?finnkode=3468044 S68
-https://www.finn.no/realestate/homes/ad.html?finnkode=3471066
-https://www.finn.no/realestate/homes/ad.html?finnkode=3473065
+https://www.finn.no/realestate/homes/ad.html?finnkode=3468044 S68-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=3471066 S66A-?
+https://www.finn.no/realestate/homes/ad.html?finnkode=3473065 S64C-?
+
+### 2003
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=3473840
 https://www.finn.no/realestate/homes/ad.html?finnkode=3475201
 https://www.finn.no/realestate/homes/ad.html?finnkode=3482563
@@ -176,6 +179,9 @@ https://www.finn.no/realestate/homes/ad.html?finnkode=4028066
 https://www.finn.no/realestate/homes/ad.html?finnkode=4067804
 https://www.finn.no/realestate/homes/ad.html?finnkode=4084466
 https://www.finn.no/realestate/homes/ad.html?finnkode=4086063
+
+### 2004
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=4113671
 https://www.finn.no/realestate/homes/ad.html?finnkode=4114751
 https://www.finn.no/realestate/homes/ad.html?finnkode=4124399
@@ -238,6 +244,10 @@ https://www.finn.no/realestate/homes/ad.html?finnkode=4833516
 https://www.finn.no/realestate/homes/ad.html?finnkode=4852692
 https://www.finn.no/realestate/homes/ad.html?finnkode=4864102
 https://www.finn.no/realestate/homes/ad.html?finnkode=4898390
+
+### 2005
+
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=4935966
 https://www.finn.no/realestate/homes/ad.html?finnkode=4967562
 https://www.finn.no/realestate/homes/ad.html?finnkode=4994634
@@ -294,6 +304,9 @@ https://www.finn.no/realestate/homes/ad.html?finnkode=6394993
 https://www.finn.no/realestate/homes/ad.html?finnkode=6446075
 https://www.finn.no/realestate/homes/ad.html?finnkode=6473191
 https://www.finn.no/realestate/homes/ad.html?finnkode=6707058
+
+### 2006
+
 https://www.finn.no/realestate/homes/ad.html?finnkode=6795243
 https://www.finn.no/realestate/homes/ad.html?finnkode=6886577
 https://www.finn.no/realestate/homes/ad.html?finnkode=6921566
