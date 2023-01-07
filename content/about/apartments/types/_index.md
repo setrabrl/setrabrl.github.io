@@ -25,6 +25,12 @@ Her ser du noen bilder fra leiligheter som har vært solgt
 
 ![4 roms lavblokk](hv66_4roms_2.jpg "Eksempel på 4 roms lavblokk")
 
+![4 roms lavblokk](hv66_4roms_3.jpg "Eksempel på 4 roms lavblokk")
+
+![4 roms lavblokk](hv66_4roms_4.jpg "Eksempel på 4 roms lavblokk")
+
+![4 roms lavblokk](hv66_4roms_5.jpg "Eksempel på 4 roms lavblokk")
+
 Se flere eksempler på oversikten over [gamle finn annonser](../salelisting/).
 
 ### 3 roms - 76.2m2
