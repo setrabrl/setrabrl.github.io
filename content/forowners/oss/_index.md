@@ -37,4 +37,8 @@ eier borettslaget plassen og denne leieretten er dermed "evig", mens i Landingsv
 
 Se mer [her](/forowners/parking/)
 
+**Spørsmål 6:** Har garasjeplassene mulighet for elbillading?
+
+**Svar 6:** Plassene i Hovseterveien 70 er forberedt for elbillading. Se detajer [her](https://setrabrl.no/forowners/evcharging/)
+
 {{% children description="true" depth="1" %}}
