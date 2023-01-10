@@ -37,7 +37,7 @@ Punktene var
 
 Detaljene om disse tiltakene kan lese i den [originale rapporten](tilstandsrapport2011.pdf).
 
-## Andre ferdige eller pågåande prosjekter
+## Andre utførte prosjekter
 
 1. Bytte av postkasser (2021)
 2. Bytte av leilighetsdører (2021-2022)
@@ -47,8 +47,8 @@ Detaljene om disse tiltakene kan lese i den [originale rapporten](tilstandsrappo
 
 ## Vedtatte tiltak - ikke startet
 
-- Felles brannvarslingsanlegg 84 - Planlagt 2022
-- Fikse på uteområder. Grillområde - Våren 2022
+- Felles brannvarslingsanlegg 84 - Planlagt våren 2023
+- Fikse på uteområder. Grillområde - Fortsetter våren 2023
 - Oppussing av innvendige ganger - 
 
 Nedenfor ser du detaljer om de forskjellige prosjektene.
