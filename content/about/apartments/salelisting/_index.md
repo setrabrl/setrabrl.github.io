@@ -6,14 +6,19 @@ weight: 2
 ---
 
 I utgangspunktet finner du alle annonser som finnes på Finn fra ca 2007 og nyere og som ikke er slettet.  
+Salgsprisen er den offisielle salgsprisen som er tinglyst. Der prisen er markert med ?? er det ingen offisell pris, men pris fra annonse som er brukt.
+
+Leiligheter som selges nå eller ikke er overtatt er merket med Selges nå.
+
+Ditt andelsnr finner du på [Vibbo](https://vibbo.no/setra/min-bolig)
 
 Hurtiglenker adresser
 
-- [64](#hovseterveien-64-31-323)
-- [66](#hovseterveien-66-31-324)
-- [68](#hovseterveien-68-31-333)
-- [82](#hovseterveien-82-31-324)
-- [84](#hovseterveien-84-31-331)
+- [Hovseterveien 64](#hovseterveien-64-31-323)
+- [Hovseterveien 66](#hovseterveien-66-31-324)
+- [Hovseterveien 68](#hovseterveien-68-31-333)
+- [Hovseterveien 82](#hovseterveien-82-31-324)
+- [Hovseterveien 84](#hovseterveien-84-31-331)
 
 Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full scan](hovseterscan).
  Dette inkluderer annonser fra Meklenborg og Kollektivet borettslag og eldre annonser som ikke har bilder. 
@@ -948,7 +953,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [06.06.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=92162141) - 3.080.000,-
 - [22.04.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=164810160) - 2.900.000,-
-- [1-roms andel 63](https://www.finn.no/realestate/homes/ad.html?finnkode=278930098) -
+- [Solgt, ikke overtatt](https://www.finn.no/realestate/homes/ad.html?finnkode=278930098) -
 
 ### 84D 2. etasje andel 64
 
@@ -1106,7 +1111,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
-- [2-roms andel 126](https://www.finn.no/realestate/homes/ad.html?finnkode=41412458) - 19.08.2013 2.500.000,-
+- [19.08.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=41412458) - 2.500.000,-
 
 ### 84D 5. etasje andel 127
 
