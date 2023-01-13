@@ -25,9 +25,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ## Hovseterveien 64 31-323
 
-[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
-
-- [Magisk link 64 31-323](https://www.finn.no/realestate/ownershiphistory.html?finnkode=12120233)
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653784.28&lon=257244.97&markerLat=6653784.20957246&markerLon=257243.14793172&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien). [Tinglyste salgssummer 64 31-323](https://www.finn.no/realestate/ownershiphistory.html?finnkode=12120233)
 
 ### 64A 1. etasje andel 12
 
@@ -157,9 +155,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ## Hovseterveien 66 31-324
 
-[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg)
-
-[Magisk link 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg). [Tinglyste salgssummer 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
 
 
 ### 66A 1. etasje andel 16
@@ -331,9 +327,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ## Hovseterveien 68 31-333
 
-[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653767.55&lon=257278.85&markerLat=6653775.782775348&markerLon=257278.64898391484&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
-
-[Magisk link 68 31-333](https://www.finn.no/realestate/ownershiphistory.html?finnkode=10133654)
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653767.55&lon=257278.85&markerLat=6653775.782775348&markerLon=257278.64898391484&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien). [Tinglyste salgssummer 68 31-333](https://www.finn.no/realestate/ownershiphistory.html?finnkode=10133654)
 
 ### 68B 2. etasje andel 174
 
@@ -725,9 +719,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ## Hovseterveien 82 31-324
 
-[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg)
-
-[Magisk link 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653837.55&lon=257294.49&markerLat=6653854.258830955&markerLon=257318.40889672833&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hamborg). [Tinglyste salgssummer 66 & 82 31-324](https://www.finn.no/realestate/ownershiphistory.html?finnkode=92229765)
 
 ### 82A 1. etasje andel 23
 
@@ -855,9 +847,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
   
 ## Hovseterveien 84 31-331
 
-[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653821.33&lon=257362.56&markerLat=6653824.832490009&markerLon=257352.65940223876&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien)
-
-[Magisk link 84 31-331](https://www.finn.no/realestate/ownershiphistory.html?finnkode=9760177)
+[Se kart](https://norgeskart.no/#!?project=seeiendom&zoom=18&lat=6653821.33&lon=257362.56&markerLat=6653824.832490009&markerLon=257352.65940223876&panel=Seeiendom&showSelection=true&p=Seeiendom&layers=1002,1013,1014,1015&sok=Hovseterveien). [Tinglyste salgssummer 84 31-331](https://www.finn.no/realestate/ownershiphistory.html?finnkode=9760177)
 
 ### 84D 1. etasje andel 28
 
