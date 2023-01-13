@@ -10,7 +10,7 @@ Salgsprisen er den offisielle salgsprisen som er tinglyst. Der prisen er markert
 
 Leiligheter som selges nå eller ikke er overtatt er merket med Selges nå.
 
-Ditt andelsnr finner du på [Vibbo](https://vibbo.no/setra/min-bolig)
+Hvis du bor i borettslaget og lurer på ditt andelsnr så finner du det på [Vibbo](https://vibbo.no/setra/min-bolig)
 
 Hurtiglenker adresser
 
@@ -281,7 +281,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [12.01.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=31968585) - 2.800.000,-
-- [3-roms andel 104](https://www.finn.no/realestate/homes/ad.html?finnkode=101442598) - Inaktiv
+- [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=101442598)
 
 ### 66B 4. etasje andel 105
 
@@ -459,7 +459,6 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 ### 68J 3. etasje andel 193
 
 [3-roms 77m2](/about/apartments/types/#3-roms---768m2---hovseterveien-68)
-
 
 - [02.03.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=9079627) - 1.900.000,-
 - [24.10.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=101442553) - 3.250.000,-
@@ -776,7 +775,6 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [03.11.2008](https://www.finn.no/realestate/homes/ad.html?finnkode=14521233) - 1.970.000,-
 
-
 ### 82C 2. etasje andel 55
 
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
@@ -924,7 +922,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [25.05.2009](https://www.finn.no/realestate/homes/ad.html?finnkode=16745325) - 1.470.000,-
 - [18.02.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=38509381) - 2.300.000,-
 - [29.03.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=69054608) - 2.850.000,-
-- [2-roms andel 37](https://www.finn.no/realestate/homes/ad.html?finnkode=168380157) - 3.300.000,-
+- [31.03.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=168380157) - 3.300.000,-
 
 ### 84D 2. etasje andel 57
 
