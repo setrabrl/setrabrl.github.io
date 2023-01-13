@@ -406,6 +406,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 1-roms 26m2
 
 - [19.12.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=160867945) - 2.275.000,-
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=287511433) - 2.890.000.-???
 
 ### 68J 2. etasje andel 185
 
@@ -606,6 +607,12 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [02.12.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=43976932) - 1.700.000,-
 
+### 68B 7. etasje andel 236
+
+[2-roms 66m2](https://setrabrl.no/about/apartments/types/#2-roms---655m2---hovseterveien-68)
+
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=287413246) - 3.250.000,-?? Oppussingsobjekt
+
 ### 68J 8. etasje andel 239
 
 [3-roms 77m2](/about/apartments/types/#3-roms---768m2---hovseterveien-68)
@@ -656,7 +663,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [28.06.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=9244399) - inaktiv)
 - [25.07.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10133654) - 2.000.000,-
-- [Aktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=286537399) - 3.900.000,-? Oppussingsobjekt
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=286537399) - 3.900.000,-? Oppussingsobjekt
 
 ### 68J 9. etasje andel 254
 
