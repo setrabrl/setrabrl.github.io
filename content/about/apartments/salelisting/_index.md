@@ -8,7 +8,7 @@ weight: 2
 I utgangspunktet finner du alle annonser som finnes på Finn fra ca 2007 og nyere og som ikke er slettet.  
 Salgsprisen er den offisielle salgsprisen som er tinglyst. Der prisen er markert med ?? er det ingen offisell pris, men pris fra annonse som er brukt.
 
-Leiligheter som selges nå eller ikke er overtatt er merket med Selges nå.
+Leiligheter som selges nå eller ikke er overtatt er merket med Selges nå. For informasjon om leilighetsstypene for hver enkel leilighet klikk på lenke under andelsnr.
 
 Hvis du bor i borettslaget og lurer på ditt andelsnr så finner du det på [Vibbo](https://vibbo.no/setra/min-bolig)
 
