@@ -347,7 +347,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 1-roms 26m2
 
-- [1-roms andel 176](https://www.finn.no/realestate/homes/ad.html?finnkode=11342647) - Inaktiv
+- [Inqk5if](https://www.finn.no/realestate/homes/ad.html?finnkode=11342647)
 - [06.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11570103) - 560.000,-???)
 - [16.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11608727) - 560.000,-???)
 - [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=39404379)
