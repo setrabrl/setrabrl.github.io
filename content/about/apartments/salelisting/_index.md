@@ -352,6 +352,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [16.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11608727) - 560.000,-???)
 - [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=39404379)
 - [14.02.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=108310970) - 2.100.000,-
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=287300486) - 2.800.000,-
 
 ### 68J 2. etasje andel 177
 
@@ -385,6 +386,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [29.05.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=116965559) - 2.500.000,-
 - [23.04.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=137862510) - 2.600.000,-
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=287586788) - 3.240.000,-
 
 ### 68B 2. etasje andel 182
 
