@@ -384,6 +384,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 3-roms 77m2
 
 - [04.01.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=133114247) - 3.290.000,-
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=287409864)
 
 ### 68B 2. etasje andel 181
 
