@@ -10,6 +10,11 @@ Salgsprisen er den offisielle salgsprisen som er tinglyst. Der prisen er markert
 
 Leiligheter som selges nå eller ikke er overtatt er merket med Selges nå. For informasjon om leilighetsstypene for hver enkel leilighet klikk på lenke under andelsnr.
 
+Ved å studere annonsene over tid vil du kunne se store forandringer. Eksempel
+
+![Eksempler](../renovation.jpg "Eksempler på oppussinger gjort over tid.")
+
+
 Hvis du bor i borettslaget og lurer på ditt andelsnr så finner du det på [Vibbo](https://vibbo.no/setra/min-bolig)
 
 Hurtiglenker adresser
@@ -347,7 +352,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 1-roms 26m2
 
-- [Inqk5if](https://www.finn.no/realestate/homes/ad.html?finnkode=11342647)
+- [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=11342647)
 - [06.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11570103) - 560.000,-???)
 - [16.11.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=11608727) - 560.000,-???)
 - [Inaktiv](https://www.finn.no/realestate/homes/ad.html?finnkode=39404379)
