@@ -669,7 +669,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [28.06.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=9244399) - inaktiv)
 - [25.07.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=10133654) - 2.000.000,-
-- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=286537399) - 3.900.000,-? Oppussingsobjekt
+- [01.05.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=286537399) - 3.700.000,- Oppussingsobjekt
 
 ### 68J 9. etasje andel 254
 
