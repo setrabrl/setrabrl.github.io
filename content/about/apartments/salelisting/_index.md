@@ -1240,6 +1240,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [02.12.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=44470630) - 2.100.000,-
 - [06.07.2017](https://www.finn.no/realestate/homes/ad.html?finnkode=94945283) - 3.110.000,-
 - [02.05.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=205640247) - 3.600.000,-
+- [Selges nå](https://www.finn.no/realestate/homes/ad.html?finnkode=289317189)
 
 ### 84D 7. etasje andel 148
 
