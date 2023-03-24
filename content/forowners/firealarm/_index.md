@@ -20,7 +20,7 @@ Denne må alle beboere i 68 gjøre seg kjent med.
 
 ## Hovseterveien 84
 
-Hovseterveien 84 har et annet anlegg som ble montert vinteren 2023 og igangsatt 24.03.2023
+Hovseterveien 84 har et annet anlegg som ble [montert vinteren 2023](../../projects/firesystem84/) og igangsatt 24.03.2023
 
 Anlegget har en sentral i inngangspartiet samt sentral i hver etasje.
 
@@ -31,6 +31,8 @@ Hvis alarm feilaktig blir utløst i leilighet (matlaging f.eks) så har beboer 3
 Beskrivelse står ved hver sentral. 
 
 Hvis alarmen går må man sikre at det ikke er brann før den eventuelt slås av. Falske alarmer skal i liten grad skje med dette systemet. 
+
+![instructions](innstruks84.png)
 
 ![Firesentra](firesentralmain.jpg "Sentral inngangsparti")
 
