@@ -9,14 +9,14 @@ Inkludert i husleien har hver leilighet kabel-TV og Internett fra Telenor.
 
 Fra 10.06.2022 vil borettslaget ha [Telenor Frihet M](https://www.telenor.no/privat/tv/poengsystem/frihet-m/?cid=11391_fix_sny_awa_all_aup_nul_frihet_m) avtale som er en revolusjon i forhold til tidligere avtale.
 
-Dette betyr at hver leilighet har 240 poeng de kan bruke fritt hos Telenor slik at man selv kan bestemme om man bare skal ha TV, bare skal ha Internett eller en kombinasjon.
+Dette betyr at hver leilighet har 260 poeng de kan bruke fritt hos Telenor slik at man selv kan bestemme om man bare skal ha TV, bare skal ha Internett eller en kombinasjon.
 
 F.eks vil man med 240 poeng kunne sette opp følgende pakker:
 
-- Bredbånd 20 og størst tv-pakke
+- Bredbånd 50 og størst tv-pakke
 - Bredbånd 100 og samme tv-pakke som i dag
-- Bredbånd 200 og liten tv-pakke
-- Bredbånd 350 og ingen tv-pakke
+- Bredbånd 250 og liten tv-pakke
+- Bredbånd 500 og ingen tv-pakke
 
 Ekstra poeng kan kjøpes i tilegg. Disse koster 29,- for 20 poeng.
 
@@ -28,14 +28,14 @@ Man kan selv velge hvilken hastighet på  Internett man ønsker seg. Nedenfor er
 
 | Hastighet ned/opp | Poeng | Poengverdi |
 |--------|------------|------|
-| 20/1 | 0 poeng | 0,- |
+| 50/1 | 0 poeng | 0,- |
 | 100/10 | 40 poeng | 58,- |  
-| 200/20 | 140 poeng | 203,- |
-| 350/30 | 240 poeng | 348,- |
-| 600/50 | 340 poeng | 493,- |
+| 250/20 | 140 poeng | 203,- |
+| 500/30 | 240 poeng | 348,- |
+| 750/50 | 340 poeng | 493,- |
 | 1000/50 | 440 poeng | 638,- |
 
-Bruker du bare poeng på Internett får du altså en 350/30 linje inkludert.
+Bruker du bare poeng på Internett får du altså en 500/30 linje inkludert.
 
 ## TV- Kanaler
 
@@ -70,7 +70,7 @@ Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompe
 
 For de som trenger mer spesifikasjon for Internettkostnader. 
 
-**Internettpakken 350 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er utgiften på Internett som er inkludert i TV/Internettpakken hver beboer må betale**
+**Internettpakken 500 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er utgiften på Internett som er inkludert i TV/Internettpakken hver beboer må betale**
 
 
 
