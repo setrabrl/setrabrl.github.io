@@ -7,7 +7,7 @@ weight: 2
 
 Det ble vedtatt 5. februar 2019 å inngå avtale med Mer (tidligere Grønn kontakt) for installasjon av et slikt anlegg. Denne arbeidet inkluderer infrastruktur til alle 157 plassene og ladeboks til de som ønsket det. Elbilanlegget var klar for bruk 18. september 2019. Dette arbeidet kostet totalt 768.733,75,-
 
-Som del av tilbudet fra Mer, fikk andeler med parkeringsplass i Hovseterveien 70 mulighet til å bestille ladeboks til 19.995,- inkludert montering. Det var 20 boenheter som takket ja til tilbudet i første omgang. Boenheter som ønsker ladeboks på sin plass må nå betale ca 22.500,- for å få montert opp ladeboks. Hver parkeringsplass er forberedt til dette.  
+Som del av tilbudet fra Mer, fikk andeler med parkeringsplass i Hovseterveien 70 mulighet til å bestille ladeboks til 19.995,- inkludert montering. Det var 20 boenheter som takket ja til tilbudet i første omgang. Boenheter som ønsker ladeboks på sin plass må nå betale ca 23.900,- for å få montert opp ladeboks. Hver parkeringsplass er forberedt til dette.  
 
 ![Mer](merlogo.png)
 
@@ -47,7 +47,7 @@ Boksen har uttakt for Type 2 kabel som kobles inn i den. (følger typisk med elb
 
 ## Hvordan bestiller man?
 
-For å bestille ladeboks trenger du å fylle ut [dette skjemaet](bestillingskjema.pdf), scanne det og sende på epost til order.no@mer.eco  Prisen er 22.495,-
+For å bestille ladeboks trenger du å fylle ut [dette skjemaet](bestillingskjema.pdf), scanne det og sende på epost til order.no@mer.eco  Prisen er 23.900,-
 
 Mer vil da ordne montering og ladebrikke til deg. Forvent ca 2-4 ukers leveringstid fra man bestiller.
 
@@ -59,7 +59,7 @@ Les Mer generelle informasjon.
 
 **Spørsmål:** Hva vil det koste å få elbillader på parkeringsplassen 
 
-**Svar:**  Prisen er 22.495,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 250øre/kWh)
+**Svar:**  Prisen er 23.900,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 250øre/kWh)
 
 **Spørsmål:**  Hvordan blir strømforbruket betalt:
 
