@@ -49,7 +49,13 @@ E-post eirik@frontent.no
 
 Sett gjerne setra@styrerommet.no på kopi
 
+## Ferdigattester 
 
+[Ferdigattest 68](Ferdigattest_1.pdf)
+
+[Ferdigattest 64 og 82](Ferdigattest_2.pdf)
+
+[Ferdigattest 84F](Ferdigattest_3.pdf)
 
 
 {{% children description="true" depth="1" %}}
