@@ -37,32 +37,32 @@ Grafen nedenfor viser utviklingen av felleskostnader over tid for utvalge leilig
 
 Borettslaget har forskjellige lån tatt opp til forskjellige behov over tid. Eksempler på lån som er tatt opp nylig er rør og våtromsprosjektet, kjøp av garasje og fasadeprosjekt.
 
-Lånene er totalt på 163 091 247,- (05.08.2022)
+Lånene er totalt på 160 745 615,- (30.03.2023)
 
 ### OBBK02
 
-- Saldo: 28.008.912,-
+- Saldo: 27.359.697,-
 - Månedlig terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
 
 ### OBBK04
 
-- Saldo: 54.776.840,-
+- Saldo: 53.918.614,-
 - Månedlig terminer til november 2047
 
 Lån til bad og våtroms rehabilitering.
 
 ### OBOS08
 
-- Saldo: 74.041.525,-
+- Saldo: 73.373.718,-
 - Månedlig terminer til april 2059
 
-Lån til fasadeprosjekt. Dette er nå fullt ut belastet og vil ikke øke mer.
+Lån til fasadeprosjekt. 
 
 ### OBOS09
 
-- Saldo: 6.263.970,-
+- Saldo: 6.093.586,-
 - Månedlig terminer til april 2039
 
 Lån til tidligere vedlikehold.
