@@ -46,7 +46,7 @@ Detaljene om disse tiltakene kan lese i den [originale rapporten](tilstandsrappo
 5. Renovering garasje
 6. Brannvarslingssystem 84 (2022-2023)
 
-## Vedtatte tiltak - ikke startet
+## Andre prosjekt under arbeid
 
 - Fikse på uteområder. Grillområde - Fortsetter våren 2023
 - Oppussing av innvendige ganger - [Pågår](hallways)
