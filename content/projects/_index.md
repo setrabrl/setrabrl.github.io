@@ -44,12 +44,13 @@ Detaljene om disse tiltakene kan lese i den [originale rapporten](tilstandsrappo
 3. Nytt låsesystem (2019-2021)
 4. Bytte av boddører (2021)
 5. Renovering garasje
+6. Brannvarslingssystem 84 (2022-2023)
 
 ## Vedtatte tiltak - ikke startet
 
-- Felles brannvarslingsanlegg 84 - Planlagt våren 2023
 - Fikse på uteområder. Grillområde - Fortsetter våren 2023
-- Oppussing av innvendige ganger - 
+- Oppussing av innvendige ganger - [Pågår](hallways)
+- Sykkelrom 68
 
 Nedenfor ser du detaljer om de forskjellige prosjektene.
 
