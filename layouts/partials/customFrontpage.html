@@ -46,7 +46,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-12 mb-12">
-                <a href="{{ with .Site.GetPage `/about/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/about/`}}{{.RelPermalink }}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="about/about_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -62,7 +62,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/forowners/vibbo/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/forowners/vibbo/`}}{{.RelPermalink }}{{end}}" class="a-illustrationLink">
                     <div class="">
                         <img src="forowners/vibbo/vibbo.png">
                         <div class="a-illustration-overlay">
@@ -75,7 +75,7 @@
                 </a>
             </div>
             <div class="col-12 col-lg-6 mb-5">
-                <a href="{{ with .Site.GetPage `/area/outdoor/hovseterdalen/`}}{{.URL}}{{end}}#akebakker-i-hovseteredalen" class="a-illustrationLink">
+                <a href="{{ with .Site.GetPage `/area/outdoor/hovseterdalen/`}}{{.RelPermalink }}{{end}}#akebakker-i-hovseteredalen" class="a-illustrationLink">
                     <div class="">
                         <img src="area/outdoor/hovseterdalen/orrekjempen_frontpage.jpg">
                         <div class="a-illustration-overlay">
@@ -94,7 +94,7 @@
 
     <div class="row adocs-featuredBlocks">
         <div class="col-12 col-lg-4 mb-5">
-            <a href="{{ with .Site.GetPage `/about/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+            <a href="{{ with .Site.GetPage `/about/`}}{{.RelPermalink }}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-forowners-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-forowners-description"}}</p>
                 <div class="a-illustration-icon">
@@ -107,7 +107,7 @@
             <div class="a-list-container mb-2 mx-auto mx-lg-2">
                 <ul class="a-list a-list-noIcon">
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/welcome/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/welcome/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-welcome"}}
@@ -116,7 +116,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/parking/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/parking/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-parking"}}
@@ -125,7 +125,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/evcharging/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/evcharging/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-evcharging"}}
@@ -134,7 +134,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/internettv/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/internettv/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-internettv"}}
@@ -143,7 +143,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/garbage/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/garbage/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-garbage"}}
@@ -152,7 +152,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/forowners/finance/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/forowners/finance/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "forowners-finance"}}
@@ -164,7 +164,7 @@
             </div>
         </div>
         <div class="col-12 col-lg-4 mb-5">
-            <a href="{{ with .Site.GetPage `/area/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+            <a href="{{ with .Site.GetPage `/area/`}}{{.RelPermalink }}{{end}}" class="a-illustrationLink">
                 <h2 class="a-h3">{{T "frontpage-sections-area-title"}}</h2>
                 <p class="a-js-truncate-2">{{T "frontpage-sections-area-description"}}</p>
                 <div class="a-illustration-icon">
@@ -177,7 +177,7 @@
             <div class="a-list-container mb-2 mx-auto mx-lg-2">
                 <ul class="a-list a-list-noIcon">
                 <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/area/kindergardenschools/kindergarden/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/area/kindergardenschools/kindergarden/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "area-kindergarden"}}
@@ -186,7 +186,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/area/kindergardenschools/scools/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/area/kindergardenschools/scools/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "area-schools"}}
@@ -195,7 +195,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/area/outdoor`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/area/outdoor`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "area-outdoors"}}
@@ -204,7 +204,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/area/transport/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/area/transport/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "area-transport"}}
@@ -213,7 +213,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/area/outdoor/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/area/outdoor/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "area-shoppinganddining"}}
@@ -225,7 +225,7 @@
             </div>
         </div>
         <div class="col-12 col-lg-4 mb-5">
-              <a href="{{ with .Site.GetPage `/projects/`}}{{.URL}}{{end}}" class="a-illustrationLink">
+              <a href="{{ with .Site.GetPage `/projects/`}}{{.RelPermalink }}{{end}}" class="a-illustrationLink">
                   <h2 class="a-h3">{{T "frontpage-sections-projects-title"}}</h2>
                   <p class="a-js-truncate-2">{{T "frontpage-sections-projects-description"}}</p>
                   <div class="a-illustration-icon">
@@ -238,7 +238,7 @@
               <div class="a-list-container mb-2 mx-auto mx-lg-2">
                   <ul class="a-list a-list-noIcon">
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/projects/bath/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/projects/bath/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "projects-bath"}}
@@ -247,7 +247,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/projects/facade/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/projects/facade/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "projects-facade"}}
@@ -256,7 +256,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                          <a href="{{ with .Site.GetPage `/projects/garage/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                          <a href="{{ with .Site.GetPage `/projects/garage/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                               <div class="row">
                                   <div class="col">
                                     {{T "projects-garage"}}
@@ -265,7 +265,7 @@
                           </a>
                       </li>
                       <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/projects/apartments/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/projects/apartments/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "projects-apartments"}}
@@ -274,7 +274,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/projects/apartmentdoors/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/projects/apartmentdoors/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "projects-apartmentdoors"}}
@@ -283,7 +283,7 @@
                         </a>
                     </li>
                     <li class="a-dotted a-clickable a-list-hasRowLink">
-                        <a href="{{ with .Site.GetPage `/projects/outside/`}}{{.URL}}{{end}}" class="a-list-rowLink">
+                        <a href="{{ with .Site.GetPage `/projects/outside/`}}{{.RelPermalink }}{{end}}" class="a-list-rowLink">
                             <div class="row">
                                 <div class="col">
                                     {{T "projects-outside"}}
