@@ -7,7 +7,7 @@
                         <a href="https://www.facebook.com/groups/855516694552952">Facebook</a>
                     </li>
                     <li>
-                        <a href="{{ with .Site.GetPage `/about/contact/`}}{{.URL}}{{end}}">{{T "footer-contact"}}</a>
+                        <a href="{{ with .Site.GetPage `/about/contact/`}}{{.RelPermalink }}{{end}}">{{T "footer-contact"}}</a>
                     </li>
                     <li>
                         <a href="https://vibbo.no/setra">Vibbo</a>
