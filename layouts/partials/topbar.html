@@ -27,22 +27,22 @@
                 {{- partial "language-switcher.html" . -}}
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/about/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/about/`}}{{.RelPermalink}}{{end}}">
                    {{ T "menu-about"}}
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/forowners/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline " href="{{ with .Site.GetPage `/forowners/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-forowners"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/projects/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/projects/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-projects"}} 
                 </a>
               </li>
               <li>
-                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/area/`}}{{.URL}}{{end}}">
+                <a class="a-hvr-underline" href="{{ with .Site.GetPage `/area/`}}{{.RelPermalink}}{{end}}">
                   {{ T "menu-area"}} 
                 </a>
               </li>
