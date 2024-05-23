@@ -23,7 +23,7 @@ Hver leilighet vil få tilgang til inngangsdør i sin oppgang samt fellesrom til
 
 ## Ekstra nøkler
 
-Beboere kan bestille ekstra nøkler. Disse koster 300,- pr stk og programmeres som andre nøkler tilhørende beboer. (Tilgang til fellesområder og eventuell garasje).
+Beboere kan bestille ekstra nøkler. Disse koster 450,- pr stk og programmeres som andre nøkler tilhørende beboer. (Tilgang til fellesområder og eventuell garasje).
 
 Send mail til setra@styrerommet.net med tittel ekstra nøkler.
 
