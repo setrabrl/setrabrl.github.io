@@ -5,7 +5,7 @@ description:  Kontaktinformasjon til styret
 weight: 1
 ---
 
-[Styret](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=950474084) kan nås via [Vibbo](https://vibbo.no/setra) eller via epost setra@styrerommet.net / setra@styrerommet.no
+[Styret](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=950474084) kan nås via [Vibbo](https://vibbo.no/setra) eller via epost setra@styrerommet.no
 
 og består av følgende
 
