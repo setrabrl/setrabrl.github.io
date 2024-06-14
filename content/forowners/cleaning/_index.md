@@ -5,7 +5,8 @@ description:  Borettslaget har avtale med renholdsfirma for trappevask og vask f
 weight: 2
 ---
 
-Det er Økonmiske Løsninger AS som  fra uke 7 2019 har avtalen med vask. Vask gjennomføres på fredager.
+Borettslaget har avtale med Kleva AS for renhold av felles arealer. Vask gjennomføres på torsdager i lavblokkene og fredager i høyblokkene. De vasker høyblokkene med stor gulvvaskemaskin for å sikre et rent og pent miljø i høyblokkene.
+For å sikre et effektivt renhold må alle ta inn dørmatten før renholdsfirma begynner med vasking på torsdag og fredag morgen. Den kan legges ut igjen når det er vasket.
 
 ![Vask](vask.png)
 
