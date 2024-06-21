@@ -10,22 +10,20 @@ weight: 1
 og består av følgende
 
 - Leder: Hanne Cecilie Lunde - Hovseterveien 66A
-- Nestleder: Rune Tømmerås Larsen
+- Nestleder: Atin Hejrani
 
 ### Styremedlemmer
 
+- Catharina Ellingsæter
+- Elin Kolle
 - Michael Noor
 - Ragnhild Sundsbak
-- Elin Kolle
-- Francesca Vyvial
 
 ### Varamedlemmer
 
-- Martin André Bildøy Asheim
-- Geir Tore Bakken
-- Åsne Falk-Tveita
-- Atin Hejrani
-- Shoaib Mohammad Sultan
+- Rune Tømmerås Larsen
+- Kirsti Moholdt
+- Knut Reidulff
 
 Akutte henvendelser kan rettes til Hanne Cecilie Lunde på tlf 404 70 246
 
