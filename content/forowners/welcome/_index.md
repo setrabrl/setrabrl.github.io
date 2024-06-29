@@ -17,7 +17,7 @@ Velkommen som beboer i Setra borettslag. Borettslaget består av ca 260 leilighe
 
 **Spørsmål 3:** Hvordan kommer vi i kontakt med styret.
 
-**Svar:** Den beste måten er via epost. Detaljer finner du her.
+**Svar:** Den beste måten er via epost. Detaljer finner du [her](https://setrabrl.no/about/contact/).
 
 **Spørsmål 4:** Når og hvordan ønsker dere at vi betaler inn felleskostnadene?
 
@@ -35,7 +35,7 @@ Betalingsinformasjon blir sendt så snart OBOS mottar melding fra megler om eier
 
 **Spørsmål 7:** Hvor kan mine gjester parkere?
 
-**Svar:** Detaljer om gjesteparkering finner du her.
+**Svar:** Detaljer om gjesteparkering finner du [her](https://setrabrl.no/forowners/parking/).
 
 **Spørsmål 8:** Hvordan får jeg skiftet navn på ringeklokken
 
