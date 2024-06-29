@@ -78,6 +78,8 @@ For de som trenger mer spesifikasjon for Internettkostnader.
 
 Utstyr som er tilknyttet systemet eies av borettslaget. Ved salg skal utstyret viderføres til ny kjøper.
 
+Hvis du mangler enten dekoder, modem eller ruter, må du kontakte Telenor for hjelp.
+
 Våren 2022 fikk borettslaget nye modem og Wifi-routere til alle leiligheter (som ikke har ny type allerde).
 
 Dette skal ifølge Telenor gi raskere og mer stabilit Internett.
