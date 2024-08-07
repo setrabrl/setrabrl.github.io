@@ -47,19 +47,14 @@ Boksen har uttakt for Type 2 kabel som kobles inn i den. (følger typisk med elb
 
 ## Hvordan bestiller man?
 
-For å bestille ladeboks trenger du å fylle ut [dette skjemaet](bestillingskjema.pdf), scanne det og sende på epost til order.no@mer.eco  Prisen er 23.900,-
+Ladeboks og montering bestilles direkte via leverandøren. For å bestille ladeboks sjekk oppdatert info [her på Vibbo](https://vibbo.no/setra/tema/elbil-lader)
 
-Mer vil da ordne montering og ladebrikke til deg. Forvent ca 2-4 ukers leveringstid fra man bestiller.
-
+Mer vil da ordne montering og ladebrikke til deg.
 ![FAQ](teslaroadster.png)
  
 ## Spørsmål og svar
 
 Les Mer generelle informasjon. 
-
-**Spørsmål:** Hva vil det koste å få elbillader på parkeringsplassen 
-
-**Svar:**  Prisen er 23.900,- for boks og installasjon i garasjen. I tilegg kommer 39,- kr i månedsavgift til Mer og så må du betale for strømmen (for øyeblikket 250øre/kWh)
 
 **Spørsmål:**  Hvordan blir strømforbruket betalt:
 
