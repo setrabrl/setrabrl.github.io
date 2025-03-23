@@ -52,6 +52,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [07.10.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=30309791) - 2.850.000,-
 - [04.12.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=37641929) - 2.990.000,-
+- [20.07.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=302879435) - 4.720.000,-
 
 ### 64B 2. etasje andel 41
 
@@ -120,8 +121,8 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [trukket](https://www.finn.no/realestate/homes/ad.html?finnkode=130785426) - trukket, se nedenfor
 - [16.12.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=189991704) - 3.780.000,-
+- [02.10.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=305990614) - 5.100.000,-
 
-[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 ### 64C 4. etasje andel 101
 
@@ -286,6 +287,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [18.08.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=48199623) - 3.400.000,-
+- [02.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=301518140) - 5.200.000,-
 
 ### 66A 4. etasje andel 104
 
@@ -758,6 +760,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 ### 68B 2. etasje andel 280
 
 - [3-roms andel 280](https://www.finn.no/realestate/homes/ad.html?finnkode=220098515) - 04.10.2021 4.225.000,-
+- [3-roms andel 280](https://www.finn.no/realestate/homes/ad.html?finnkode=311740838) - 15.09.2023 4.500.000,-
 - [3-roms andel 280](https://www.finn.no/realestate/homes/ad.html?finnkode=324743993) - 01.02.2024 4.490.000,-
   
 
@@ -841,6 +844,12 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [09.03.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=238409777) - 4.700.000,-
+
+### 82B 3. etasje andel 83
+
+[3 roms 76m2](/about/apartments/types/#3-roms---762m2)
+
+- [01.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=304465182) - 4.050.000,-
 
 ### 82C 3. etasje andel 85
 
@@ -966,6 +975,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [08.07.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=28212260) - 2.025.000,-
 - [03.08.2015](https://www.finn.no/realestate/homes/ad.html?finnkode=57824934) - 2.350.000,-
 - [20.07.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=113698082) - 2.790.000,-
+- [14.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=307321641) - 4.100.000,-
 
 ### 84D 1. etasje andel 37
 
@@ -1095,6 +1105,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [05.12.2013](https://www.finn.no/realestate/homes/ad.html?finnkode=44267934) - 1.980.000,-
 - [01.04.2020](https://www.finn.no/realestate/homes/ad.html?finnkode=159287909) - 3.250.000,-
+- [02.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=304310428) - 4.050.000,-
 - [01.04.2024](https://www.finn.no/realestate/homes/ad.html?finnkode=363935997) - 4.000.000,-
 
 ### 84D 3. etasje andel 96
@@ -1373,6 +1384,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [10.10.2012](https://www.finn.no/realestate/homes/ad.html?finnkode=36880436) - 2.070.000,-
 - [29.03.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=49247788) - 2.625.000,-
 - [13.01.2022](https://www.finn.no/realestate/homes/ad.html?finnkode=237917850) - 3.700.000,-
+- [14.09.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=307527429) - 3.970.000,-
 
 ### 84D 8. etasje andel 160
 
