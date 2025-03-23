@@ -60,6 +60,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [05.12.2008](https://www.finn.no/realestate/homes/ad.html?finnkode=12800588) - 2.850.000,-
 - [28.12.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=128170480) - 3.850.000,-
+- [28.07.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=301897473) - 5.500.000,-
 
 ### 64B 2. etasje andel 42
 
@@ -237,6 +238,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [4-roms 90m2](/about/apartments/types/#4-roms---90m2)
 
 - [20.06.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=73048913) - 4.150.000,-
+- [ukjent](https://www.finn.no/realestate/homes/ad.html?finnkode=297798063) - ?
 
 ### 66C 2. etasje andel 49
 
@@ -464,6 +466,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 - [03.10.2008](https://www.finn.no/realestate/homes/ad.html?finnkode=12818928) - 1.400.000,-
 - [12.09.2018](https://www.finn.no/realestate/homes/ad.html?finnkode=126037802) - 3.170.000,-
 - [07.01.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=196673443) - 3.600.000,-
+- [02.05.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=294229099) - 4.210.000,-
 
 ### 68J 3. etasje andel 191
 
@@ -684,6 +687,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [2-roms 66m2](https://setrabrl.no/about/apartments/types/#2-roms---655m2---hovseterveien-68)
 
 - [26.02.2011](https://www.finn.no/realestate/homes/ad.html?finnkode=26803611) - 1.500.000,-
+- [11.07.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=300898405) - 4.290.000,-
 - [31.05.2024](https://www.finn.no/realestate/homes/ad.html?finnkode=343342436) - 4.290.000,-
 
 ### 68J 9. etasje andel 252
@@ -751,7 +755,9 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 ### 68J 1. etasje andel 278
 
-- [3-roms andel 278](https://www.finn.no/realestate/homes/ad.html?finnkode=209380303) - 06.04.2021 4.600.000,-
+
+- [06.04.2021](https://www.finn.no/realestate/homes/ad.html?finnkode=209380303) - 4.600.000,-
+- [01.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=303040957) - 4.200.000,-
 
 ### 68J 1. etasje andel 279
 
@@ -827,6 +833,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [3 roms 76m2](/about/apartments/types/#3-roms---762m2)
 
 - [08.02.2007](https://www.finn.no/realestate/homes/ad.html?finnkode=8928978) - 2.135.000,-
+- [29.06.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=301535102) - 4.300.000,-
 
 ### 82A 3. etasje andel 81
 
@@ -919,6 +926,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [30.04.2010](https://www.finn.no/realestate/homes/ad.html?finnkode=21296349) - 1.620.000,-
 - [04.07.2014](https://www.finn.no/realestate/homes/ad.html?finnkode=48022549) - 2.000.000,-
+- [18.07.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=48022549) - 3.500.000,-
 
 ### 84D 1. etasje andel 29
 
@@ -932,6 +940,7 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 
 - [04.08.2016](https://www.finn.no/realestate/homes/ad.html?finnkode=73475993) - 2.600.000,-
 - [04.03.2019](https://www.finn.no/realestate/homes/ad.html?finnkode=131892632) - 3.070.000,-
+- [02.08.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=299775652) - 3.850.000,-
 
 ### 84D 1. etasje andel 31
 
@@ -1285,12 +1294,14 @@ Hvis du er ute etter absolutt alle finnanonser fra Hovseterveien kan du se [Full
 [1-roms 31m2](/about/apartments/types/#1-roms---31m2)
 
 - [18.08.2006](https://www.finn.no/realestate/homes/ad.html?finnkode=8092506) - 1.080.000,-
+- [26.06.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=302772872) - 3.550.000,-
 
 ### 84D 6. etasje andel 144
 
 [2-roms 53m2](/about/apartments/types/#2-roms---525m2)
 
 - [18.12.2015](https://www.finn.no/realestate/homes/ad.html?finnkode=64221362) - 2.200.000,-
+- [01.07.2023](https://www.finn.no/realestate/homes/ad.html?finnkode=298945885) - 4.025.000,-
 
 ### 84D 6. etasje andel 145
 
