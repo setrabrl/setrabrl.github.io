@@ -18,24 +18,9 @@ F.eks vil man med 240 poeng kunne sette opp følgende pakker:
 - Bredbånd 250 og liten tv-pakke
 - Bredbånd 500 og ingen tv-pakke
 
-Ekstra poeng kan kjøpes i tilegg. Disse koster 29,- for 20 poeng.
+Ekstra poeng kan kjøpes i tilegg.
 
 Et viktig poeng er at du kan endre på oppsettet hele tiden så mange ganger du vil. Dette gjøres du på [Telenors hjemmesider](https://www.telenor.no/privat/minesider/web/fixed/)
-
-## Internett hastigheter
-
-Man kan selv velge hvilken hastighet på  Internett man ønsker seg. Nedenfor er hastigheten med poengkostnad og poengverdi.
-
-| Hastighet ned/opp | Poeng | Poengverdi |
-|--------|------------|------|
-| 50/1 | 0 poeng | 0,- |
-| 100/10 | 40 poeng | 58,- |  
-| 250/20 | 140 poeng | 203,- |
-| 500/30 | 240 poeng | 348,- |
-| 750/50 | 340 poeng | 493,- |
-| 1000/50 | 440 poeng | 638,- |
-
-Bruker du bare poeng på Internett får du altså en 500/30 linje inkludert.
 
 ## TV- Kanaler
 
