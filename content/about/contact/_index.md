@@ -9,7 +9,7 @@ weight: 1
 
 og består av følgende
 
-- Leder:  - Atin Hejrani
+- Leder: Atin Hejrani
 - Nestleder: Hanne Cecilie Lunde
 
 ### Styremedlemmer
