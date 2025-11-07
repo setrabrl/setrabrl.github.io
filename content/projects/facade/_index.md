@@ -5,8 +5,6 @@ description:  På generalforsamlingen 11.05.2017 ble det vedtatt at fasadene sku
 weight: 2
 ---
 
-![Facade](fasade2.jpg "Originale fasader")
-
 Les mer om det orginale forslaget og vedtaket her.
 
 ## Om prosjektgjennomføringen
