@@ -9,8 +9,6 @@ Det ble vedtatt 5. februar 2019 å inngå avtale med Mer (tidligere Grønn konta
 
 Som del av tilbudet fra Mer, fikk andeler med parkeringsplass i Hovseterveien 70 mulighet til å bestille ladeboks til 19.995,- inkludert montering. Det var 20 boenheter som takket ja til tilbudet i første omgang. Boenheter som ønsker ladeboks på sin plass må nå betale ca 23.900,- for å få montert opp ladeboks. Hver parkeringsplass er forberedt til dette.  
 
-![Mer](merlogo.png)
-
 Det ble også søkt om støtte fra Oslo Kommune for arbeidet med ladeinfrastrukturen via [ordningen Oslo kommune har for slik støtte](https://www.oslo.kommune.no/politikk-og-administrasjon/tilskudd-legater-og-stipend/tilskudd-til-ladeinfrastruktur-i-borettslag-og-sameier/#gref). Borettslaget fikk 153.747,- utbetalt i støtte fra Oslo Kommune.
 
 ## Hva koster det å lade?
