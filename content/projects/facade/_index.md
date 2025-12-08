@@ -40,9 +40,7 @@ Følgende kostnader er knyttet til prosjektet som helhelt
 - SUM KOSTNADER 82.530.939,-
 
 ## Reklamasjoner
-Ved reklamasjoner kan dette i utgangspunktet tas med Front Entrepenør som var hovedleverandør. E-post eirik@frontent.no
-
-Sett gjerne setra@styrerommet.no på kopi
+Ved reklamasjoner kan dette i utgangspunktet tas med Front Entrepenør som var hovedleverandør. E-post eirik@frontent.no med styret på kopi: setra@styrerommet.no 
  
 ## Detaljert beskrivelse av arbeidet
 
