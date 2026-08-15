@@ -22,8 +22,8 @@ Er du ny i borettslaget, bør du lese [informasjonen for nye beboere](../forowne
 
 [Les om området](../area/)
 
-Se også filmen nedenfor. Slå gjerne på teksting.
+Se Setra borettslag og nærområdet fra luften i filmen nedenfor.
 
-{{< youtube YLCEjCFeqDI >}}
+{{< youtube-embed VnkebWm37G4 "Flytur rundt Setra borettslag" >}}
 
 {{% children description="true" depth="1" %}}

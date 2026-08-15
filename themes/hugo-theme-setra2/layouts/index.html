@@ -1,11 +1,11 @@
 {{ define "main" }}
 <main id="hovedinnhold">
-  {{ $about := .Site.GetPage "/about" }}{{ $hero := $about.Resources.GetMatch "DJI_0100.jpg" }}
+  {{ $about := .Site.GetPage "/about" }}{{ $hero := $about.Resources.GetMatch "setra-hero-2026.jpg" }}
   <section class="hero">
     {{ with $hero }}
       {{ $w640 := .Fill "640x320 webp q60" }}{{ $w960 := .Fill "960x480 webp q60" }}{{ $w1120 := .Fill "1120x560 webp q60" }}{{ $w1600 := .Fill "1600x800 webp q60" }}
       {{ $j640 := .Fill "640x320 jpg q60" }}{{ $j960 := .Fill "960x480 jpg q60" }}{{ $j1120 := .Fill "1120x560 jpg q60" }}{{ $j1600 := .Fill "1600x800 jpg q60" }}
-      <picture><source srcset="{{ $w640.RelPermalink }} 640w, {{ $w960.RelPermalink }} 960w, {{ $w1120.RelPermalink }} 1120w, {{ $w1600.RelPermalink }} 1600w" sizes="100vw"><img src="{{ $j1120.RelPermalink }}" srcset="{{ $j640.RelPermalink }} 640w, {{ $j960.RelPermalink }} 960w, {{ $j1120.RelPermalink }} 1120w, {{ $j1600.RelPermalink }} 1600w" sizes="100vw" width="1600" height="800" alt="Setra borettslag sett ovenfra" loading="eager" fetchpriority="high"></picture>
+      <picture><source srcset="{{ $w640.RelPermalink }} 640w, {{ $w960.RelPermalink }} 960w, {{ $w1120.RelPermalink }} 1120w, {{ $w1600.RelPermalink }} 1600w" sizes="100vw"><img src="{{ $j1120.RelPermalink }}" srcset="{{ $j640.RelPermalink }} 640w, {{ $j960.RelPermalink }} 960w, {{ $j1120.RelPermalink }} 1120w, {{ $j1600.RelPermalink }} 1600w" sizes="100vw" width="1600" height="800" alt="Setra borettslag sett fra luften mot Oslofjorden, august 2026" loading="eager" fetchpriority="high"></picture>
     {{ end }}
     <div class="hero-inner">
       <p class="kicker">Hovseter · Oslo vest</p>
