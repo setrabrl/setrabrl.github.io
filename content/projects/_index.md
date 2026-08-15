@@ -3,6 +3,7 @@ title: Vedlikehold og prosjekter
 linktitle: Vedlikehold og prosjekter
 description: Borettslaget har gjennomført flere vedlikeholdsprosjekter og har andre under planlegging eller gjennomføring. Denne siden gir en oversikt over prosjektene og statusen deres.
 weight: 3
+lastmod: 2026-08-15
 ---
 
 ## Tilstandsrapport mai 2011
@@ -47,10 +48,14 @@ Detaljer om tiltakene kan leses i den [originale rapporten](tilstandsrapport2011
 6. Brannvarslingssystem 84 (2022-2023)
 7. Sykkelrom i nr. 68 (2023)
 
-## Andre prosjekter under arbeid
+## Vedlikehold og tiltak i 2025
 
-- Utbedring av uteområdene. Arbeidet med grillområdet fortsetter våren 2023
-- Oppussing av innvendige ganger – [pågår](hallways)
+- Rens og feilsøking av ventilasjonsanleggene
+- Obligatoriske kontroller av brann- og elektriske anlegg
+- Tiltak mot mugg og sopp på K3 i garasjen, blant annet avfukter og nye kanaler
+- Vask av alle garasjeplan
+- Planlegging og innhenting av tilbud til oppgradering av lekeplassen
+- Vedlikehold av grøntområder og andre felles uteområder
 
 Nedenfor ser du detaljer om de forskjellige prosjektene.
 

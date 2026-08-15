@@ -3,6 +3,7 @@ title: Fellesgjeld og felleskostnader
 linktitle: Fellesgjeld og felleskostnader
 description: Denne artikkelen forklarer fellesgjeld og felleskostnader i borettslaget.
 weight: 3
+lastmod: 2026-08-15
 ---
 
 Hver leilighet i borettslaget har felleskostnader og fellesgjeld. Beløpene varierer ut fra egenskapene ved leiligheten.
@@ -33,36 +34,40 @@ Grafen nedenfor viser utviklingen av felleskostnader over tid for utvalgte leili
 
 ![Felleskostnader](felleskostanderhistorisk.png)
 
+## Nøkkeltall fra årsregnskapet for 2025
+
+Årsregnskapet for 2025 viser et årsresultat på kr 5 834 357 og disponible midler på kr 6 377 430 ved utgangen av året. Borettslaget betalte ned kr 3 354 204 på langsiktig gjeld i løpet av 2025.
+
 ## Hva dekker fellesgjelden
 
 Borettslaget har over tid tatt opp lån til forskjellige formål. Nyere eksempler er rør- og våtromsprosjektet, kjøpet av garasjen og fasadeprosjektet.
 
-Lånene var på totalt kr 158 417 856 per 14. november 2023.
+Lånene var på totalt kr 151 351 687 per 31. desember 2025. Årsregnskapet oppgir en flytende rente på 4,89 % for de tre største lånene på denne datoen.
 
 ### OBBK02
 
-- Saldo: kr 26 617 737 
+- Saldo: kr 24 206 367 per 31. desember 2025
 - Månedlige terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
 
 ### OBBK04
 
-- Saldo:  kr 53 089 235 
+- Saldo: kr 50 586 117 per 31. desember 2025
 - Månedlige terminer til november 2047
 
 Lån til rehabilitering av bad og våtrom.
 
 ### OBOS08
 
-- Saldo:  kr 72 794 480
+- Saldo: kr 71 211 075 per 31. desember 2025
 - Månedlige terminer til april 2059
 
 Lån til fasadeprosjekt.
 
 ### OBOS09
 
-- Saldo:  kr 5 916 404
+- Saldo: kr 5 348 128 per 31. desember 2025
 - Månedlige terminer til april 2039
 
 Lån til tidligere vedlikehold.
@@ -89,7 +94,7 @@ OBOS har oversikten over fordelingsnøklene og benytter dem ved fordeling. Til s
 
 Hvis lånet skal fordeles etter fordelingsnøkkelen, multipliserer du lånesummen med leilighetens fordelingsnøkkel. Det er denne beregningen OBOS bruker.
 
-Eksempel: Et samlet lån utenom garasjen på kr 139 203 368 × 0,004693 gir en andel på kr 653 324.
+Eksempel: Samlet gjeld utenom garasjelånet var kr 127 145 320 ved utgangen av 2025. Kr 127 145 320 × 0,004693 gir en beregnet andel på omtrent kr 596 693.
 
 Se beregningen per leilighetstype nedenfor.
 

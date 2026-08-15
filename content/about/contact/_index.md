@@ -3,6 +3,7 @@ title: Kontaktinformasjon
 linktitle: Kontaktinformasjon
 description: Kontaktinformasjon til styret.
 weight: 1
+lastmod: 2026-08-15
 ---
 
 [Styret](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=950474084) kan nås via [Vibbo](https://vibbo.no/setra) eller på e-postadressen setra@styrerommet.no. Styret består av følgende personer:
@@ -18,7 +19,7 @@ weight: 1
 
 ### Varamedlemmer
 
-- Aleksande Martin Gjøsæter
+- Aleksander Martin Gjøsæter
 - Kirsti Moholdt
 
 ### Vaktmester
