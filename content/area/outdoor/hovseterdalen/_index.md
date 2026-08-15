@@ -24,9 +24,9 @@ Hovseterdalen friplass åpnet i juni 2024. Det rundt 2700 kvadratmeter store næ
 [Les mer om Hovseterdalen friplass hos Oslo kommune](https://www.oslo.kommune.no/natur-kultur-og-fritid/idrett/idrettsanlegg/hovseterdalen-friplass/).
 
 
-Nedenfor kan du se en dronefilm fra Setra, ned til Sørkedalsveien og videre opp til Bogstad.
+Nedenfor kan du se en oppdatert dronefilm fra Hovseterdalen, tatt 15. august 2026.
 
-{{< youtube e0PRIakZ3U4 >}}
+{{< youtube uo5uCRgF9bY "Dronefilm fra Hovseterdalen, 15. august 2026" >}}
 
 
 ## Oppkjørte skiløyper
@@ -65,7 +65,7 @@ Når forholdene ligger til rette for det, kjøres det opp skiløyper i Hovseterd
 
 Det er hele sju akebakker i Hovseterdalen om vinteren. Nedenfor finner du en beskrivelse av dem og en dronefilm som viser akemulighetene.
 
-{{< youtube 3X_o8b6UbMw >}}
+{{< youtube 3X_o8b6UbMw "Akebakkene i Hovseterdalen" >}}
 
 <br />
 
@@ -135,6 +135,6 @@ Mekletvillingene er i praksis to bakker med ganske lik profil, bare skilt av et 
 
 Om vinteren lager kommunen skøytebane ved akebakken Orrekjempen, bare 300 meter fra Setra.
 
-{{< youtube QzTfaRGJGZY >}}
+{{< youtube QzTfaRGJGZY "Skøytebanen i Hovseterdalen" >}}
 
 {{% children description="true" depth="1" %}}

@@ -20,6 +20,6 @@ Banen tilbyr 18 hull med forskjellig vanskelighetsgrad.
 
 Se en video av anlegget, som ligger omtrent ti minutters gange fra Setra gjennom Hovseterdalen.
 
-{{< youtube qbBG_d8_kvc >}}
+{{< youtube qbBG_d8_kvc "Video fra Bogstad golfbane" >}}
 
 [Se også golfklubbens nettsted](https://www.oslogk.no/).

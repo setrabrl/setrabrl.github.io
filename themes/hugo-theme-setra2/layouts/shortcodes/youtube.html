@@ -1,1 +1,8 @@
-<div class="video-link"><p class="kicker">Video</p><a href="https://www.youtube.com/watch?v={{ .Get 0 }}">Se videoen på YouTube →</a><p>Videoen lastes ikke inn automatisk, slik at siden ikke kontakter tredjepart uten at du velger det.</p></div>
+{{- $id := .Get 0 -}}
+{{- $title := .Get 1 | default "Video fra Setra borettslag" -}}
+<figure class="video-embed">
+  <div class="video-embed-frame">
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ $id }}" title="{{ $title }}" width="560" height="315" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <figcaption>{{ $title }}. Videoen spilles av fra YouTube.</figcaption>
+</figure>

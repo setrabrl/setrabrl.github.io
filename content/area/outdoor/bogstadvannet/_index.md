@@ -18,9 +18,9 @@ Ved Bogstadsvannet ligger også Bogstad gård, med kafé og mulighet for å bes�
 ![På kalde vintre er det mulighet for å stå på skøyter](DJI_0780.jpg "På kalde vintre er det mulighet for å stå på skøyter")
 
 
-{{< youtube R0-riohAdIg >}}
+{{< youtube R0-riohAdIg "Bogstadsvannet fra luften" >}}
 
 
-{{< youtube ladNLnv_Uks >}}
+{{< youtube ladNLnv_Uks "Skøyter på Bogstadsvannet" >}}
 
 {{% children description="true" depth="1" %}}

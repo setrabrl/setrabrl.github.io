@@ -22,7 +22,7 @@ Slik bygget er prosjektert, vil det påvirke utsikten noe for dem som bor på ø
 
 Se informasjonsvideoen fra prosjektet:
 
-{{< youtube e5t-3OwOhYc >}}
+{{< youtube e5t-3OwOhYc "Informasjonsvideo om Hovseterveien 20 og 72" >}}
 
 Besøk også [prosjektets nettsted](https://www.oslo.kommune.no/slik-bygger-vi-oslo/hovseter-skole-utvidelse/).
 

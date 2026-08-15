@@ -3,20 +3,29 @@ title: Internett og TV
 linktitle: Internett og TV
 description: Borettslaget har internett og kabel-TV fra Telenor.
 weight: 5
+lastmod: 2026-08-15
 ---
 
 Kabel-TV og internett fra Telenor er inkludert i felleskostnadene for hver leilighet.
 
 Fra 10. juni 2022 har borettslaget en [Telenor Frihet M-avtale](https://www.telenor.no/privat/tv/poengsystem/frihet-m/?cid=11391_fix_sny_awa_all_aup_nul_frihet_m).
 
-Hver leilighet har 260 poeng som kan brukes fritt hos Telenor. Du kan dermed velge TV, internett eller en kombinasjon.
+Hver leilighet har 240 poeng som kan brukes fritt hos Telenor. Du kan dermed velge TV, internett, strømmetjenester eller en kombinasjon.
 
-Med 240 poeng kan du for eksempel velge følgende pakker:
+## Internett og poeng
 
-- Bredbånd 50 og størst tv-pakke
-- Bredbånd 100 og samme tv-pakke som i dag
-- Bredbånd 250 og liten tv-pakke
-- Bredbånd 500 og ingen tv-pakke
+Dette er de tilgjengelige bredbåndshastighetene og poengprisene i Frihet M-avtalen:
+
+| Bredbånd | Poeng |
+| --- | ---: |
+| 50 | Inkludert |
+| 150 | 40 poeng |
+| 250 | 140 poeng |
+| 500 | 240 poeng |
+| 750 | 340 poeng |
+| 1000 | 440 poeng |
+
+Velger du bredbånd 500, brukes alle de 240 inkluderte poengene på internett. Med bredbånd 250 har du 100 poeng igjen til TV og strømmetjenester. Bredbånd 750 og 1000 krever kjøp av ekstra poeng.
 
 Ekstra poeng kan kjøpes i tillegg.
 
@@ -44,17 +53,13 @@ Fra 1. august 2022 ble internett- og TV-kostnadene skilt ut som en egen linje p�
 
 Tidligere ble kostnaden fordelt etter fordelingsnøkkelen. Det innebar at kostnaden for internett og TV ble fordelt ulikt mellom leilighetene.
 
-Kostnaden er kr 399 per måned.
+Kostnaden er for tiden kr 578 per måned per leilighet.
 
 Fra denne perioden får de største leilighetene litt lavere felleskostnader, mens de minste får en noe høyere samlet kostnad. Endringen er ca. kr 50–150, og for de fleste rundt kr 50.
 
 Hvis du kjøper ekstra poeng, kommer disse på en separat faktura fra Telenor.
 
 Når kostnaden står på en egen linje, er det enklere å dokumentere den overfor en arbeidsgiver som dekker internett.
-
-For dem som trenger en nærmere spesifikasjon av internettkostnaden: Internettpakken 500 koster 240 poeng. Det tilsvarer 12 poengpakker à 20 poeng, med en pris på kr 29 per pakke. Internettandelen av TV- og internettpakken er dermed kr 348.
-
-
 
 ## Utstyr
 
