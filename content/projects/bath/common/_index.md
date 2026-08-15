@@ -1,7 +1,7 @@
 ---
-title: Fellesanlegg vartmvann
+title: Fellesanlegg varmtvann
 linktitle: Fellesanlegg
-description:  Setra borettslag har et fellesanlegg for varmtvann. Dette ble byttet under prosjektet
+description: Setra borettslag har et fellesanlegg for varmtvann. Anlegget ble byttet under prosjektet.
 weight: 2
 ---
 

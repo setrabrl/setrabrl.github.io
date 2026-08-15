@@ -1,30 +1,30 @@
 ---
 title: Internett og TV
 linktitle: Internett og TV
-description:  Borettslaget har kabel-TV fra Telenor.
+description: Borettslaget har internett og kabel-TV fra Telenor.
 weight: 5
 ---
 
-Inkludert i husleien har hver leilighet kabel-TV og Internett fra Telenor.
+Kabel-TV og internett fra Telenor er inkludert i felleskostnadene for hver leilighet.
 
-Fra 10.06.2022 vil borettslaget ha [Telenor Frihet M](https://www.telenor.no/privat/tv/poengsystem/frihet-m/?cid=11391_fix_sny_awa_all_aup_nul_frihet_m) avtale som er en revolusjon i forhold til tidligere avtale.
+Fra 10. juni 2022 har borettslaget en [Telenor Frihet M-avtale](https://www.telenor.no/privat/tv/poengsystem/frihet-m/?cid=11391_fix_sny_awa_all_aup_nul_frihet_m).
 
-Dette betyr at hver leilighet har 260 poeng de kan bruke fritt hos Telenor slik at man selv kan bestemme om man bare skal ha TV, bare skal ha Internett eller en kombinasjon.
+Hver leilighet har 260 poeng som kan brukes fritt hos Telenor. Du kan dermed velge TV, internett eller en kombinasjon.
 
-F.eks vil man med 240 poeng kunne sette opp følgende pakker:
+Med 240 poeng kan du for eksempel velge følgende pakker:
 
 - Bredbånd 50 og størst tv-pakke
 - Bredbånd 100 og samme tv-pakke som i dag
 - Bredbånd 250 og liten tv-pakke
 - Bredbånd 500 og ingen tv-pakke
 
-Ekstra poeng kan kjøpes i tilegg.
+Ekstra poeng kan kjøpes i tillegg.
 
-Et viktig poeng er at du kan endre på oppsettet hele tiden så mange ganger du vil. Dette gjøres du på [Telenors hjemmesider](https://www.telenor.no/privat/minesider/web/fixed/)
+Du kan endre oppsettet så ofte du vil. Dette gjør du på [Telenors nettsider](https://www.telenor.no/privat/minesider/web/fixed/).
 
-## TV- Kanaler
+## TV-kanaler
 
-Telenor tilbyr en rekke kanalpakker og enkeltkanaler man kan velge å bruke poeng på
+Telenor tilbyr en rekke kanalpakker og enkeltkanaler som du kan bruke poengene på.
 
 ![Basis](basis.jpg "T-WE Basis")
 
@@ -34,48 +34,45 @@ Telenor tilbyr en rekke kanalpakker og enkeltkanaler man kan velge å bruke poen
 
 ## Strømmetjenester
 
-Du kan også benytte poeng på strømmetjenester slik du slipper å ha eget abonnement på det.
+Du kan også bruke poeng på strømmetjenester, slik at du slipper å ha egne abonnementer.
 
 ![Stream](stream.png)
 
 ## Kostnader
 
-Fra 01.08.2022 vil Internett/TV kostnadene skilles ut som en egen linje på faktura.
-Fra denne dato vil enhetene ble belastet den kostnaden som borettslaget blir belastet for enheten.
+Fra 1. august 2022 ble internett- og TV-kostnadene skilt ut som en egen linje på fakturaen. Fra denne datoen blir hver enhet belastet det samme beløpet som borettslaget betaler for enheten.
 
-Tidligere har kostnaden vært fordelt med fordelingsnøkkelen. Dette betyr kostnaden på Internett/TV ble fordelt ujevnt basert på fordelingsnøkkelen. De minste leilighetene ble i praksis sponset av de største.
+Tidligere ble kostnaden fordelt etter fordelingsnøkkelen. Det innebar at kostnaden for internett og TV ble fordelt ulikt mellom leilighetene.
 
-Kostnaden er 399,- pr mnd.  
+Kostnaden er kr 399 per måned.
 
-De største leilighetene vil fra denne perioden få litt redusert husleie (50-100kr) og de minst vil få noe økt samlet kostnaded. (ca 50-150)(flestparten rundt 50,-)
+Fra denne perioden får de største leilighetene litt lavere felleskostnader, mens de minste får en noe høyere samlet kostnad. Endringen er ca. kr 50–150, og for de fleste rundt kr 50.
 
-Hvis man kjøper ekstra poeng vil dette komme som en seperat faktura fra Telenor til deg.
+Hvis du kjøper ekstra poeng, kommer disse på en separat faktura fra Telenor.
 
-Det at kostnaden kommer på egen linje vil gjøre det enklere å få dette kompensert fra arbeidsgiver for de som får dekket Internett. 
+Når kostnaden står på en egen linje, er det enklere å dokumentere den overfor en arbeidsgiver som dekker internett.
 
-For de som trenger mer spesifikasjon for Internettkostnader. 
-
-**Internettpakken 500 koster 240 poeng. 240 poeng tilsvarer 12 poengpakker med 20 poeng med kostnad 29,- kr. Dette tilsvarer at 348,- kr er utgiften på Internett som er inkludert i TV/Internettpakken hver beboer må betale**
+For dem som trenger en nærmere spesifikasjon av internettkostnaden: Internettpakken 500 koster 240 poeng. Det tilsvarer 12 poengpakker à 20 poeng, med en pris på kr 29 per pakke. Internettandelen av TV- og internettpakken er dermed kr 348.
 
 
 
 ## Utstyr
 
-Utstyr som er tilknyttet systemet eies av borettslaget. Ved salg skal utstyret viderføres til ny kjøper.
+Utstyr som er tilknyttet systemet eies av borettslaget. Ved salg skal utstyret videreføres til ny kjøper.
 
 Hvis du mangler enten dekoder, modem eller ruter, må du kontakte Telenor for hjelp.
 
-Våren 2022 fikk borettslaget nye modem og Wifi-routere til alle leiligheter (som ikke har ny type allerde).
+Våren 2022 fikk alle leiligheter som ikke allerede hadde den nye typen, nye modemer og Wi-Fi-rutere.
 
-Dette skal ifølge Telenor gi raskere og mer stabilit Internett.
+Dette skal ifølge Telenor gi raskere og mer stabilt Internett.
 
-Utstyr som følger med leilighetene er.
+Følgende utstyr hører til leiligheten:
 
-![TV Boks](tvboks.png "TVboks")
+![TV-boks](tvboks.png "TV-boks")
 
-![WifiRouter](wifirouter.jpg "Ny og kraftigere WIFI router")
+![Wi-Fi-ruter](wifirouter.jpg "Ny og kraftigere Wi-Fi-ruter")
 
-[Se mer info om router](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-ruter/)
+[Les mer om ruteren](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-ruter/)
 
 [Koblingsinfo](https://www.telenor.no/kundeservice/internett/modem-og-ruter/wifi-ruter/koble-til/kabel/)
 

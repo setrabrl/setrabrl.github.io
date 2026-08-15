@@ -1,13 +1,13 @@
 ---
 title: Finnannonser Hovseterveien
 linktitle: Salgsannonser
-description:  Her finner du lenker til tidligere leilighetsannonser på Finn fra Hovseterveien
+description: Her finner du lenker til tidligere leilighetsannonser på FINN fra Hovseterveien.
 weight: 2
 hidden: true
 ---
 
 M = Meklenborg Borettslag 
-S = Setra Borettslag (64,66,68,82,84)
+S = Setra borettslag (64,66,68,82,84)
 K = Kollektivet Borettslag
 
 

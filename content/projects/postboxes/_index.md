@@ -1,7 +1,7 @@
 ---
 title: Postkasser
 linktitle: Postkasser
-description:  I løpet av 2020/2021 ble alle postkasser i borettslaget byttet ut
+description: I løpet av 2020 og 2021 ble alle postkassene i borettslaget skiftet ut.
 weight: 9
 ---
 

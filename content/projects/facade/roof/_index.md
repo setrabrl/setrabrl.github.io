@@ -1,15 +1,15 @@
 ---
-title: Hva ble gjort med tak
+title: Hva ble gjort med takene?
 linktitle: Tak
-description:  Alle tak ble renovert som del av fasadeprosjektet
+description: Alle takene ble renovert som del av fasadeprosjektet.
 weight: 2
 ---
 
-Alle tak er tekket om og heishusene i 84 og 68 er blitt rehabilitert.
+Alle takene ble tekket om, og heishusene i nr. 84 og 68 ble rehabilitert.
 
-Alt av gamle antenne og div. er fjernet og det er foretatt en omfattende opprydding på takene.
+Gamle antenner og annet utrangert utstyr ble fjernet, og takene ble grundig ryddet.
 
-Nedenfor ser dere noen bilder av arbeidet som er utført.
+Nedenfor ser du noen bilder av arbeidet.
 
 ![Tak](20200511_081952.jpg)
 

@@ -1,40 +1,40 @@
 ---
 title: Hva ble gjort med vinduene?
 linktitle: Vinduer
-description: Som del av prosjektet ble vinduer byttet.
+description: Som del av prosjektet ble alle vinduene skiftet ut.
 weight: 2
 ---
 
-Alle vinduer ble erstattet. Totalt vil 1283 vinduer ble byttet ut.
+Alle vinduene ble erstattet. Totalt ble 1 283 vinduer skiftet ut.
 
-### Stuevindu (gjelder de fleste leilighetene)
+### Stuevinduer (gjelder de fleste leilighetene)
 
-De to stuevinduene bke erstattet av et NorDan ND NTech Fast karm vindu på 2368 x 1638 mm
+De to stuevinduene ble erstattet av ett NorDan ND NTech-vindu med fast karm, med målene 2 368 × 1 638 mm.
 
-Størrelsen mellom foring etter montering er ca 2354 x 1548 mm. Dette er relevant hvis man skal ha gardiner på innsiden av foringen. 
+Målet mellom fôringene etter montering er ca. 2 354 × 1 548 mm. Dette er relevant ved montering av gardiner på innsiden av fôringen.
 
 ![Stuevindu](stue_oppgradert.jpg)
 
-### Soverromsvindu og kjøkkenvindu
+### Soveromsvindu og kjøkkenvindu
 
-I dag har soverromsvinduene og kjøkkenvinduene et stort vindu og et lite vindu. Disse erstattes av et vindu med en glassflate. Størrelsen på disse vinduene er 1668 x 1368 og er av typen Jordan ND NTech Toppsving. Totalt 536 slike vinduer blir byttet ut.  
+Soveroms- og kjøkkenvinduene besto tidligere av ett stort og ett lite vindu. De ble erstattet av et vindu med én glassflate. Vinduene måler 1 668 × 1 368 mm og er av typen NorDan ND NTech Toppsving. Totalt ble 536 slike vinduer skiftet ut.
 
-Størrelsen inni foringen er ca 1653 x 1353mm. Dette er relevant hvis man skal ha gardiner som skal monteres inni foringen.  
+Målet på innsiden av fôringen er ca. 1 653 × 1 353 mm. Dette er relevant ved montering av gardiner i fôringen.
 
 ![Sover](nytt_soveromsvindu.jpg)
 
 ### Fransk balkong
 
-Den franske balkongen vil erstattes av et vindu med en fast del og en del som åpnes.  Det delte vinduet byttes i stort utadslående.
+Den franske balkongen ble erstattet av et vindu med én fast og én åpningsbar del. Det delte vinduet ble erstattet av et stort, utadslående vindu.
 
-Typen er av Jordan ND NTech Villa Fast Karm
+Vinduet er av typen NorDan ND NTech Villa Fast karm.
 
 Bildet nedenfor viser før og etter bytte på kjøkken.
 
 ![Kjøkken oppgradert](kjokken_før_etter.png)
 
-## Informasjon om Dugging
+## Informasjon om dugging
 
-Vinduene vil erstattes med moderne vinduer med lavt varmetap som vil redusere behovet for varme innvending. De er såpass gode på dette at man i noen tilfeller vil få dugg på utsiden av vinduene. Les mer om dette her. 
+Vinduene ble erstattet med moderne vinduer med lavt varmetap, noe som reduserer oppvarmingsbehovet. Isolasjonsevnen er så god at det i noen tilfeller kan oppstå dugg på utsiden av vinduene.
 
 {{% children description="true" depth="1" %}}

@@ -1,7 +1,7 @@
 ---
 title: Kollektivtransport
 linktitle: Kollektivtransport
-description:  Setra borettslag har gode kollektivmuligheter med kort avstand til buss og bane.
+description: Setra borettslag har et godt kollektivtilbud, med kort vei til buss og T-bane.
 weight: 4
 ---
 

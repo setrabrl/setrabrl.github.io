@@ -1,7 +1,7 @@
 ---
 title: Barnehager
 linktitle: Barnehager
-description:  Det er 8 barnehager med mindre enn noen få minutters gange fra Setra borettslag.
+description: Det er åtte barnehager innen få minutters gange fra Setra borettslag.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -13,7 +13,7 @@ weight: 4
     <figcaption><h4>Hov - Meklenborg barnehage</h4></figcaption>
 </figur>
 
-Denne barnehagen ligger på baksiden av Hovseterveien 64 som nærmeste nabo til Setra borettslag 10 meter unna. Barnehagen har nye uteområder og består av to bygg. Barnehagen er spesielt populær blant fedre som ofte sloss om å få levere og hente barna. Barn bruker ofter barnehagen som lekeplass på ettermiddagstid og i helger.
+Denne barnehagen ligger på baksiden av Hovseterveien 64, bare 10 meter fra Setra borettslag. Barnehagen har nye uteområder og består av to bygg. Barna bruker ofte området som lekeplass på ettermiddager og i helger.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/hov-meklenborg-barnehage/#gref)
 
@@ -35,7 +35,7 @@ Vestjordet ligger ned mot Hovseterdalen kun 114 meter fra Setra borettslag.
     <figcaption><h4>Hamborg barnehage</h4></figcaption>
 </figur>
 
-Hamborg barnehage ligger rett ved vestejordet 125 meter fra Setra borettslag
+Hamborg barnehage ligger rett ved Vestjordet, 125 meter fra Setra borettslag.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/hamborg-barnehage/#gref).
 
@@ -46,7 +46,7 @@ Hamborg barnehage ligger rett ved vestejordet 125 meter fra Setra borettslag
     <figcaption><h4>Orrebakken barnehage</h4></figcaption>
 </figur>
 
-Orrebakken barnehage ligger rett bak Setra borettslag på andre siden av skogen kun 192 meter fra Setra borettslag. Veien er bilfri.
+Orrebakken barnehage ligger på den andre siden av skogen, bare 192 meter fra Setra borettslag. Veien dit er bilfri.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/orebakken-barnehage/#gref)
 
@@ -57,7 +57,7 @@ Orrebakken barnehage ligger rett bak Setra borettslag på andre siden av skogen 
     <figcaption><h4>Landingsveien barnehage</h4></figcaption>
 </figur>
 
-Landingsveien barnehage ligger mellom blokkene i Orrebakken borettslag en kort vei unna gjennom skogen. Barnehagen ligger  200 meter unna Setra borettslag og veien er bilfri.
+Landingsveien barnehage ligger mellom blokkene i Orrebakken borettslag, en kort tur gjennom skogen. Barnehagen ligger 200 meter fra Setra borettslag, og veien dit er bilfri.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/landingsveien-barnehage/#gref)
 
@@ -68,7 +68,7 @@ Landingsveien barnehage ligger mellom blokkene i Orrebakken borettslag en kort v
     <figcaption><h4>Jarbakken barnehage</h4></figcaption>
 </figur>
 
-Jarbakken er den nyeste barnehagen i området. Den ligger 300 meter unna Setra borettslag. Til denne må man krysse bilvei fra Setra borettslag. 
+Jarbakken er den nyeste barnehagen i området. Den ligger 300 meter fra Setra borettslag. På vei dit må man krysse en bilvei.
 
 [Se hjemmeside.](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/jarbakken-barnehage/#gref)
 
@@ -79,7 +79,7 @@ Jarbakken er den nyeste barnehagen i området. Den ligger 300 meter unna Setra b
     <figcaption><h4>Hovseter barnehage</h4></figcaption>
 </figur>
 
-Hovseter barnehage ligger i kollektivet borettslag.
+Hovseter barnehage ligger i Kollektivet borettslag.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/hovseter-barnehage-as/#gref)
 
@@ -90,7 +90,7 @@ Hovseter barnehage ligger i kollektivet borettslag.
     <figcaption><h4>Røahagen familiebarnehage</h4></figcaption>
 </figur>
 
-Røahagen familiebarnehage er en lite barnehage som ligger ned mot Hovseterdalen. (det hvite huset på bildet). Den ligger 215 meter unna Setra.
+Røahagen familiebarnehage er en liten barnehage som ligger ned mot Hovseterdalen, i det hvite huset på bildet. Den ligger 215 meter fra Setra.
 
 [Se hjemmeside](https://www.oslo.kommune.no/barnehage/finn-barnehage-i-oslo/roahagan-familiebarnehage/#gref)
 

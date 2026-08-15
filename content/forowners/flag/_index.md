@@ -1,32 +1,32 @@
 ---
-title: Flaggfester balkong
+title: Flaggfester til balkongen
 linktitle: Flaggfester
-description:  Leverandøren av glassrekkverket på de nye balkongene har produsert flaggfester for de som ønsker dette.
+description: Leverandøren av glassrekkverkene på de nye balkongene har produsert flaggfester for beboere som ønsker det.
 weight: 2
 ---
 
-Flaggfestene koster 485 kr. pr. stk.
+Flaggfestene koster 485 kroner per stykk.
 
-For lavblokkene skal den monteres i den sprekken som er omtrent midt utenfor det store stuevinduet slik at du kan nyte flagget fra stuen. For 84 skal den monteres i sprekk rett utenfor døren.
+I lavblokkene skal festet monteres i sprekken omtrent midt utenfor det store stuevinduet. I nr. 84 skal det monteres i sprekken rett utenfor døren.
 
-Flaggfestet skal monteres opp mot håndtaket. Alt du trenger er en umbraco nøkkel og en skiftnøkkel. (se bilder nedenfor)
+Flaggfestet skal monteres opp mot håndtaket. Du trenger en unbrakonøkkel og en skiftenøkkel. Se bildene nedenfor.
 
-I flaggfestet kan du sette standard balkongflagg. Dette får du kjøpt en rekke steder.
+Flaggfestet passer til vanlige balkongflagg, som kan kjøpes flere steder.
 
-Send mail til setra@styrerommet.net med informasjon om mobilnummer for bestilling. Du vil da få en sms med betalingsinfo. Når festet er betalt kan dette hentes etter avtale med en representant fra styret.
+Send en bestilling på e-post til setra@styrerommet.net og oppgi mobilnummeret ditt. Du mottar deretter en SMS med betalingsinformasjon. Når festet er betalt, kan det hentes etter avtale med en representant fra styret.
 
-![Flag](flag1.jpg)
+![Flaggfeste](flag1.jpg)
 
-![Flag](flag2.jpg)
+![Flaggfeste](flag2.jpg)
 
-![Flag](flag3.jpg)
+![Flaggfeste](flag3.jpg)
 
-![Flag](flag4.jpg)
+![Flaggfeste](flag4.jpg)
 
-![Flag](flag5.jpg)
+![Flaggfeste](flag5.jpg)
 
-![Flag](flag6.jpg)
+![Flaggfeste](flag6.jpg)
 
-![Flag](flag7.jpg "Montering i 84")
+![Flaggfeste](flag7.jpg "Montering i nr. 84.")
 
 {{% children description="true" depth="1" %}}

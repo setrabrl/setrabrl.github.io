@@ -1,30 +1,30 @@
 ---
 title: Hovseterdalen
 linktitle: Hovseterdalen
-description:  Setra borettslag ligger inntil Hovseterdalen som gir mange muligheter for utfoldelse i det fri både i vinter og sommersesongen.
+description: Setra borettslag ligger inntil Hovseterdalen, som byr på mange muligheter for friluftsliv både sommer og vinter.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-Dalen som ofte feilaktig kalles for Mærradalen starter der Mærradalen slutter ved Huseby Skole. [Se kart](https://bym.maps.arcgis.com/apps/webappviewer/index.html?id=ca80e1e44054470084dff1534bbe4aec&marker=10.651128420632718%2C59.950926733015095%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Hovseterdalen%20(turvei%20A3%20%2FA4)%22%2C%22longitude%22%3A10.651128420632718%2C%22latitude%22%3A59.950926733015095%2C%22isIncludeShareUrl%22%3Atrue%7D&level=16)
+Dalen, som ofte feilaktig kalles Mærradalen, starter der Mærradalen slutter ved Huseby skole. [Se kart](https://bym.maps.arcgis.com/apps/webappviewer/index.html?id=ca80e1e44054470084dff1534bbe4aec&marker=10.651128420632718%2C59.950926733015095%2C%2C%2C%2C&markertemplate=%7B%22title%22%3A%22Hovseterdalen%20(turvei%20A3%20%2FA4)%22%2C%22longitude%22%3A10.651128420632718%2C%22latitude%22%3A59.950926733015095%2C%22isIncludeShareUrl%22%3Atrue%7D&level=16).
 
-![Hovseterdalen](20201012_083639.jpg "Dalen har en nesten 2 km lang asfaltert sykkel/gangsti hvor mange trener. ")
+![Hovseterdalen](20201012_083639.jpg "Dalen har en nesten to kilometer lang, asfaltert gang- og sykkelvei som mange bruker til trening.")
 
 ![Hovseterdalen](20201008_160209.jpg "Dalen tilbyr store åpne områder.")
 
 ![Hovseterdalen](20201009_145119.jpg "Det er et rikt dyreliv i dalen.")
 
-![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for cornafri trening.")
+![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for utendørstrening.")
 
 
-Nedenfor ser du en dronetur fra Setra, ned til Sørkedalsveien og opp til Bogstad. 
+Nedenfor kan du se en dronefilm fra Setra, ned til Sørkedalsveien og videre opp til Bogstad.
 
 {{< youtube e0PRIakZ3U4 >}}
 
 
 ## Oppkjørte skiløyper
 
-Når forholdene ligger til rette for det så kjøres det opp skiløyper i Hovseterdalen. Disse går opp til Bogstad Camping som igjen har løpyer ut til hele marka.
+Når forholdene ligger til rette for det, kjøres det opp skiløyper i Hovseterdalen. Løypene går opp til Bogstad camping, som er knyttet til løypenettet i Marka.
 
 <figur>
     <a href="ski1.jpg">
@@ -54,9 +54,9 @@ Når forholdene ligger til rette for det så kjøres det opp skiløyper i Hovset
     <figcaption><h4>Skispor i Hovseterdalen</h4></figcaption>
 </figur>
 
-## Akebakker i Hovseteredalen
+## Akebakker i Hovseterdalen
 
-Det er 7(!) akebakker i Hovseterdalen på vinterstid. Nedenfor finner du beskrivelse av dem. Se dronevideo med akemuligheter i Hovseterdalen.
+Det er hele sju akebakker i Hovseterdalen om vinteren. Nedenfor finner du en beskrivelse av dem og en dronefilm som viser akemulighetene.
 
 {{< youtube 3X_o8b6UbMw >}}
 
@@ -69,7 +69,7 @@ Det er 7(!) akebakker i Hovseterdalen på vinterstid. Nedenfor finner du beskriv
     <figcaption><h4>Tufterenna</h4></figcaption>
 </figur>
 
-Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tufteparken. Dette er en fin nybegynnerbakke for de aller minste barna og hellikopter foreldre.
+Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tufteparken. Dette er en fin nybegynnerbakke for de aller minste barna og helikopterforeldre.
 
  <figur>
     <a href="orrekjempen.jpg">
@@ -78,7 +78,7 @@ Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tuftep
     <figcaption><h4>Orrekjempen</h4></figcaption>
 </figur>
 
-Orrekjempen er den største akebakken i Hovseterdalen og har medium vanskelighetsgrad. Man får stor fart når man starter på toppen. Dette er den mest populære bakken.
+Orrekjempen er den største akebakken i Hovseterdalen og har middels vanskelighetsgrad. Man får stor fart når man starter på toppen. Dette er den mest populære bakken.
  
  <figur>
     <a href="orrekjempen2.jpg">
@@ -95,7 +95,7 @@ Orrekjempen er den største akebakken i Hovseterdalen og har medium vanskelighet
     <figcaption><h4>Kjevebrekkeren</h4></figcaption>
 </figur>
 
-Kjevebrekkeren går fra skogen på toppen av Hovseterdalen ned den bratteste bakken. Høy vanskelighetsgrad og ender opp i et gjerde hvis man har alt for stor fart.
+Kjevebrekkeren går fra skogen på toppen av Hovseterdalen og ned den bratteste bakken. Den har høy vanskelighetsgrad og ender ved et gjerde, så farten må avpasses.
 
 <figur>
     <a href="vesthumpen.jpg">
@@ -113,7 +113,7 @@ Vesthumpen er en populær bakke rett ved Vestjordet barnehage. Brukes ofte av de
     <figcaption><h4>Hamborgspinneren</h4></figcaption>
 </figur>
 
-Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærne for ekstra spenning. Passer fint for små barn. 
+Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærne og passer fint for små barn.
 
 <figur>
     <a href="mekletvillingene.jpg">
@@ -122,11 +122,11 @@ Hamborgspinneren er en liten bakke ved Hamborg barnehage. Den går mellom trærn
     <figcaption><h4>Mekle tvillingene</h4></figcaption>
 </figur>
 
-Mekle tvillingene er i praksis 2 bakker med relativ lik bakkeprofil som bare er skilt med et lite buskass. Bakken er relativ bratt og krysser gangveien som er et ekstra spenningmoment.
+Mekletvillingene er i praksis to bakker med ganske lik profil, bare skilt av et lite buskas. Bakkene er relativt bratte og krysser gangveien, så det er viktig å være oppmerksom.
 
 ## Skøytebane
 
-På vinteren ordner kommunen skjøytebane ved orrekjempen akebakke. Tenk det. Skøytebane 300 meter fra Setra
+Om vinteren lager kommunen skøytebane ved akebakken Orrekjempen, bare 300 meter fra Setra.
 
 {{< youtube QzTfaRGJGZY >}}
 

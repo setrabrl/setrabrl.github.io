@@ -5,13 +5,13 @@ description: Generalforsamlingen vedtok i 2017 å kjøpe garasjeplassene i Hovse
 weight: 3
 ---
 
-Borettslaget overtok garasjene i Hovseterveien 70  juni 2018 fra Stor Oslo Eiendom.
+Borettslaget overtok garasjene i Hovseterveien 70 fra Stor Oslo Eiendom i juni 2018.
 
-Totalt er det 157 parkeringsplasser som ble overtatt. Disse er fordelt over 3 plan. U1, U2 og U3.
+Totalt ble 157 parkeringsplasser overtatt. De er fordelt på tre plan: U1, U2 og U3.
 
-I sammenheng med kjøp og overtakelse ble det gjennomført en større oppussing av garasjene. Det hadde ikke vært gjort noe siden de ble bygget i 1975.
+I forbindelse med kjøpet og overtakelsen ble garasjene grundig pusset opp. Det var ikke gjennomført større arbeider siden de ble bygget i 1975.
 
-![Garasje](garasje1.jpg "Betongen innvendig ble renovert og det ble malt og lagt nytt Epoxy gulv.")
+![Garasje](garasje1.jpg "Betongen innvendig ble rehabilitert. Det ble også malt og lagt nytt epoksygulv.")
 
 ![Rampe](rampe_oppussing.png "Utvendig ble rampen renovert og det ble lagt nytt dekke over taket på U3.")
 
@@ -19,12 +19,12 @@ I sammenheng med kjøp og overtakelse ble det gjennomført en større oppussing 
 
 ![Garasje](garasje3.jpg "Det ble montert leddporter med fjernkontroll.")
 
-![Garasje](garasje4.jpg "Det ble montert nye lys i garasjen november 2018.")
+![Garasje](garasje4.jpg "Det ble montert nye lys i garasjen i november 2018.")
 
-Sommeren 2019 ble det etablert et moderne elbil ladeanlegg i garasjene. Alle 157 plassene har fått tilrettelegging for ladeboks og de som ønsker har fått montert ladeboks.
+Sommeren 2019 ble det etablert et moderne ladeanlegg for elbiler i garasjene. Alle de 157 plassene er tilrettelagt for ladeboks, og de som ønsket det, fikk montert en ladeboks.
 
 ## Finansiering
 
-Borettslaget har tatt opp et lån på ca 32.000.000 for å oppgradere og kjøpe parkeringsplassene. Denne gjelden fordeles likt utover de leilighetene som har parkeringsplass.  Se mer informasjon om [fellesgjeld](../../forowners/finance/).
+Borettslaget tok opp et lån på ca. 32 000 000 kroner for å kjøpe og oppgradere parkeringsplassene. Gjelden fordeles likt mellom leilighetene som har parkeringsplass. Se mer informasjon om [fellesgjeld](../../forowners/finance/).
 
 {{% children description="true" depth="1" %}}

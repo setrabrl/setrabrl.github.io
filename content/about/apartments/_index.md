@@ -1,7 +1,7 @@
 ---
 title: Leilighetene
 linktitle: Leilighetene
-description:  Her finner du informasjon om leilighetene
+description: Her finner du informasjon om leilighetene.
 weight: 4
 ---
 

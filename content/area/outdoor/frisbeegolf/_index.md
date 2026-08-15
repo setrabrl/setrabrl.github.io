@@ -1,7 +1,7 @@
 ---
 title: Røa frisbeegolfbane
 linktitle: Røa frisbeegolfbane
-description:  I øvre del av Hovseterdalen finner du Røa frisbeefolfbane.
+description: I den øvre delen av Hovseterdalen finner du Røa frisbeegolfbane.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
@@ -24,4 +24,4 @@ Banen tilbyr 18 hull med forskjellig vanskelighetsgrad.
 
 {{< youtube H95bFYKLP6A >}}
 
-[Se også facebooksiden](https://www.facebook.com/roafrisbeegolf/).
+[Se også Facebook-siden](https://www.facebook.com/roafrisbeegolf/).

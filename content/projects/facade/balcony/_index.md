@@ -1,15 +1,15 @@
 ---
-title: Hva ble gjort med balkonger
+title: Hva ble gjort med balkongene?
 linktitle: Balkonger
-description:  Balkongene fikk en kraftig overhaling som del av prosjektet
+description: Balkongene ble grundig rehabilitert som del av prosjektet.
 weight: 2
 ---
 
-Som del av forberedelsene til prosjektet ble tilstanden til balkongene nøye vurder. Man konkluderte at det ikke var behov for å rive balkongene, men at de trengtes å renoveres.
+Som del av forberedelsene til prosjektet ble tilstanden til balkongene nøye vurdert. Konklusjonen var at balkongene ikke måtte rives, men at de måtte renoveres.
 
 ## Balkonggulv
 
-Betongen ble pusset og rettet ut før man la StoPur EB200 polyuretanbelegg for balkonger
+Betongen ble pusset og rettet før det ble lagt StoPur EB 200 polyuretanbelegg for balkonger.
 
 ![Balkong](balkongdekke1.jpg)
 
@@ -19,31 +19,31 @@ Betongen ble pusset og rettet ut før man la StoPur EB200 polyuretanbelegg for b
 
 Balkongtaket ble også malt hvitt.
 
-Vask og vedlikehold av belegg
+### Vask og vedlikehold av belegget
 
 Rengjøring utføres regelmessig avhengig av hvor fort gulvet blir nedsmusset.
 
 Løs smuss fjernes med støvsuger eller kost/feiebrett. 
 
-Vaskevannet tilsettes nøytralt rengjørings-middel, StoDivers IF. Gjenstående smuss må skures vekk med myk børste/svamp. 
+Tilsett det nøytrale rengjøringsmiddelet StoDivers IF i vaskevannet. Gjenværende smuss må skures bort med en myk børste eller svamp.
 
-Rengjøring med andre typer rengjøringsmidler (for eksempel aceton, rødsprit, tynner etc.) skal ikke utføres uten godkjenning fra Sto Norge AS. Heller ikke må skarpe gjenstander (for eksempel kniv, sparkel eller tilsvarende) brukes ved rengjøring. Dette kan medføre skader på belegget. 
+Andre typer rengjøringsmidler, som aceton, rødsprit og tynner, skal ikke brukes uten godkjenning fra Sto Norge AS. Skarpe gjenstander, som kniv, sparkel eller lignende, må heller ikke brukes ved rengjøring. Det kan skade belegget.
   
-Utbedring av skader Kontakt Sto Norge AS for utbedringsalternativer. Eventuell overmaling av belegget gjøres kun i samråd med Sto Norge AS. 
+Kontakt Sto Norge AS for råd om utbedring av skader. Belegget skal bare overmales i samråd med Sto Norge AS.
  
-Belegget kan IKKE belegges med fliser og det anbefales å bruke møbelknotter under balkongmøblene.
+Belegget skal ikke dekkes med fliser. Det anbefales å bruke møbelknotter under balkongmøblene.
 
 Les mer i vedlagte brosjyre.
 
 ## Balkongrekkverk
 
-Rekkverket som vil bli brukt er Færder II. Høyden for balkonger vil variere. For 1-3 i lavblokkene så vil høyden være 100cm. For 4. etasjen vil det være 120 cm.  Tilsvarende forskjelel vil man ha i 68 og 84. Hvilket etasje skiller kommer på er fortsatt ikke avklart. 
+Rekkverket som ble valgt, er Færder II. Høyden varierer mellom balkongene. I første til tredje etasje i lavblokkene er høyden 100 cm, mens den er 120 cm i fjerde etasje. Det er tilsvarende forskjeller i nr. 68 og 84. Det var ikke avklart ved hvilken etasje skillet skulle gå.
 
-For 1. etasjen i lavblokkene vil glasset frostes helt opp. For de andre vil det frostes 80 cm som bildet viser. 
+I første etasje i lavblokkene er glasset frostet i full høyde. I de øvrige etasjene er de nederste 80 cm frostet, som vist på bildet.
 
 ![Balkongrekkverk](rekkverk_balkong.jpg)
 
-Det er ikke lov å henge noe på selve rekkverket som f.eks blomsterkasser. Leverandøren informer om at "Ved å belaste glassrekkverkene med at noe henger på håndløper og gir glasset punktlaster med vridning vil medføre at garanti bortfaller ved eventuell skade på håndløper eller at glasset krakelerer(knuser)
+Det er ikke tillatt å henge noe, for eksempel blomsterkasser, på selve rekkverket. Leverandøren opplyser at garantien kan bortfalle dersom belastning på håndløperen fører til skade eller at glasset krakelerer.
 
 ## Balkongtak toppetasjer
 
@@ -53,11 +53,11 @@ På balkongene som ligger i toppetasjen bygges det nytt tak i treverk. Dette gir
 
 ## Balkongdører
 
-Alle balkongdørene vil byttes ut. Disse erstattes med Nordan ND NTech Villa Sikkerhetsdør. 
+Alle balkongdørene ble skiftet ut med NorDan ND NTech Villa sikkerhetsdør.
 
-Totalt er det 250 slike dører som erstattes. Dørene vil slå utover og vil være hengslet som i tidligere. (Venstre eller høyrehengslet avhengig av plassering av dør i forhold til stuevinduer). 
+Totalt ble 250 slike dører skiftet ut. Dørene slår utover og er hengslet som tidligere, til venstre eller høyre avhengig av plasseringen i forhold til stuevinduene.
 
-Størrelsen på dørene blir også som i dag. Dvs at 68 blokken får dører som er bredere enn de andre blokkene.
+Størrelsen på dørene er den samme som før. Dørene i nr. 68 er derfor bredere enn dørene i de andre blokkene.
 
 ![Balkongdør](balkongdør.png)
 

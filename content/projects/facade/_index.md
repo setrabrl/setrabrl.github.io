@@ -1,49 +1,49 @@
 ---
 title: Nye fasader
 linktitle: Nye fasader
-description:  På generalforsamlingen 11.05.2017 ble det vedtatt at fasadene skulle pusses opp. Det var over 40 år siden borettslaget ble bygget og tilstanden var langt fra optimal.
+description: På generalforsamlingen 11. mai 2017 ble det vedtatt at fasadene skulle pusses opp. Borettslaget var da over 40 år gammelt, og tilstanden var langt fra optimal.
 weight: 2
 ---
 
-Les mer om det orginale forslaget og vedtaket her.
+Les mer om det originale forslaget og vedtaket [her](decision).
 
 ## Om prosjektgjennomføringen
 
-Etter lange forhandlinger inngikk styret en avtale med entrepenør for å pusse opp fasadene til Setra Borettslag. Dette i henhold til tidligere vedtak i generalforsamling.
+Etter lange forhandlinger inngikk styret en avtale med en entreprenør om å pusse opp fasadene i Setra borettslag, i samsvar med et tidligere vedtak på generalforsamlingen.
 
-Forberedelse til arbeidet startet 21. Januar 2019 med montering av stillaser på 64-blokken og ble [avsluttet høsten 2021](https://frontent.no/beboerinformasjon/setra-borettslag/).
+Forberedelsene startet 21. januar 2019 med montering av stillaser på blokk 64. Arbeidet ble [avsluttet høsten 2021](https://frontent.no/beboerinformasjon/setra-borettslag/).
 
-## Om entreprenøren(e)
+## Om entreprenørene
 
-Valgt entreprenør ble [Front Entrepenør](https://frontent.no/) som har lang erfaring med rehabilitering av fasader. De benyttet seg av underleverandører til noe av arbeidet.
+[Front Entreprenør](https://frontent.no/) ble valgt som hovedentreprenør. Selskapet har lang erfaring med fasaderehabilitering og brukte underleverandører til deler av arbeidet.
 
-- [ERASE AS](https://erase.no/) ble benyttet til arbeidet som er knyttet til å fjerne fasademateriale med asbest.
-- [Palmgren AS](https://palmgren.as/) gjennomførte bytting av vinduer og ytterdører.
+- [ERASE AS](https://erase.no/) ble benyttet til å fjerne fasademateriale som inneholdt asbest.
+- [Palmgren AS](https://palmgren.as/) skiftet vinduer og ytterdører.
 - [Henry Hansen & Sønner AS](https://www.hhansen.no/) leverte beslag og takrenner.
-- [Kvams Glass](https://kvamsglass.no/) leverte rekkverk og glass til balkonger
+- [Kvams Glass](https://kvamsglass.no/) leverte rekkverk og glass til balkongene.
 
-## Prosjekt og byggeledelse
+## Prosjekt- og byggeledelse
 
-[Obos Prosjekt AS](https://nye.obos.no/bedrift/prosjektledelse/) ble leid inn for å ha prosjekt- og byggeledelse med prosjektet. Deres oppgave var å følge opp entreprenør og sikre at arbeidet ble gjennomført korrekt og i henhold til avtaler.
+[OBOS Prosjekt AS](https://nye.obos.no/bedrift/prosjektledelse/) ble leid inn for å ivareta prosjekt- og byggeledelsen. Oppgaven var å følge opp entreprenøren og sikre at arbeidet ble gjennomført korrekt og i samsvar med avtalene.
 
 ## Kostnader
 
-Følgende kostnader er knyttet til prosjektet som helhelt
+Følgende kostnader er knyttet til prosjektet som helhet:
 
-- Enerhaugen Arkitektkontor AS 934.440,-
-- Firefly AS, brannteknisk kontroll/vurdering 15.375,-
-- Tek-Norge AS 21.000.-
-- OBOS Prosjekt AS 2.983.608.-
-- Front Entreprenør AS 78.981.771,-
-- Oslo Kommune, førstegangsvedtak 93.120.-
-- Tilskudd fra Oslo Kommune -498.375.-
-- SUM KOSTNADER 82.530.939,-
+- Enerhaugen Arkitektkontor AS: 934 440 kroner
+- Firefly AS, brannteknisk kontroll og vurdering: 15 375 kroner
+- Tek-Norge AS: 21 000 kroner
+- OBOS Prosjekt AS: 2 983 608 kroner
+- Front Entreprenør AS: 78 981 771 kroner
+- Oslo kommune, førstegangsvedtak: 93 120 kroner
+- Tilskudd fra Oslo kommune: −498 375 kroner
+- Sum kostnader: 82 530 939 kroner
 
 ## Reklamasjoner
-Ved reklamasjoner kan dette i utgangspunktet tas med Front Entrepenør som var hovedleverandør. E-post eirik@frontent.no med styret på kopi: setra@styrerommet.no 
+Reklamasjoner kan i utgangspunktet rettes til Front Entreprenør, som var hovedleverandør. Send e-post til eirik@frontent.no, med styret på kopi: setra@styrerommet.no.
  
 ## Detaljert beskrivelse av arbeidet
 
-For å unngå at denne artikkelen blir svært lang er det laget egne artikkler for hvert enkelt område i prosjektet.Klikk på lenkene under
+For å unngå at denne artikkelen blir svært lang, er det laget egne sider for hvert område i prosjektet. Klikk på lenkene nedenfor.
 
 {{% children description="true" depth="1" %}}

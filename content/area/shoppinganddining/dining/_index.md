@@ -1,13 +1,13 @@
 ---
-title: Resturanter, bakeri, cafe og Take-away
-linktitle: Resturanter & Takeaway 
-description:  Det er flere resturanter, bakeri, cafeer og take away muligheter i nærheten av Setra borettslag.
+title: Restauranter, bakerier, kafeer og takeaway
+linktitle: Restauranter og takeaway
+description: Det er flere restauranter, bakerier, kafeer og takeawaytilbud i nærheten av Setra borettslag.
 weight: 4
 ---
 
-## Hovseter Grill - Pizza
+## Hovseter Grill-Pizza
 
-Hovseter Grill-Pizza er borettslagets egne resturant og befinner seg i Hovseterveien 84.
+Hovseter Grill-Pizza er borettslagets egen restaurant og ligger i Hovseterveien 84.
 
 [Sjekk meny](https://www.hovsetergrill.com/#meny)
 
@@ -25,20 +25,20 @@ Ligger på Røa Senter og er meget populær.
 
 ## Sushihuset
 
-Sushi Huset Røa er en spennende sushibar og asiatisk kjøkken
+Sushihuset Røa er en spennende sushibar med asiatisk kjøkken.
 
 [Sjekk meny](https://www.sushihuset.com/)
 
 ## The Smoothie Factory
 
-Lyst på en fantastisk smoothie? Prøv Smoothie Factory på Røa Torg
+Lyst på en smoothie? Prøv Smoothie Factory på Røa Torg.
 
 [Sjekk meny](https://www.thesmoothiefactory.no/)
 
-## Kompis Resturant
+## Kompis Restaurant
 
-Nystartet resturant på Røa senter
+En restaurant på Røa Senter.
 
-[Sjekk meny](https://kompisrestauranter.no/Content/docs/Meny_300x300_Oslo.pdf) eller [Hjemmeside](https://kompisrestauranter.no/restaurant/roa)
+[Sjekk meny](https://kompisrestauranter.no/Content/docs/Meny_300x300_Oslo.pdf) eller [besøk nettstedet](https://kompisrestauranter.no/restaurant/roa).
 
 {{% children description="true" depth="1" %}}

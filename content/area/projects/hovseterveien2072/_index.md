@@ -1,13 +1,13 @@
 ---
 title: Hovseterveien 20 og 72
 linktitle: Hovseterveien 20 og 72
-description:  Det planlegges et større prosjekt i Hovseterveien 20 og 72 som vil påvirke Setra borettslag
+description: Det er planlagt et større prosjekt i Hovseterveien 20 og 72 som vil påvirke Setra borettslag.
 weight: 4
 ---
 
 <!-- markdownlint-disable MD033 -->
 
-I Hovseterveien 20 planlegges det omsorgsboliger og i Hovseterveien 72 planlegges det nytt bygg for Hovseter skole. Arbeidet vil være ferdig høsten 2024 for skolen.
+I Hovseterveien 20 er det planlagt omsorgsboliger, og i Hovseterveien 72 et nytt bygg for Hovseter skole. Skolebygget var planlagt ferdigstilt høsten 2024.
 
 <figur>
     <a href="hv2072_1.jpg">
@@ -16,15 +16,15 @@ I Hovseterveien 20 planlegges det omsorgsboliger og i Hovseterveien 72 planlegge
     <figcaption><h4>Hovseterveien 20 og 72</h4></figcaption>
 </figur>
 
-Skolebygget vil få en gangbru mellom nytt bygg i Hovseterveien 72 (inntil Rema 1000). Vei til T-Bane vil være under gangbru mellom skolebygg. Broen vil bestå som i dag. 
+Det nye skolebygget i Hovseterveien 72, ved Rema 1000, vil få en gangbru. Veien til T-banen vil gå under gangbrua mellom skolebyggene. Den eksisterende brua vil bestå.
 
-Slik bygget er prosjektert vil det påvirke utsikten noe til de som bor på østsiden HV68 og delvis HV82/HV84
+Slik bygget er prosjektert, vil det påvirke utsikten noe for dem som bor på østsiden av nr. 68 og delvis i nr. 82 og 84.
 
-Se informasjonsvideo fra prosjektet
+Se informasjonsvideoen fra prosjektet:
 
 {{< youtube e5t-3OwOhYc >}}
 
-Besøk også prosjektets [hjemmeside](https://www.oslo.kommune.no/slik-bygger-vi-oslo/hovseter-skole-utvidelse/)
+Besøk også [prosjektets nettsted](https://www.oslo.kommune.no/slik-bygger-vi-oslo/hovseter-skole-utvidelse/).
 
 Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for større versjon.
 
@@ -39,7 +39,7 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <a href="hv2072_3.jpg">
         <img src="hv2072_3s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Gangveien opp mot broen gjøres mindre bratt ved å lage en U sving.</h4></figcaption>
+    <figcaption><h4>Gangveien opp mot brua gjøres mindre bratt ved å lage en U-sving.</h4></figcaption>
 </figur>
 
 
@@ -47,21 +47,21 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <a href="hv2072_4.jpg">
         <img src="hv2072_4s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Gangveien opp mot broen gjøres mindre bratt ved å lage en U sving.</h4></figcaption>
+    <figcaption><h4>Gangveien opp mot brua gjøres mindre bratt ved å lage en U-sving.</h4></figcaption>
 </figur>
 
 <figur>
     <a href="hv2072_5.jpg">
         <img src="hv2072_5s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra litt ovenfor innkjørsel til U3</h4></figcaption>
+    <figcaption><h4>Perspektiv fra litt ovenfor innkjørselen til U3.</h4></figcaption>
 </figur>
 
 <figur>
     <a href="hv2072_6.jpg">
         <img src="hv2072_6s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra innkjørsel gjesteparkering hos Meklenborg</h4></figcaption>
+    <figcaption><h4>Perspektiv fra innkjørselen til gjesteparkeringen hos Meklenborg.</h4></figcaption>
 </figur>
 
 <figur>
@@ -75,7 +75,7 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <a href="hv2072_8.jpg">
         <img src="hv2072_8s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Som del av prosjektet vil Hovseter torg pusses opp</h4></figcaption>
+    <figcaption><h4>Som del av prosjektet skal Hovseter torg pusses opp.</h4></figcaption>
 </figur>
 
 
@@ -83,14 +83,14 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <a href="hv2072_9.jpg">
         <img src="hv2072_9s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra Hovseterveien 68 ca 5 etasje mot Hovseterveien 72</h4></figcaption>
+    <figcaption><h4>Perspektiv fra ca. femte etasje i Hovseterveien 68 mot Hovseterveien 72.</h4></figcaption>
 </figur>
 
 <figur>
     <a href="hv2072_10.jpg">
         <img src="hv2072_10s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra Hovseterveien 68 ca 5 etasje mot skolegård</h4></figcaption>
+    <figcaption><h4>Perspektiv fra ca. femte etasje i Hovseterveien 68 mot skolegården.</h4></figcaption>
 </figur>
 
 
@@ -98,14 +98,14 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
     <a href="hv2072_11.jpg">
         <img src="hv2072_11s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra Hovseterveien 68 ca 5 etasje mot Hovseterveien 20</h4></figcaption>
+    <figcaption><h4>Perspektiv fra ca. femte etasje i Hovseterveien 68 mot Hovseterveien 20.</h4></figcaption>
 </figur>
 
 <figur>
     <a href="hv2072_12.jpg">
         <img src="hv2072_12s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Perspektiv fra Hovseterveien 68 ca 5 etasje vidvinkel</h4></figcaption>
+    <figcaption><h4>Vidvinkelperspektiv fra ca. femte etasje i Hovseterveien 68.</h4></figcaption>
 </figur>
 
 ![Hovseterveien](hv20_3.png "Fra Hamborg barnehage")
@@ -132,6 +132,6 @@ Nedenfor ser du siste tilgjengelige skisse av skolebygget. Klikk på bildet for 
 
 
 
-Se mer [detaljer hos Oslo Kommune](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/casedet.asp?direct=Y&mode=all&caseno=201617238&Dateparam=07/18/2019&sti=). Se spesielt [Planbeskrivelse](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/showfile.asp?jno=2021158288&fileid=9937835) til forslag til detaljreguleringsplan Hovseterveien for detaljer.
+Se flere [detaljer hos Oslo kommune](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/casedet.asp?direct=Y&mode=all&caseno=201617238&Dateparam=07/18/2019&sti=). Se spesielt [planbeskrivelsen](https://innsyn.pbe.oslo.kommune.no/saksinnsyn/showfile.asp?jno=2021158288&fileid=9937835) til forslaget om detaljregulering av Hovseterveien.
 
 {{% children description="true" depth="1" %}}

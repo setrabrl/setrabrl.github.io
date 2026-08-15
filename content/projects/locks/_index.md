@@ -1,37 +1,37 @@
 ---
 title: Nytt låsesystem
 linktitle: Nytt låsesystem
-description:  Som del av fasadeprosjektet ble låsesystemet i Setra bli byttet ut.
+description: Som del av fasadeprosjektet ble låsesystemet i Setra skiftet ut.
 weight: 5
 ---
 
-Bakgrunnen for byttet var det gamle låsesystem ikke lenger var beskyttet mot kopiering av nøkler og styret kan ikke lenger kunne med sikkerhet si hvem som har nøkkel til fellesområder og garasjer.
+Bakgrunnen var at det gamle låsesystemet ikke lenger var beskyttet mot kopiering av nøkler. Styret kunne derfor ikke med sikkerhet vite hvem som hadde nøkler til fellesområdene og garasjene.
 
-For å unngå at dette skjer ved tap av nøkler for beboere valgte å hente inn tilbud på tradisjonelle låsesystemer og elektroniske som gjør det mulig å sperre nøkler som er mistet.
+For å redusere risikoen ved tapte nøkler hentet styret inn tilbud på både tradisjonelle og elektroniske låsesystemer. Elektroniske systemer gjør det mulig å sperre nøkler som er mistet.
 
-Det siste er en dyrere løsning, men det vil sikre en løsning som ikke er usikker så snart noen har mistet en nøkkel. 
+Den elektroniske løsningen er dyrere, men hindrer at hele systemet blir usikkert når noen mister en nøkkel.
 
 Det vil også gjøre det mye enklere å endre på tilgangsrettigheter for en beboer.
 
-Etter å hentet inn tilbud fra en rekke leverandører vedtok styret å gå for ILOQS10 systemet hvor Låssenteret AS vil være leverandør. Dette systemet har en rekke fordeler som blant annet batteriløst og at det kan monteres inn i våre gamle dører (boddører osv)
+Etter å ha hentet inn tilbud fra flere leverandører valgte styret iLOQ S10-systemet, med Låssenteret AS som leverandør. Systemet er blant annet batteriløst og kan monteres i de eksisterende dørene, som boddørene.
 
-![Iloq](iloq_sylinder.png)
+![iLOQ](iloq_sylinder.png)
 
-Totalt er det ca 110 dører og hvor ca 120 låser ble byttet ut. Disse ble byttet samtidig som de nye dørene byttes i hver enkelt blokk. Leilighetene vil få utdelt nye nøkler. Hver leilighet vil få det samme antall nøkler som antall rom (4 roms får 4, 3 roms for 3 og 2 og 1 roms får 2)
+Omtrent 120 låser i ca. 110 dører ble skiftet ut. Låsene ble byttet samtidig med dørene i hver blokk. Leilighetene fikk utdelt nye nøkler. Hver leilighet fikk like mange nøkler som antall rom: fireromsleiligheter fikk fire, treromsleiligheter fikk tre, og ett- og toromsleiligheter fikk to.
 
-Hver leilighet vil få tilgang til inngangsdør i sin oppgang samt fellesrom til boder. Leiligheter med garasjeplass vil også kunne bruke samme nøkkel til dørene i garasjen. 
+Hver leilighet fikk tilgang til inngangsdøren i sin oppgang og fellesrommet ved bodene. Leiligheter med garasjeplass kan også bruke den samme nøkkelen til dørene i garasjen.
 
 ## Ekstra nøkler
 
-Beboere kan bestille ekstra nøkler. Disse koster 450,- pr stk og programmeres som andre nøkler tilhørende beboer. (Tilgang til fellesområder og eventuell garasje).
+Beboerne kan bestille ekstra nøkler. De koster 450 kroner per stykk og programmeres på samme måte som beboerens øvrige nøkler, med tilgang til fellesområder og eventuell garasje.
 
-Send mail til setra@styrerommet.net med tittel ekstra nøkler.
+Send e-post til setra@styrerommet.net med emnet «Ekstra nøkler».
 
 Oppgi hvor mange nøkler du trenger.
 
-Spesifiser om det skal betales via kredittkort eller Vipps. Oppgi eventuelt telefonnr for Vipps.
+Oppgi om du vil betale med kredittkort eller Vipps. Ved betaling med Vipps må du også oppgi telefonnummer.
 
-Du vi deretter motta betalingsinformasjon og når betaling er mottatt vil det lages nye nøkkler for leiligheten.
+Du mottar deretter betalingsinformasjon. Når betalingen er registrert, blir de nye nøklene til leiligheten laget.
 
 ![Nøkler](nøkkler.jpg)
 

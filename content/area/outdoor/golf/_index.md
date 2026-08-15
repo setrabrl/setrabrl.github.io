@@ -1,12 +1,12 @@
 ---
 title: Bogstad golfbane
 linktitle: Bogstad golfbane
-description:  Helt i enden av Hovseterdalen finner du Bogstad og Bogstad Golfbane.
+description: Helt i enden av Hovseterdalen finner du Bogstad og Bogstad golfbane.
 weight: 4
 ---
 <!-- markdownlint-disable MD033 -->
 
-Banen ble nylig totalrenovert for 60 millioner kroner og fremstår i dag som et av Europas mest avanserte anlegg med SubAir under alle greener og sandcaped fairways som gir en førsteklasses spilleopplevelse.
+Banen ble totalrenovert for 60 millioner kroner og fremstår som et av Europas mest avanserte anlegg, med SubAir under alle greenene og sanddekkede fairwayer som gir gode spilleforhold.
 
 Banen tilbyr 18 hull med forskjellig vanskelighetsgrad.
 
@@ -18,8 +18,8 @@ Banen tilbyr 18 hull med forskjellig vanskelighetsgrad.
 </figur>
 
 
-Se video av det fantastiske anlegget. Kun 10 minutter gange fra Setra gjennom Hovseterdalen.
+Se en video av anlegget, som ligger omtrent ti minutters gange fra Setra gjennom Hovseterdalen.
 
 {{< youtube qbBG_d8_kvc >}}
 
-[Se også hjemmesiden](https://www.oslogk.no/)
+[Se også golfklubbens nettsted](https://www.oslogk.no/).

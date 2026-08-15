@@ -1,7 +1,7 @@
 ---
 title: Parkering i borettslaget
 linktitle: Parkering
-description:  Borettslaget har flere parkeringsalternativer
+description: Borettslaget har flere parkeringsalternativer.
 weight: 4
 ---
 
@@ -11,7 +11,7 @@ weight: 4
 
 Borettslaget eier 157 garasjeplasser i Hovseterveien 70.
 
-Disse plassene er tilordnet leiligheter. Eierne av disse leilighetene får spesifisert leie pr måned på regning fra OBOS. I tilegg er leilighetene med garasje tilordnet sin andel av fellesgjelden på garasjekjøpet.
+Disse plassene er tilordnet leiligheter. Eierne av disse leilighetene får spesifisert leie per måned på regning fra OBOS. I tillegg er leilighetene med garasje tilordnet sin andel av fellesgjelden på garasjekjøpet.
 
 Alle leiligheter som har parkeringsplass i Hovseterveien 70 har egen garasjeportåpner.
 I 2018 fikk garasjeanlegget montert nye motoriserte porter fra Industriporter AS.
@@ -38,7 +38,7 @@ I Hovseterveien 70 har borettslaget etablert infrastruktur for ladebokser. Les m
 
 ## Landingsveien 14
 
-I tillegg leies det 54 garasjeplasser i Landingsveien 14
+I tillegg leies det 54 garasjeplasser i Landingsveien 14.
 
 Leiligheter som har parkeringsplass i Landingsveien 14 har nøkkel til parkeringshuset.
 
@@ -48,23 +48,23 @@ Det er usikkert hvor lenge borettslaget får leie parkeringsplasser i Landingsve
 
 ## Parkering utenfor leiligheter
 
-Ved oppgangene kan en kun stå ved av/på- lessing, og da maks 20 minutter. Fra 1. November 2020 må det ligget et gyldig beboerkort synlig i vinduet. Dette for å skille mellom beboere og andre som parkerer utenfor. Beboerkortet er kort  avbildet ovenfor. Beboerkort fås hos styret.
+Ved oppgangene er det bare tillatt å stå under av- og pålessing, og da i maksimalt 20 minutter. Fra 1. november 2020 må et gyldig beboerkort ligge synlig i vinduet. Kortet skiller beboere fra andre som parkerer utenfor. Beboerkortet er avbildet ovenfor og fås hos styret.
 
-![Parkeringsbevis](parkeringsbevis.jpg "Parkeringsbevis for håndtverker")
+![Parkeringsbevis](parkeringsbevis.jpg "Parkeringsbevis for håndverker")
 
-Skal man stå lenger, må man ha et tidsbegrenset kort utstedt av styre. Dette kan være i sammenheng med f.eks flytting eller håndtverkere hvor det ikke er praktisk mulig for dem å parkere på gjesteparkering.
+Skal man stå lenger, må man ha et tidsbegrenset kort utstedt av styret. Det kan være aktuelt ved for eksempel flytting eller håndverkerbesøk når det ikke er praktisk mulig å bruke gjesteparkeringen.
 
 ![Gjesteparkering](gjesteparkering.jpg "Gjesteparkering")
 
 ## Gjesteparkering
 
-Hver leilighet har anledning til å ha to gjesteparkeringskort.  Fra 01.10.2020 er det de gule kortene som gjelder. Hver leilighet har fått utdelt to stk 22.09.2020.  Borettslaget har ikke eget område for gjesteparkering men leier plass for gjester hos Meklenborg borettslag. Med vårt gule gjesteparkeringskort kan en parkere på ledig plass. Det er kun kortet som ser ut som dette under som er gyldig etter 01.10.2020 og det er kun lov å bruke på parkeringsplassen avbildet over!.  
+Hver leilighet kan ha to gjesteparkeringskort. Fra 1. oktober 2020 er det de gule kortene som gjelder. Hver leilighet fikk utdelt to kort 22. september 2020. Borettslaget har ikke et eget område for gjesteparkering, men leier gjesteplasser hos Meklenborg borettslag. Med det gule gjesteparkeringskortet kan man parkere på en ledig plass. Kortet som er vist nedenfor, er det eneste gyldige kortet og kan bare brukes på parkeringsplassen som er avbildet ovenfor.
 
 ![Gjesterparkering](nyttparkeringskort.png "Gjesteparkeringskort for gjesteparkeringsplass")
 
 Vi ber alle ta vare på sine dispensasjonskort for utlån til gjester, og være påpasselig med at parkeringsbestemmelsene blir fulgt.
 
-Etersom borettslaget har svært få gjesteparkeringsplasser (23), må alle beboere bruke sine garasjer. Det er heller ikke lov å parkere biler benyttet i eget arbeid på gjesteparkering.
+Ettersom borettslaget har svært få gjesteparkeringsplasser (23), må alle beboere bruke sine egne garasjeplasser. Det er heller ikke tillatt å parkere biler som brukes i eget arbeid, på gjesteparkeringen.
 
 ## Parkeringsvakter
 

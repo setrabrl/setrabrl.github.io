@@ -1,7 +1,7 @@
 ---
-title: Før & etter bilder
-linktitle: Før & etter
-description:  Her ser du noen eksempler på den store forandringen
+title: Før- og etterbilder
+linktitle: Før og etter
+description: Her ser du noen eksempler på den store forandringen.
 weight: 2
 ---
 

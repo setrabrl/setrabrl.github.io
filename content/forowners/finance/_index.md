@@ -1,69 +1,69 @@
 ---
 title: Fellesgjeld og felleskostnader
 linktitle: Fellesgjeld og felleskostnader
-description:  Denne artikkelen prøver å forklare fellesgjeld og felleskostnader i borettslaget.
+description: Denne artikkelen forklarer fellesgjeld og felleskostnader i borettslaget.
 weight: 3
 ---
 
-Hver leilighet i borettslaget har felleskostnader og fellesgjeld. Disse varierer basert på en rekke egenskaper med leilighetene.
+Hver leilighet i borettslaget har felleskostnader og fellesgjeld. Beløpene varierer ut fra egenskapene ved leiligheten.
 
-### Hva dekker felleskostnadene
+### Hva dekker felleskostnadene?
 
-Felleskostnadene dekker utgifter som strøm til varmtvann, TV, Internett, renovasjon og renter/avdrag på fellesgjeld. 
+Felleskostnadene dekker blant annet strøm til varmtvann, TV, internett, renovasjon samt renter og avdrag på fellesgjeld.
 
-Foran hver generalforsamling så legges det frem detaljert regnskap for året før og budsjett for det inneværende. Disse finner du her. 
+Før hver generalforsamling legges det frem et detaljert regnskap for året før og et budsjett for inneværende år.
 
-### Hvordan fordeles felleskostandene?
+### Hvordan fordeles felleskostnadene?
 
-Felleskostnadene fordeles basert på fordelingsnøkkelen til hver leilighet. Nedenfor vises en tabeller for regnskapet for 2021 og 2020 som viser de største kostnadene som ikke dekkes av nye lån.  (Altså ikke fasade og vvs prosjektene).
+Felleskostnadene fordeles etter fordelingsnøkkelen til hver leilighet. Tabellene nedenfor viser de største kostnadene i regnskapene for 2021 og 2020 som ikke ble dekket av nye lån. Fasade- og VVS-prosjektene er derfor ikke tatt med.
 
-Totalsummen samt fordelingen av disse kostnadene pr leilighetstype basert på fordelingsnøkkelen.
+De viser både totalsummen og fordelingen per leilighetstype basert på fordelingsnøkkelen.
 
 ![Felleskostnader](felleskostnader2021.png "Felleskostnader 2021 Klikk for stor versjon")
 
 ![Felleskostnader](felleskostnader2020.png "Felleskostnader 2020 Klikk for stor versjon")
 
-### Felleskostnadene har steget en god del i 2017-2018. Når vil de bli satt ned igjen til tidligere nivå?
+### Felleskostnadene steg mye i 2017–2018. Når blir de satt ned til tidligere nivå?
 
-Lånene som betjenes med fellesgjelden har en nedbetalingsplan på 30 og 40 år. Dette betyr at man kan ikke forvente at husleien vil gå ned igjen. Innen 30 år er det sikkert behov for andre prosjekt som krever nye lån. 
+Lånene som betjenes gjennom fellesgjelden, har nedbetalingsplaner på 30 og 40 år. Man kan derfor ikke forvente at felleskostnadene går ned til tidligere nivå. I løpet av denne perioden vil det trolig også bli behov for andre prosjekter som krever nye lån.
 
-Fra 1.1.2023 vil felleskostnadene øke med 10%. Dette er i hovedssak grunnet kraftig økte kommunale avgifter samt økte rentekostnader. Det vil gjøres en ny vurdering våren 2023 om det er videre behov for justeringer for å dekke inn økte kostnader grunnet pristigninger.
+Fra 1. januar 2023 økte felleskostnadene med 10 %. Dette skyldtes hovedsakelig høyere kommunale avgifter og rentekostnader. Det skulle gjøres en ny vurdering våren 2023 av behovet for ytterligere justeringer.
 
-Grafen nedenfor viser utviklingen av felleskostnader over tid for utvalge leilighetstyper. Endringene er releativ like store på alle typer.
+Grafen nedenfor viser utviklingen av felleskostnader over tid for utvalgte leilighetstyper. Endringene er relativt like store på alle typer.
 
 ![Felleskostnader](felleskostanderhistorisk.png)
 
 ## Hva dekker fellesgjelden
 
-Borettslaget har forskjellige lån tatt opp til forskjellige behov over tid. Eksempler på lån som er tatt opp nylig er rør og våtromsprosjektet, kjøp av garasje og fasadeprosjekt.
+Borettslaget har over tid tatt opp lån til forskjellige formål. Nyere eksempler er rør- og våtromsprosjektet, kjøpet av garasjen og fasadeprosjektet.
 
-Lånene er totalt på  kr 158 417 856,- (14.11.2023)
+Lånene var på totalt kr 158 417 856 per 14. november 2023.
 
 ### OBBK02
 
 - Saldo: kr 26 617 737 
-- Månedlig terminer til september 2047
+- Månedlige terminer til september 2047
 
 Gjelder kjøp av garasjer i Hovseterveien 70. Fordeles på leiligheter med garasje i Hovseterveien 70 (157 plasser)
 
 ### OBBK04
 
 - Saldo:  kr 53 089 235 
-- Månedlig terminer til november 2047
+- Månedlige terminer til november 2047
 
-Lån til bad og våtroms rehabilitering.
+Lån til rehabilitering av bad og våtrom.
 
 ### OBOS08
 
 - Saldo:  kr 72 794 480
-- Månedlig terminer til april 2059
+- Månedlige terminer til april 2059
 
 Lån til fasadeprosjekt.
 
 ### OBOS09
 
 - Saldo:  kr 5 916 404
-- Månedlig terminer til april 2039
+- Månedlige terminer til april 2039
 
 Lån til tidligere vedlikehold.
 
@@ -71,47 +71,47 @@ Lån til tidligere vedlikehold.
 
 Fordelingen av fellesgjelden avhenger av hva gjelden er tatt opp for. Noe av fellesgjelden fordeles jevnt på leilighetene, mens annen gjeld fordeles i henhold til fordelingsnøkkelen.
 
-F.eks fordeles gjelden på garasjen likt på alle leiligheter med garasjeplass i Hovseterveien 70, mens gjelden på Fasadeoppussingen vil fordeles ved hjelp av fordelingsnøkkelen.
+For eksempel fordeles gjelden på garasjen likt mellom alle leiligheter med garasjeplass i Hovseterveien 70, mens gjelden fra fasadeoppussingen fordeles ved hjelp av fordelingsnøkkelen.
 
 ### Hva er fordelingsnøkkelen?
 
-Fordelingsnøkkelen er en nøkkel som hver leilighet har og som ble definert i det borettslaget ble opprettet. Den sier noe om hvor stor andel av fellesgjeld man står til ansvar for.
+Fordelingsnøkkelen ble definert da borettslaget ble opprettet. Den angir hvor stor andel av fellesgjelden hver leilighet er ansvarlig for.
 
 ### Hvordan ble fordelingsnøkkelen min definert?
 
-Nøkkelen er et resultatet av flere faktorer. Størrelsen på leiligheten er en av faktorene, hvilken etasje man bor i er en annen faktor. Frem til 2018 var også om man hadde garasjeplass en slik faktor, men dette ble trukket ut slik at f.eks kostnadene til fasadaprosjekt ikke skal avhenge om man har parkeringsplass eller ikke.  Fordelingsnøkkelen ble definert i 1978 basert på hvor stort innskudd hver leilighet måtte stå for når de ble solgt første gang. (innskuddskapitalen varierte mellom 7.400 for de minste hyblene til 40.900,- for 4 roms med garasje.
+Nøkkelen er et resultat av flere faktorer, blant annet størrelsen på leiligheten og hvilken etasje den ligger i. Frem til 2018 var garasjeplass også en faktor. Dette ble skilt ut, slik at kostnadene til for eksempel fasadeprosjektet ikke avhenger av om leiligheten har parkeringsplass. Fordelingsnøkkelen ble definert i 1978 ut fra innskuddet for hver leilighet ved første salg. Innskuddskapitalen varierte fra kr 7 400 for de minste hyblene til kr 40 900 for 4-romsleiligheter med garasje.
 
 ### Hva er min fordelingsnøkkel?
 
-Dette er en nøkkel som Obos sitter på å benytter når de fordeler. Samlet sett står alle andelene for 100% av utgiftene og gjelden til borettslaget. Se nederst for fordelingsnøkker for de forskjellige leilighetene.
+OBOS har oversikten over fordelingsnøklene og benytter dem ved fordeling. Til sammen utgjør alle andelene 100 % av borettslagets utgifter og gjeld. Se oversikten nedenfor for fordelingsnøkkelen til de forskjellige leilighetstypene.
 
 ### Hvordan regner jeg ut min andel av et lån
 
-Hvis lånet du ønsker å regne ut skal fordeles via fordelingsnøkkelen så tar man lånesummen og ganger med sin fordelingsnøkkel. Dette gjør Obos
+Hvis lånet skal fordeles etter fordelingsnøkkelen, multipliserer du lånesummen med leilighetens fordelingsnøkkel. Det er denne beregningen OBOS bruker.
 
-Eksempel. Totallån utenom garasje på 139.203.368 * 0,004693 = 653.324,-  
+Eksempel: Et samlet lån utenom garasjen på kr 139 203 368 × 0,004693 gir en andel på kr 653 324.
 
-Se nederst for utregning pr leilighetstype
+Se beregningen per leilighetstype nedenfor.
 
-Oversikt over gjeld/fellesutgifter pr bygg
+Oversikt over gjeld og fellesutgifter per bygg:
 
 ![Fellesgjeld bygg](fellesgjeldbygg.png "Fellesgjeld pr bygg")
 
 ### Når blir lånet fordelt?
 
-Lånet blir fordelt i det lånet benyttes til å betale kostnader. Det betyr at det kan gå lang tid fra lånet blir tatt opp til at fordelingen skjer. For øyeblikket er alt av de store lånene utbetalt og fordelt. Det er ikke planer om noen nye lån på nåværende tidspunkt.
+Lånet blir fordelt når det benyttes til å betale kostnader. Det kan derfor gå lang tid fra lånet tas opp til fordelingen skjer. For øyeblikket er alle de store lånene utbetalt og fordelt. Det er ikke planlagt nye lån på nåværende tidspunkt.
 
 ### Når får man økt felleskostnader grunnet lån?
 
-Bankene krever typisk at man øker felleskostnaden til nødvendig nivå for å betjene lånet før det innvilges. F.eks så betaler man lemge på nivået som er nødvendig for fasadeprosjektet selv om det ikke var utbetalt noe eller man hadde begynt å betale ned på det.
+Bankene krever vanligvis at felleskostnadene økes til et nivå som kan betjene lånet før det innvilges. For fasadeprosjektet betalte beboerne derfor høyere felleskostnader allerede før lånet var utbetalt og nedbetalingen hadde begynt.
 
 ### Hvordan bestemmes min andel av lånekostnadene som går inn på felleskostnaden?
 
-Når et lån tas opp vil nebetalingsplanen og rentenivået avgjøre hvor stor lånekostnad borettslaget har hver måned. Hver måned vil borettslaget betale inn renter og avdrag. Denne kostnaden fordeles utover leilighetene. For lån som fasadelånet benyttes fordelingsnøkkelen for å fordele kostnadene på leilighetene. For lån som garasjelånet fordeles dette flatt utover leilighetene.
+Når et lån tas opp, avgjør nedbetalingsplanen og rentenivået hvor store lånekostnader borettslaget har hver måned. Borettslaget betaler renter og avdrag, og kostnadene fordeles mellom leilighetene. For fasadelånet benyttes fordelingsnøkkelen, mens garasjelånet fordeles likt mellom de aktuelle leilighetene.
 
-Renteendringer ville kunne medføre endringer i det månedelige beløpet som gjør at også leilighetene vil få en endring. Borettslaget gjør en jevnlig vurdering basert på rentenivå om at innbetalingene fra leilighetene er riktig.
+Renteendringer kan endre det månedlige beløpet for leilighetene. Borettslaget vurderer jevnlig om innbetalingene er riktige ut fra rentenivået.
 
-Nedenfor ser du de forskjellige leilighetstypene med fellesgjeld nå. Hvis du i tilegg har garasjeplass i Hovseterveien 70 må den legges til. Utregningen er basert på hvordan OBOS rapporterer dette til skattemyndighetene.
+Nedenfor ser du de forskjellige leilighetstypene med fellesgjeld nå. Hvis du i tillegg har garasjeplass i Hovseterveien 70 må den legges til. Utregningen er basert på hvordan OBOS rapporterer dette til skattemyndighetene.
 
 ![Fellesgjeld pr](fellesgjeld.png "Fellesgjeld pr leilighetstype")
 

@@ -1,7 +1,7 @@
 ---
 title: Friluftsområder
 linktitle: Friluftsområder
-description:  Setra borettslag er plassert i hjertet av Oslo Vest med rike muligheter for friluftsliv.
+description: Setra borettslag ligger i hjertet av Oslo vest, med gode muligheter for friluftsliv.
 weight: 4
 ---
 

@@ -1,15 +1,15 @@
 ---
 title: Hva ble gjort med fasaden?
 linktitle: Fasadearbeidet
-description:  Selve fasadene til leiligheten ikke store forandringer
+description: Selve fasadene til leilighetene ble ikke vesentlig endret.
 weight: 2
 ---
 
-Arbeidet av fasaden er litt forskjellig mellom vegg på balkongside og andre vegger
+Arbeidet på balkongveggen skilte seg noe fra arbeidet på de øvrige veggene.
 
-Arbeid fasade utenom balkongvegg
+## Fasader utenom balkongveggen
 
-Følgende blir gjort med fasadene.
+Følgende ble gjort med fasadene:
 
 1. Dagens plater med asbest fjernes
 
@@ -17,33 +17,33 @@ Følgende blir gjort med fasadene.
 
 ![Lekter](lekter.jpg)
 
-3. Det legges ny isolasjon utenpå dagens isolasjon. Områder hvor eventuell isolasjon er dårlig vil den erstattes. 
+3. Det legges ny isolasjon utenpå den eksisterende isolasjonen. Eksisterende isolasjon i dårlig stand erstattes.
 
-4. Det legges vindperre utenpå isolasjon samt skinner for feste av STO plater
+4. Det legges vindsperre utenpå isolasjonen og skinner for montering av Sto-plater.
 
 ![Vindsperre](vindsperre.jpg)
 
-5. Det legges sto plater utenpå.
+5. Sto-plater monteres utenpå.
 
-![Stoplater](stoplater_vindu.jpg)
+![Sto-plater](stoplater_vindu.jpg)
 
-6. Det legges puss utenpå  STO platene.
+6. Sto-platene pusses.
 
 ![Fasade](fasade1.jpg)
 
-Fasade Balkong
+## Balkongfasaden
 
-På balkongsiden fores det ikke ut tilsvarende som på de andre sidene. Her forest det ut ca 5 cm og så erstattes isolasjonen med en ekstra god en.
+På balkongsiden ble veggen ikke fôret ut like mye som på de andre sidene. Her ble den fôret ut ca. 5 cm, og isolasjonen ble erstattet med en type med bedre isolasjonsevne.
 
 ![Isolasjon](fjerning_isolasjon.jpg)
 
-Dette gjør at man ikke mister så mye plass på balkongen.
+Dette begrenser tapet av plass på balkongen.
 
 ![Flex](flexextrem33.jpg "Rockwool FlexExtreme 33 erstatter dagens isolasjon på balkongfasade. Se mer info hos produsent.")
 
-![Flex](20190422_133607.jpg "Ny isolasjon montert. I tilegg lektres det ut noen få cm.")
+![Flex](20190422_133607.jpg "Ny isolasjon montert. I tillegg lektres det ut noen få cm.")
 
-![Flex](20190511_150421.jpg "Med vindsperre")
+![Flex](20190511_150421.jpg "Med vindsperre.")
 
 ![Termofuru](20190709_183009.jpg "Termofuru montert.") 
 

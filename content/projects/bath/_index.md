@@ -1,11 +1,11 @@
 ---
 title: Bad og våtromsprosjektet
 linktitle: Bad og våtrom
-description:  En gjennomgang på hva som ble gjort i prosjektet.
+description: En gjennomgang av hva som ble gjort i prosjektet.
 weight: 1
 ---
 
-Det ble vedtatt på generalforsamling 27.05.2015 at alle bad i Setra skulle renoveres og alle rør til leilighetene skulle byttes ut.  Som del av prosjektet ble alle andelseierne tilbydt en standardpakke på fliser og toalett. Det var mulig for hver andelseier å velge andre fliser og utstyr til en merkostnad. Se informasjon om vedtak og standardpakke [her](decision).
+På generalforsamlingen 27. mai 2015 ble det vedtatt at alle bad i Setra skulle renoveres, og at alle rør til leilighetene skulle skiftes ut. Som del av prosjektet fikk alle andelseierne tilbud om en standardpakke med fliser og toalett. Hver andelseier kunne velge andre fliser og annet utstyr mot en merkostnad. Se informasjon om vedtaket og standardpakken [her](decision).
 
 ## Status
 
@@ -13,19 +13,19 @@ Valg av leverandør ble gjort i mai 2017 og [Sansbygg AS](https://sansbygg.no/) 
 
 Prosjektet er avsluttet.
 
-- Oppussing av bad og rørsystem: Gjennomført i perioden september 2017 - oktober 2018
-- Rørfornying taknedløp: Gjennomført sommeren 2019
-- Rørfornying bunnledning og stikkledning: Gjennomført for 68,82 og 84 vinteren 2019/2020.  Gjennomført for 64 og 66 juli/august 2020.
+- Oppussing av bad og rørsystem: gjennomført i perioden september 2017–oktober 2018
+- Rørfornying av taknedløp: gjennomført sommeren 2019
+- Rørfornying av bunn- og stikkledninger: gjennomført i nr. 68, 82 og 84 vinteren 2019/2020, og i nr. 64 og 66 i juli og august 2020
 
 ## Reklamasjon
 
-Arbeidet utført i forbindelse med bad- og rørføringer er nå inne i garantiperioden på 5 år. Hvis man har behov for å reklamere på noe må det sendes mail til roger@sansbygg.no med kopi til setra@styrerommet.net.  
+Arbeidet som ble utført på bad og rørføringer, hadde en garantiperiode på fem år. Reklamasjoner må sendes på e-post til roger@sansbygg.no, med kopi til setra@styrerommet.net.
 
 ## Hva ble gjort
 
-For detaljer om arbeidet som ble gjort klikk på seksjonene under
+Klikk på sidene nedenfor for detaljer om arbeidet som ble utført:
 
-- [Nye bad, fallstammer og vannrør](bathroms).
+- [Nye bad, fallstammer og vannrør](bathroms)
 - [Nytt fellesanlegg for varmtvann](common)
 - [Rørfornying taknedløp, bunnledning og stikkledning](drains)
 
@@ -33,13 +33,13 @@ For detaljer om arbeidet som ble gjort klikk på seksjonene under
 
 Følgende kostnader er knyttet til badprosjektet.
 
-- OBOS Prosjekt AS 4.184.995,-
-- Advokatene i OBOS 21.643
-- Olimb rørfornying: 2.419.812,-
-- Sans Bygg AS 54.852.617,-
-- Oslo Kommune 85.140,-
-- Andre kostnader 33 389,-
-- Totalt 61.828.270,-
+- OBOS Prosjekt AS: 4 184 995 kroner
+- Advokatene i OBOS: 21 643 kroner
+- Olimb Rørfornying: 2 419 812 kroner
+- Sans Bygg AS: 54 852 617 kroner
+- Oslo kommune: 85 140 kroner
+- Andre kostnader: 33 389 kroner
+- Totalt: 61 828 270 kroner
 
 ## Dokumenter
 

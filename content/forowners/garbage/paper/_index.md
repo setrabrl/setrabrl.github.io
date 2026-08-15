@@ -1,15 +1,15 @@
 ---
-title: Papp og papircontainere
-linktitle: Papp og papircontainere
-description:  Bak 68 blokken er det utplassert en rekke små papp og papircontainere og ved 82 blokken er det utplassert en stor.
+title: Papir- og pappcontainere
+linktitle: Papir og papp
+description: Bak nr. 68 står flere små papir- og pappcontainere. Ved nr. 82 står en stor container.
 weight: 2
 ---
 
 Disse skal benyttes for resirkulering av papp og papir.
 
-![Container](pappogpapir.jpg "Bokser bak 68 blokken")
+![Container](pappogpapir.jpg "Containere bak nr. 68.")
 
-![Container](pappogpapir.jpg "Container mellom 68 og 66")
+![Container](pappogpapir.jpg "Container mellom nr. 68 og 66.")
 
 Neste tømming kan sjekkes [her](https://www.oslo.kommune.no/avfall-og-gjenvinning/avfallshenting/?sid=&street=Hovseterveien+68a#gref).
 

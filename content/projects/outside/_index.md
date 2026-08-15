@@ -1,11 +1,11 @@
 ---
 title: Uteområder 
 linktitle: Uteområder
-description: Det ble vedtatt på generalforsamlingen for 2020 å ruste opp uteområdene
+description: På generalforsamlingen i 2020 ble det vedtatt å ruste opp uteområdene.
 weight: 11
 ---
 
-Foreløpig er det plantet trær foran 84. I tilegg er det gjennomført tomtemåling for å vite helt sikker hva som er våre uteområder.
+Det er plantet trær foran nr. 84. I tillegg er det gjennomført en tomtemåling for å fastslå grensene for borettslagets uteområder.
 
 Arbeidet vil fortsette våren 2022.
 

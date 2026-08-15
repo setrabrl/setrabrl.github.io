@@ -1,7 +1,7 @@
 ---
 title: Skoler og barnehager
 linktitle: Skoler og barnehager
-description:  Setra borettslag ligger nært et stort antall barnehager og flere skoler.
+description: Setra borettslag ligger i nærheten av mange barnehager og flere skoler.
 weight: 4
 ---
 

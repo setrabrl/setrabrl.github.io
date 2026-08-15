@@ -1,18 +1,18 @@
 ---
 title: Glass og metall
 linktitle: Glass og metall
-description:  På borettslaget området står det en glass og metallcontainer.
+description: På borettslagets område står det en container for glass- og metallemballasje.
 weight: 2
 ---
 
-Den er plassert rett foran Rema 1000
+Den er plassert rett foran Rema 1000.
 
-![Glass & Metall](glasscontainer.png "Glass & Metallcontainer finner du foran Rema 1000")
+![Glass- og metallcontainer](glasscontainer.png "Containeren for glass- og metallemballasje står foran Rema 1000.")
 
 Her kan du kaste glass og metall. 
 
-Hvis denne er full anbefaler vi at du kontakter Oslo Kommune for å melde behov for tømming.
+Hvis containeren er full, kan du kontakte Oslo kommune og melde behov for tømming.
 
-Se hjemmesiden dere her.
+Se Oslo kommunes nettsted for mer informasjon.
 
 {{% children description="true" depth="1" %}}

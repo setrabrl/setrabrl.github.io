@@ -1,38 +1,38 @@
 ---
-title: Ofte spurte spørsmål Setra borettslag
-linktitle: Ofte spurt
-description:  Her finner du en rask oversikt over vanlige spørsmål
+title: Ofte stilte spørsmål om Setra borettslag
+linktitle: Ofte stilte spørsmål
+description: Her finner du svar på vanlige spørsmål.
 weight: 1
 ---
 
-Sist oppdatert 09.01.2023
+Sist oppdatert 9. januar 2023.
 
 ### Er det planlagt noen nye prosjekter?
 
-Oversikt over planlagte vedlikehold finner du [her](/projects/).
+En oversikt over planlagt vedlikehold finner du [her](/projects/).
 
 ### Er det planlagt noen nye låneopptak?
 
-Nei. Det er ikke planlagt noen nye lån. Vedtatt oppussinger er planlagt tatt fra oppsparte midler.
+Nei. Det er ikke planlagt nye lån. Vedtatte oppussingsarbeider skal finansieres med oppsparte midler.
 
 ### Hva er inkludert i felleskostnadene?
 
 Det er flere ting. Hovedtingene er:
 
-- Renter og nedbetaling lån
+- Renter og nedbetaling av lån
 - Kommunale avgifter
 - Varmtvann
-- Strøm fellesområder
+- Strøm i fellesområdene
 
 Se full oversikt [her](/forowners/finance/).
 
-### Hvem er leverandør av Internett/TV?
+### Hvem leverer internett og TV?
 
 Det er Telenor. Se detaljer [her](/forowners/internettv/).
 
 ### Eier leilighetene parkeringsplass eller garasjeplass?
 
-Det er ingen leiligheter som eier garasjeplass, men en del leiligheter har leierett i garasjeanlegg. For Hovseterveien 70 eier borettslaget plassen og denne leieretten er dermed "evig", mens i Landingsveien 14 leier borettslaget og her er det planer om å rive anlegget. For de som har leierett i Landingsveien 14 vil garasjeplassen derfor forsvinne en gang i fremtiden. For Hovseterveien 70 kan man si fra seg leieretten hvis styret har en beboer som ønsker å overta plassen.
+Ingen leiligheter eier en garasjeplass, men enkelte har leierett i et garasjeanlegg. I Hovseterveien 70 eier borettslaget plassene, og leieretten er derfor varig. I Landingsveien 14 leier borettslaget plassene, og det er planer om å rive anlegget. Garasjeplassene der vil derfor forsvinne en gang i fremtiden. Leieretten i Hovseterveien 70 kan sies opp dersom styret har en beboer som ønsker å overta plassen.
 
 Se mer [her](/forowners/parking/).
 

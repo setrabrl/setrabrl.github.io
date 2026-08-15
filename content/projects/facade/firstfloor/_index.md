@@ -1,7 +1,7 @@
 ---
 title: Hva ble gjort med sokkeletasje og inngangsparti?
 linktitle: Sokkeletasjer
-description:  Også sokkeletasjen og inngangspartiene fikk store endringer
+description: Sokkeletasjene og inngangspartiene ble også betydelig endret.
 weight: 2
 ---
 
@@ -13,7 +13,7 @@ Også murveggene i sokkeletasjen ble etterisolert. Det ble satt opp beslag og ny
 
 ![Beslag](sokkeletasje_beslag.jpg) 
 
-Utenpå den nye isolasjonen ble det lagt plater og deretter Sto Bricks.
+Utenpå den nye isolasjonen ble det lagt plater og deretter Sto Brick-fasadefliser.
 
 ![Isolasjon](isolasjon.jpg)
 

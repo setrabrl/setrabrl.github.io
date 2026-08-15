@@ -1,7 +1,7 @@
 ---
 title: Nærområdet
 linktitle: Nærområdet
-description:  Setra borettslag er plassert i hjertet av Oslo Vest med rike muligheter for friluftsliv og har tilgang til et svært godt offentlig og privat servicetilbud i umiddelbar nærhet.
+description: Setra borettslag ligger i hjertet av Oslo vest, med gode muligheter for friluftsliv og et bredt offentlig og privat tjenestetilbud i nærheten.
 weight: 4
 ---
 

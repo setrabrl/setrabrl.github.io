@@ -1,7 +1,7 @@
 ---
-title: Nye inngangsdører leiligheter
+title: Nye inngangsdører til leilighetene
 linktitle: Leilighetsdører
-description: Dette ble vedtatt på generalforsamlingen for 2020 at borettslaget skulle bytte dører på leiligheter og trapperom.
+description: På generalforsamlingen i 2020 ble det vedtatt at borettslaget skulle skifte dørene til leilighetene og trapperommene.
 weight: 10
 ---
 
@@ -9,21 +9,21 @@ De fleste leilighetene hadde dører fra 1975.
 
 ![Gammel dør](20200527_072221.jpg)
 
-De originale dørene var slitt og dårlig isolert. De gir heller ikke samme brannisolasjon som nye dører gir.
+De opprinnelige dørene var slitte og dårlig isolert. De ga heller ikke like god brannbeskyttelse som nye dører.
 
-Valget falt til slutt på Palmgren som leverandør og dørtypen ble en Swedor Massivdør med 43db lyddemping.
+Palmgren ble valgt som leverandør. Dørtypen er en Swedoor massivdør med 43 dB lyddemping.
 
-Målet er å få gjennomført dørbyttet innen januar 2022. [Se informasjonskriv fra Palmgreen](Informasjonsskriv.pdf)
+Målet var å fullføre dørbyttet innen januar 2022. [Se informasjonsskrivet fra Palmgren](Informasjonsskriv.pdf).
 
-Dørene vil ha Laminat overflate hvor utsiden vil ha denne fargen , mens innsiden vil ha denne fargen.
+Dørene har laminatoverflate. Utsiden og innsiden har ulike farger.
 
-Alle dører vil få terskel. Målene på terskel er.
+Alle dørene har terskel. Målene vises nedenfor.
 
 ![Terskel](terskel.jpg)
 
 ## Farger
 
-Utvendig leilighetsdører blir fargen [F7912 Storm](https://www.formica.com/nb-no/products/laminate/F7912)
+Utsiden av leilighetsdørene har fargen [F7912 Storm](https://www.formica.com/nb-no/products/laminate/F7912).
 
 ![Farge leilighet](fargeleilighet.jpg)
 
@@ -31,19 +31,20 @@ Fargen på trapperomsdører i høyblokkene blir [F1998 Oslo](https://www.formica
 
 ![Farger](fargetrapperom.jpg)
 
-Listene blir hvite
+Listene er hvite.
 
-![New door installed](newdoorinstalled.jpg "Ny dør montert i 84")
+![Ny dør montert](newdoorinstalled.jpg "Ny dør montert i nr. 84.")
 
 ## Spørsmål og svar
 
-1. Spørsmål: Vil Palmgren montere smartlås fra gammel dør i ny.
-**svar:** Nei. Dette må gjøres selv i etterkant.
+1. **Spørsmål:** Vil Palmgren flytte smartlåsen fra den gamle døren til den nye?
+   **Svar:** Nei. Dette må beboeren gjøre selv i etterkant.
 
-2. Vil det komme mulighet til å bestille dør med smartlås
-**Svar:** Det var ikke mulig å få bestilt dette grunnet leveringsituasjon. Dette må håndteres av beboer selv.
+2. **Spørsmål:** Er det mulig å bestille en dør med smartlås?
+   **Svar:** Dette kunne ikke bestilles på grunn av leveringssituasjonen. Beboeren må ordne det selv.
 
-3. Vil det være mulig å få Iloq i dørene. **Svar:** Det må isåfall avtales med leverandør i etterkant
+3. **Spørsmål:** Er det mulig å få iLOQ i dørene?
+   **Svar:** Det må i så fall avtales med leverandøren i etterkant.
 
 ## Fremdriftsplan
 
