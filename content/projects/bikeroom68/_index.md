@@ -3,12 +3,15 @@ title: Sykkelrom 68
 linktitle: Sykkelrom
 description: Våren 2023 ble det etablert et sykkelrom i nr. 68.
 weight: 5
+lastmod: 2026-08-15
 ---
 
 
 I motsetning til de andre blokkene hadde nr. 68 ikke et eget område der beboerne kunne oppbevare sykler.
 
 Våren 2023 ble vaskeriet i nr. 68 gjort om til sykkelrom.
+
+Prosjektet er fullført.
 
 Sykkelrommet har begrenset plass sammenlignet med antallet beboere i blokken.
 

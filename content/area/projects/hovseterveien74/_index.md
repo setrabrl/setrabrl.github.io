@@ -1,20 +1,24 @@
 ---
 title: Hovseterveien 74
 linktitle: Hovseterveien 74
-description: Hovseter ungdomsskole og uteområdene rundt skolen skal pusses opp.
+description: Hovseter skole, idrettshallen, skoleparken og uteområdene er ferdigstilt.
 weight: 4
 ---
 
 <!-- markdownlint-disable MD033 -->
-Arbeidet på skolen var planlagt ferdigstilt høsten 2024.
+Prosjektet er ferdigstilt. Hovseter skole er rehabilitert og utvidet med nytt skolebygg, idrettshall, skolepark og oppgraderte uteområder. Skolen og ungdomshuset B7 er tatt i bruk.
 
-Arbeidet må også ses i sammenheng med prosjektet i [Hovseterveien 20 og 72](../hovseterveien2072).
+Prosjektet må ses i sammenheng med planene for [Hovseterveien 20 og 72](../hovseterveien2072). Fremdriften for de planlagte omsorgsboligene i Hovseterveien 20 er fortsatt uavklart.
+
+[Se oppdatert bilde og informasjon om Hovseter skole](../../kindergardenschools/schools/)
+
+Illustrasjonene nedenfor er fra planleggingsfasen.
 
 <figur>
     <a href="hv2072_8.jpg">
         <img src="hv2072_8s.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Som del av prosjektet skal Hovseter torg pusses opp.</h4></figcaption>
+    <figcaption><h4>Planillustrasjon av oppgraderingen av Hovseter torg.</h4></figcaption>
 </figur>
 
 <figur>
@@ -30,7 +34,7 @@ Arbeidet må også ses i sammenheng med prosjektet i [Hovseterveien 20 og 72](..
     <a href="skolepark.jpg">
         <img src="skoleparks.jpg" alt="Hovseterveien 20 og 72" title="Hovseterveien 20 og 72">
     </a>
-    <figcaption><h4>Det bygges en ny skolepark som blir nærmeste nabo til nr. 84.</h4></figcaption>
+    <figcaption><h4>Planillustrasjon av skoleparken ved nr. 84.</h4></figcaption>
 </figur>
 
 

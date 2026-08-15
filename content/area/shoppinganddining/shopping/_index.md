@@ -9,54 +9,82 @@ weight: 4
 
 ![Røa Senter](roasenter.jpg "Røa Senter")
 
-På Røa senter finner du en rekke butikker. Avstanden i luftlinje fra Setra er bare 425 meter. Den korteste gangveien går gjennom Hovseterdalen.
+På Røa Senter finner du butikker, servering, trening, helse- og servicetilbud. Avstanden i luftlinje fra Setra er bare 425 meter. Den korteste gangveien går gjennom Hovseterdalen.
 
-Her finner du blant annet:
+Butikker og tilbud (oppdatert august 2026):
 
-- Anton Sport
-- Ark Bokhandel
+- Akasien Begravelsesbyrå
+- Annen Etage
+- ARK Bokhandel
+- Art Musikal & Ballettskole
 - Baker Hansen
-- Fredrik & Louisa Parfymeri
+- Bull Ski & Kajakk
+- Din Helse Røa
+- EiendomsMegler 1
+- Ellas Hud & Kroppspleie
+- EVO Treningssenter
+- Gundersen & Løken Optikk Røa
+- Helsefabrikken
+- Japoniis Sushi
 - Kid Interiør
-- Meny
+- Medskin Beauty
+- MENY
 - Mester Grønn
 - Mister Minit
-- Musti Dyrebutikk
+- Musti
+- Nabolagsadvokaten
 - Nille
-- Vita
-- Vitus Apotek
+- Odontia Tannlegene Røa
+- Oslo Kvinnehelsesenter
+- PÅHÅRET Studio
+- Røa Idrettsklinikk
+- Røa Legekontor
+- Røa Rens og Skjorteservice
+- VITA
+- Vitusapotek
 
-[Se hele butikkoversikten på nettstedet](https://roasenter.no/butikkoversikt/).
+[Se den oppdaterte oversikten hos Røa Senter](https://roasenter.no/butikker/).
+
+## Røa Senter utvides
+
+Røa Senter bygger ut på den tidligere Esso-tomten med nye lokaler for butikker, servering, trening og kontorer. Bygget er etter planen ferdig høsten 2027. Normal er planlagt som en av de nye butikkene og vil etter planen åpne samtidig.
+
+[Les byggenytt fra Røa Senter](https://roasenter.no/byggenytt/).
 
 ![Røa Torg](roatorg.jpg "Røa Torg")
 
-Røa torg er et kjøpesenter på Røa som åpnet vinteren 2021. Senteret ligger 570 meter fra Setra borettslag i luftlinje.
+Røa Torg er et kjøpesenter på Røa som åpnet vinteren 2021. Senteret ligger 570 meter fra Setra borettslag i luftlinje.
 
-Her finner du en rekke butikker.
+Butikker og tilbud (oppdatert august 2026):
 
-- Aire
+- Annen Etage
 - Apotek 1 Røa
-- Blade Beauty
 - Blade Studio
-- Brillemagi
-- Cashmere House
-- Christiania Glasmagasin
 - Coop Mega
-- Floriss
-- Krogh Optikk
-- Lively Home
-- Lively Me
-- Min Beste venn
+- Cutters
+- FUDI
+- Glamour Nails & Beauty
+- Indique Flavours
+- Jønk
+- Kitch'n
+- Lofthus Samvirkelag
+- Made 4 Fashion
+- Min Beste Venn
 - Norli
-- Olivelle
-- Princess Interiør
-- Sunkost
+- PiPPA
+- Princess
+- PrivatMegleren
+- SebastianBruno
+- Smak av Italia
 - Strikkemagi
-- Thune
+- Sunkost
+- Sushi Huset Røa
+- Thune Jewelry & Watches
 - VIC
 - Vinmonopolet
+- Åpent Bakeri
 
-[Se hele butikkoversikten på nettstedet](https://roatorg.no/butikker/).
+[Se den oppdaterte oversikten hos Røa Torg](https://alti.no/roatorg/butikkoversikt/).
 
 ## Røa bok og leker
 

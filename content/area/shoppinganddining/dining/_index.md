@@ -12,7 +12,7 @@ lastmod: 2026-08-15
 
 Hovseter Grill ligger i Hovseterveien 84 og tilbyr blant annet pizza, kebab og burgere.
 
-[Se meny](https://www.hovsetergrill.com/#meny)
+[Se meny og bestill](https://www.hovsetergrill.no/)
 
 ## På Røa
 

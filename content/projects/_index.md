@@ -46,7 +46,7 @@ Detaljer om tiltakene kan leses i den [originale rapporten](tilstandsrapport2011
 4. Bytte av boddører (2021)
 5. Renovering garasje
 6. Brannvarslingssystem 84 (2022-2023)
-7. Sykkelrom i nr. 68 (2023)
+7. Sykkelrom i nr. 68 (2023, fullført)
 
 ## Vedlikehold og tiltak i 2025
 

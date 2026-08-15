@@ -36,7 +36,7 @@ Skolen har 430 elever og er Norges eldste steinerskole. Man kommer seg bilfritt 
 
 ![Hovseter skole med nytt skolebygg, idrettshall og uteområde sett fra luften](DJI_0548.jpg "Hovseter skole, august 2026")
 
-Skolen er nærmeste nabo til Setra. Hovseter skole er ungdomsskolen for området og har ca. 650 elever. Skolen er oppgradert med nytt skolebygg, idrettshall og et nytt uteområde.
+Skolen er nærmeste nabo til Setra. Hovseter skole er ungdomsskolen for området og har ca. 650 elever. Utvidelses- og rehabiliteringsprosjektet er ferdigstilt, med nytt skolebygg, idrettshall og et nytt uteområde.
 
 [Se hjemmeside](https://hovseter.osloskolen.no/)
 
