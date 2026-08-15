@@ -1,5 +1,4 @@
 baseURL = "https://setrabrl.no/"
-languageCode = "nb"
 defaultContentLanguage = "nb"
 
 contentDir = "content"
@@ -15,10 +14,14 @@ enableEmoji = true
 enableGitInfo = false
 disableKinds = ["RSS"]
 
+[security]
+allowContent = ['^text/markdown$', '^text/html$']
+
 [languages]
   [languages.nb]
     title = "Setra borettslag"
-    languageName = "Norsk"
+    label = "Norsk"
+    locale = "nb-NO"
     weight = 2
 
 

@@ -21,7 +21,7 @@
 
   <section class="home-section task-section">
     <h2 class="group-heading">Det folk leter etter</h2>
-    <div class="task-grid">{{ range .Site.Data.snarveier }}<a class="task-card{{ if .kontakt }} contact{{ end }}" href="{{ .lenke | relURL }}"><strong>{{ .tittel }}</strong><span>{{ .undertekst }}</span></a>{{ end }}</div>
+    <div class="task-grid">{{ range hugo.Data.snarveier }}<a class="task-card{{ if .kontakt }} contact{{ end }}" href="{{ .lenke | relURL }}"><strong>{{ .tittel }}</strong><span>{{ .undertekst }}</span></a>{{ end }}</div>
   </section>
 
   <section class="home-section newcomer-section">
