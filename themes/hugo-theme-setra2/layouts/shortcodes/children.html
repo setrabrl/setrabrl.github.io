@@ -1,1 +1,1 @@
-{{ with .Page.Pages }}<ul class="link-list">{{ range .ByWeight }}{{ if not .Params.hidden }}<li><a href="{{ .RelPermalink }}"><strong>{{ .LinkTitle }}</strong>{{ with .Description }}<span>{{ . }}</span>{{ end }}</a></li>{{ end }}{{ end }}</ul>{{ end }}
+{{ with .Page.Pages }}<ul class="link-list">{{ range .ByWeight }}{{ if not .Params.hidden }}<li><a href="{{ .RelPermalink }}"><span class="link-list-title">{{ .LinkTitle }}</span>{{ with .Description }}<span class="link-list-description">{{ . }}</span>{{ end }}</a></li>{{ end }}{{ end }}</ul>{{ end }}

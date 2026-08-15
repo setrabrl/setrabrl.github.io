@@ -16,7 +16,7 @@ Blant kjente personer som har gått på skolen, er [Martin Johnsrud Sundby](http
 
 [Se hjemmeside](https://huseby.osloskolen.no/om-skolen/om-oss/skolens-historie/).
 
-![Voksen skole - barneskole](DJI_0711.jpg "Voksen skole - barneskole")
+![Voksen skole og uteområdene sett fra luften](DJI_0711.jpg "Voksen skole, august 2026")
 
 Voksen skole ligger rett over Setra borettslag med omtrent samme avstand som Huseby skole.  Skolen har 560 elever. Se resultater fra skolen.
 
@@ -34,9 +34,9 @@ Skolen har 430 elever og er Norges eldste steinerskole. Man kommer seg bilfritt 
 
 [Se hjemmeside](https://www.rsio.no/)
 
-![Hovseter skole - ungdomsskole](DJI_0548.jpg "Hovseter skole - ungdomsskole")
+![Hovseter skole med nytt skolebygg, idrettshall og uteområde sett fra luften](DJI_0548.jpg "Hovseter skole, august 2026")
 
-Skolen er nærmeste nabo til Setra. Hovseter skole er ungdomsskolen for området og har ca. 650 elever. Skolen skal gjennomgå store oppgraderinger de neste årene og er for øyeblikket stengt.
+Skolen er nærmeste nabo til Setra. Hovseter skole er ungdomsskolen for området og har ca. 650 elever. Skolen er oppgradert med nytt skolebygg, idrettshall og et nytt uteområde.
 
 [Se hjemmeside](https://hovseter.osloskolen.no/)
 

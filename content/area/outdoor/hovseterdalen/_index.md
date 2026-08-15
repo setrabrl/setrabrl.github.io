@@ -3,6 +3,7 @@ title: Hovseterdalen
 linktitle: Hovseterdalen
 description: Setra borettslag ligger inntil Hovseterdalen, som byr på mange muligheter for friluftsliv både sommer og vinter.
 weight: 4
+lastmod: 2026-08-15
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -14,7 +15,13 @@ Dalen, som ofte feilaktig kalles Mærradalen, starter der Mærradalen slutter ve
 
 ![Hovseterdalen](20201009_145119.jpg "Det er et rikt dyreliv i dalen.")
 
-![Hovseterdalen](20201008_160659.jpg "I enden av dalen finner du også en Tuftepark for utendørstrening.")
+## Hovseterdalen friplass
+
+Hovseterdalen friplass åpnet i juni 2024. Det rundt 2700 kvadratmeter store nærmiljøanlegget har blant annet sprint- og løpebaner, ball- og klatrevegg, apparater for balanse, turn og klatring, trampoliner, volleyball- og badmintonbaner og hoppegrop. Anlegget er åpent for alle og brukes både av skolen, idretten og til egenorganisert aktivitet.
+
+![Hovseterdalen friplass sett fra luften](hovseterdalen-friplass-2026.jpg "Hovseterdalen friplass har løpebane og områder for lek, trening og ballspill.")
+
+[Les mer om Hovseterdalen friplass hos Oslo kommune](https://www.oslo.kommune.no/natur-kultur-og-fritid/idrett/idrettsanlegg/hovseterdalen-friplass/).
 
 
 Nedenfor kan du se en dronefilm fra Setra, ned til Sørkedalsveien og videre opp til Bogstad.
@@ -69,7 +76,7 @@ Det er hele sju akebakker i Hovseterdalen om vinteren. Nedenfor finner du en bes
     <figcaption><h4>Tufterenna</h4></figcaption>
 </figur>
 
-Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot tufteparken. Dette er en fin nybegynnerbakke for de aller minste barna og helikopterforeldre.
+Tufterenna er en liten og slak bakke som går fra fotballbanen og ned mot friplassen. Dette er en fin nybegynnerbakke for de aller minste barna og helikopterforeldre.
 
  <figur>
     <a href="orrekjempen.jpg">

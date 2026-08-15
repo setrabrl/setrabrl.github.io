@@ -3,42 +3,77 @@ title: Restauranter, bakerier, kafeer og takeaway
 linktitle: Restauranter og takeaway
 description: Det er flere restauranter, bakerier, kafeer og takeawaytilbud i nærheten av Setra borettslag.
 weight: 4
+lastmod: 2026-08-15
 ---
 
-## Hovseter Grill-Pizza
+## På Hovseter
 
-Hovseter Grill-Pizza er borettslagets egen restaurant og ligger i Hovseterveien 84.
+### Hovseter Grill
 
-[Sjekk meny](https://www.hovsetergrill.com/#meny)
+Hovseter Grill ligger i Hovseterveien 84 og tilbyr blant annet pizza, kebab og burgere.
 
-## Baker Hansen
+[Se meny](https://www.hovsetergrill.com/#meny)
 
-Baker Hansen ligger på Røa Senter.
+## På Røa
+
+### Godt Brød Røa
+
+Godt Brød ligger i Griniveien 4H, rett ved Røa t-banestasjon. Bakeverkstedet tilbyr økologisk bakst, kaffe, brød, rundstykker og påsmurt til lunsj.
+
+[Se hjemmeside](https://www.godtbrod.no/godt-brod-bakerier/godt-brod-roa)
+
+### Baker Hansen
+
+Baker Hansen på Røa Senter tilbyr brød, bakst, kaffe og lunsj.
 
 [Se hjemmeside](https://www.bakerhansen.no/butikker/roa/)
 
-## Japoniis Sushi
+### Åpent Bakeri
 
-Ligger på Røa Senter og er meget populær.
+Åpent Bakeri holder til i glasshuset på Røa Torg og serverer fersk bakst, kaffe og lunsj.
 
-[Se hjemmeside](https://www.japoniis.no/)
+[Se hjemmeside](https://www.apentbakeri.no/glasshusetroatorg)
 
-## Sushihuset
+### Kaffebrenneriet
 
-Sushihuset Røa er en spennende sushibar med asiatisk kjøkken.
+Kaffebrenneriet i Griniveien 1 er en kaffebar og kaffebutikk med ferske bakervarer fra eget bakeri.
 
-[Sjekk meny](https://www.sushihuset.com/)
+[Se hjemmeside](https://www.kaffebrenneriet.no/finn-butikk/griniveien-1-roea)
 
-## The Smoothie Factory
+### Japoniis Sushi
 
-Lyst på en smoothie? Prøv Smoothie Factory på Røa Torg.
+Japoniis Sushi ligger på Røa Senter og serverer tradisjonell sushi.
 
-[Sjekk meny](https://www.thesmoothiefactory.no/)
+[Se hjemmeside](https://japoniis.no/)
 
-## Kompis Restaurant
+### Sushi Huset Røa
 
-En restaurant på Røa Senter.
+Sushi Huset Røa ligger på Røa Torg og serverer sushi og asiatiske varmretter, både i restauranten og som takeaway.
 
-[Sjekk meny](https://kompisrestauranter.no/Content/docs/Meny_300x300_Oslo.pdf) eller [besøk nettstedet](https://kompisrestauranter.no/restaurant/roa).
+[Se meny](https://www.sushihuset.com/)
+
+### Indique Flavours
+
+Indique Flavours på Røa Torg er en indisk restaurant med både servering og takeaway.
+
+[Se praktisk informasjon](https://alti.no/roatorg/butikkoversikt/indique-flavours/)
+
+### Lofthus Samvirkelag
+
+Lofthus Samvirkelag serverer pizza i glasshuset på Røa Torg.
+
+[Se praktisk informasjon](https://alti.no/roatorg/butikkoversikt/lofthus-samvirkelag/)
+
+### Jønk
+
+Jønk på Røa Torg serverer smashburgere, pommes frites og milkshakes. Menyen har også alternativer med kylling og vegansk burger.
+
+[Se meny og praktisk informasjon](https://www.jonkburger.no/roa)
+
+### Peppes Pizza Røa
+
+Peppes Pizza Røa er et alternativ for pizza i nærområdet.
+
+[Se meny](https://live.peppes.no/webshop/restaurant/59-peppes-pizza-roa)
 
 {{% children description="true" depth="1" %}}

@@ -7,7 +7,7 @@
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="ingress">{{ . }}</p>{{ end }}
         <div class="article-meta">
-          <span>Sist oppdatert {{ if gt .Lastmod.Year 1 }}{{ .Lastmod.Format "2. januar 2006" }}{{ else }}ikke oppgitt{{ end }}</span><span aria-hidden="true">·</span><span>{{ if lt .ReadingTime 1 }}1{{ else }}{{ .ReadingTime }}{{ end }} min lesetid</span><span aria-hidden="true">·</span><button type="button" data-print>Skriv ut</button>
+          <span>Sist oppdatert {{ if gt .Lastmod.Year 1 }}{{ .Lastmod | time.Format ":date_long" }}{{ else }}ikke oppgitt{{ end }}</span><span aria-hidden="true">·</span><span>{{ if lt .ReadingTime 1 }}1{{ else }}{{ .ReadingTime }}{{ end }} min lesetid</span><span aria-hidden="true">·</span><button type="button" data-print>Skriv ut</button>
         </div>
       </header>
       <div class="toc-mobile">{{ partial "toc.html" . }}</div>
