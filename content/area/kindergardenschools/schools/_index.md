@@ -3,10 +3,11 @@ title: Skoler
 linktitle: Skoler
 description: Setra ligger nær flere barneskoler, en ungdomsskole og en videregående skole.
 weight: 4
+lastmod: 2026-08-15
 ---
 
 
-![Huseby skole - barneskole](DJI_0595.jpg "Huseby skole - barneskole")
+![Huseby skole og skolegården sett fra luften](huseby-skole-2026-08-15.jpg "Huseby skole, 15. august 2026")
 
 Huseby skole er barneskolen Setra borettslag sogner til. Den ble etablert i 1861 og har ca. 700 elever. Huseby skole er blant de [beste skolene](https://www.udir.no/tall-og-forskning/statistikk/statistikk-grunnskole/nasjonale-prover-5.-trinn/) i landet når det gjelder resultater.
 
