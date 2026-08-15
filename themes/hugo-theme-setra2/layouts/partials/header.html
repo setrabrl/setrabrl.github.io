@@ -1,0 +1,22 @@
+{{ $section := .Section }}
+<header class="site-header">
+  <div class="header-inner">
+    <a class="wordmark" href="{{ "/" | relURL }}">
+      <span>SETRA</span> <small>BORETTSLAG</small>
+    </a>
+    <nav class="main-nav" id="main-nav" aria-label="Hovedmeny">
+      <a href="{{ "/forowners/" | relURL }}"{{ if eq $section "forowners" }} aria-current="page"{{ end }}>For beboere</a>
+      <a href="{{ "/projects/" | relURL }}"{{ if eq $section "projects" }} aria-current="page"{{ end }}>Prosjekter</a>
+      <a href="{{ "/area/" | relURL }}"{{ if eq $section "area" }} aria-current="page"{{ end }}>Nærområdet</a>
+      <a href="{{ "/about/" | relURL }}"{{ if eq $section "about" }} aria-current="page"{{ end }}>Om borettslaget</a>
+      <a href="{{ "/aktuelt/" | relURL }}"{{ if eq $section "aktuelt" }} aria-current="page"{{ end }}>Aktuelt</a>
+      <span class="language mobile-language"><b>NO</b> / <span aria-disabled="true">EN</span></span>
+    </nav>
+    <div class="header-actions">
+      <button class="search-trigger" type="button" data-search-open aria-label="Åpne søk">Søk <kbd>⌘K</kbd></button>
+      <a class="button vibbo-button" href="https://vibbo.no/setra">Vibbo</a>
+      <span class="language desktop-language"><b>NO</b> / <span aria-disabled="true">EN</span></span>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav"><span></span><span></span><span></span><b class="sr-only">Åpne meny</b></button>
+    </div>
+  </div>
+</header>

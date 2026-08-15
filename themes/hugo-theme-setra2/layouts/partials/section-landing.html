@@ -1,0 +1,56 @@
+{{ partial "breadcrumbs.html" . }}
+<main id="hovedinnhold" class="page-shell section-page">
+  <header class="page-intro">
+    <h1>{{ if eq .Section "projects" }}Vedlikehold og prosjekter{{ else if eq .Section "forowners" }}For beboere{{ else }}{{ .Title }}{{ end }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+  {{ $pages := .Pages.ByWeight }}
+  {{ if eq .Section "forowners" }}
+    <div class="featured-grid">
+      {{ with .Site.GetPage "/forowners/welcome" }}<a class="feature-card primary" href="{{ .RelPermalink }}"><span class="kicker">Start her</span><h2>For deg som er ny</h2><p>{{ .Description }}</p></a>{{ end }}
+      {{ with .Site.GetPage "/forowners/oss" }}<a class="feature-card" href="{{ .RelPermalink }}"><span class="kicker">Ofte nyttig</span><h2>Ofte spurte spørsmål</h2><p>{{ .Description }}</p></a>{{ end }}
+    </div>
+    <h2 class="group-heading">Bolig og bygg</h2>
+    <div class="landing-grid compact-grid">
+      {{ $bolig := slice "/forowners/houserules/" "/forowners/firealarm/" "/forowners/cleaning/" "/forowners/flag/" "/forowners/internettv/" "/forowners/vibbo/" }}
+      {{ range $pages }}{{ if in $bolig .RelPermalink }}{{ partial "page-card.html" (dict "page" . "compact" true) }}{{ end }}{{ end }}
+    </div>
+    <h2 class="group-heading">Bil, avfall og økonomi</h2>
+    <div class="landing-grid">
+      {{ $praktisk := slice "/forowners/parking/" "/forowners/evcharging/" "/forowners/garbage/" "/forowners/finance/" }}
+      {{ range $pages }}{{ if in $praktisk .RelPermalink }}{{ partial "page-card.html" (dict "page" .) }}{{ end }}{{ end }}
+    </div>
+  {{ else if eq .Section "projects" }}
+    <div class="filter-row" data-project-filters>
+      <button class="filter-pill active" type="button" data-filter="alle">Alle</button>
+      <button class="filter-pill" type="button" data-filter="pagaar">Pågår</button>
+      <button class="filter-pill" type="button" data-filter="planlagt">Planlagt</button>
+      <button class="filter-pill" type="button" data-filter="fullfort">Fullført</button>
+    </div>
+    <div class="landing-grid project-grid">
+      {{ $activeProjects := slice "/projects/hallways/" "/projects/outside/" "/projects/bikeroom68/" }}
+      {{ range $pages }}{{ $status := .Params.status | default "" }}{{ if not $status }}{{ if in $activeProjects .RelPermalink }}{{ $status = "pagaar" }}{{ else }}{{ $status = "fullfort" }}{{ end }}{{ end }}{{ partial "page-card.html" (dict "page" . "status" $status) }}{{ end }}
+    </div>
+    <section class="timeline-section">
+      <h2 class="group-heading">Tidslinje</h2>
+      {{ $scratch := newScratch }}{{ $scratch.Set "count" 0 }}
+      <div class="timeline dynamic-timeline">
+        {{ range $pages.ByTitle }}{{ $project := . }}{{ with .Params.aar }}{{ $scratch.Add "count" 1 }}<div><span>{{ . }}</span><h3><a href="{{ $project.RelPermalink }}">{{ $project.LinkTitle }}</a></h3><p>{{ $project.Description }}</p></div>{{ end }}{{ end }}
+      </div>
+      {{ if eq ($scratch.Get "count") 0 }}
+      <div class="timeline fallback-timeline">
+        <div><span>2011</span><h3>Tilstandsrapport fra OBOS Prosjekt</h3><p>21 punkter med forslag til prioritering og tidsplan.</p></div>
+        <div><span>2017–2018</span><h3>Bad og våtrom</h3><p>Nye bad, avløpsrør, sluk og vannrør.</p></div>
+        <div><span>2018</span><h3>Renovering av garasjen</h3><p>Nye porter og tilrettelegging for elbillading.</p></div>
+        <div><span>2019–2020</span><h3>Fasader, vinduer og tak</h3><p>Etterisolering, nye fasader, vinduer og utvendige dører.</p></div>
+        <div><span>2021–2022</span><h3>Leiligheter og dører</h3><p>Næringslokaler ble boliger, og alle leiligheter fikk nye dører.</p></div>
+      </div>
+      {{ end }}
+    </section>
+  {{ else }}
+    <h2 class="group-heading">{{ if eq .Section "area" }}Opplev nærområdet{{ else }}Om borettslaget{{ end }}</h2>
+    <div class="landing-grid">
+      {{ range $pages }}{{ if not .Params.hidden }}{{ partial "page-card.html" (dict "page" .) }}{{ end }}{{ end }}
+    </div>
+  {{ end }}
+</main>

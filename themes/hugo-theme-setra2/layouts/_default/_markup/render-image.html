@@ -1,0 +1,7 @@
+{{ $resource := .Page.Resources.GetMatch (printf "*%s" (path.Base .Destination)) }}
+{{ if $resource }}
+  {{ $webp := $resource.Fit "1400x1400 webp q82" }}{{ $jpg := $resource.Fit "1400x1400 jpg q84" }}
+  <figure><a href="{{ $jpg.RelPermalink }}"><picture><source srcset="{{ $webp.RelPermalink }}"><img src="{{ $jpg.RelPermalink }}" width="{{ $jpg.Width }}" height="{{ $jpg.Height }}" alt="{{ .Text }}"></picture></a>{{ with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
+{{ else }}
+  <figure><img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">{{ with .Title }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
+{{ end }}

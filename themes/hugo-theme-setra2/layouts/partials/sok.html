@@ -1,0 +1,10 @@
+<dialog class="search-dialog" id="search-dialog" aria-labelledby="search-dialog-title">
+  <form class="dialog-close" method="dialog"><button aria-label="Lukk søk">×</button></form>
+  <p class="kicker" id="search-dialog-title">Søk på setrabrl.no</p>
+  <form class="search-box" action="{{ "/sok/" | relURL }}" role="search">
+    <label class="sr-only" for="global-search">Hva leter du etter?</label>
+    <input id="global-search" name="q" type="search" placeholder="F.eks. parkering, avfall, elbillading" autocomplete="off">
+    <button type="submit">Søk</button>
+  </form>
+  <p class="search-help">Trykk Esc for å lukke.</p>
+</dialog>

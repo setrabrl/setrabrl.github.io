@@ -1,30 +1,43 @@
-// Script for pre-generating lunr index-file
-// Run hugo first to generate public/index.json
-// Then run this using node
+// Build a compact client-side search store after Hugo has rendered index.json.
+// No npm packages are required.
+const fs = require('fs');
+const path = require('path');
 
-var fs = require('fs');
-var lunr = require('./themes/hugo-theme-docdock/static/js/lunr.min');
+const root = __dirname;
+const generated = path.join(root, 'public', 'index.json');
+const content = path.join(root, 'content');
 
-fs.readFile('./public/index.json', function (err, data) {
-  var pages = JSON.parse(data);
-  var store = [];
+if (!fs.existsSync(generated)) {
+  throw new Error('Kjør Hugo før build-lunr-index.js.');
+}
 
-  var idx = lunr(function () {
-    this.ref('uri');
-    this.field('title', {boost: 10});
-    this.field('tags', {boost: 5});
-    this.field('content');
-    
-    pages.forEach(function (page) {
-      this.add(page);
-      store.push(page);
-    }, this)
-  });
+const pages = JSON.parse(fs.readFileSync(generated, 'utf8'));
+const pdfs = [];
 
-  fs.writeFile('./static/lunr-index.json',
-    JSON.stringify({
-        index: idx,
-        meta: store
-    }),
-    function (){});
-});
+function walk(dir) {
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) walk(full);
+    if (entry.isFile() && entry.name.toLowerCase().endsWith('.pdf')) {
+      const relative = path.relative(content, full).split(path.sep).join('/');
+      const parts = relative.split('/');
+      const title = path.basename(entry.name, path.extname(entry.name))
+        .replace(/[_-]+/g, ' ').replace(/\s+/g, ' ').trim();
+      pdfs.push({
+        uri: `/${encodeURI(relative)}`,
+        title,
+        path: `Dokumenter / ${parts.slice(0, -1).join(' / ') || 'Filer'}`,
+        section: 'dokumenter',
+        type: 'document',
+        description: 'PDF-dokument',
+        content: `${title} ${parts.join(' ')}`
+      });
+    }
+  }
+}
+
+walk(content);
+const output = JSON.stringify([...pages, ...pdfs]);
+fs.writeFileSync(path.join(root, 'static', 'lunr-index.json'), output);
+fs.writeFileSync(path.join(root, 'public', 'lunr-index.json'), output);
+console.log(`Søkeindeks: ${pages.length} sider og ${pdfs.length} PDF-er.`);

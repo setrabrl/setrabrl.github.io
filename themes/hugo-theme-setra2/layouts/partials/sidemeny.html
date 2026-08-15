@@ -1,0 +1,8 @@
+{{ with .Parent }}
+<nav class="side-menu" aria-label="Sider i {{ .LinkTitle }}">
+  <p>{{ .LinkTitle }}</p>
+  <ul>
+    {{ range .Pages.ByWeight }}{{ if not .Params.hidden }}<li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}>{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
+  </ul>
+</nav>
+{{ end }}

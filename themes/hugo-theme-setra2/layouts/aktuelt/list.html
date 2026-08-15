@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ partial "breadcrumbs.html" . }}
+<main id="hovedinnhold" class="page-shell section-page">
+  <header class="page-intro"><h1>Aktuelt</h1>{{ with .Description }}<p>{{ . }}</p>{{ end }}</header>
+  {{ partial "vibbo-band.html" . }}
+  {{ if .Pages }}<div class="news-list">{{ range .Pages.ByDate.Reverse }}<article><span>{{ .Date.Format "2. januar 2006" }} · {{ .Params.kategori | default "Styret" }}</span><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><p>{{ .Description }}</p></article>{{ end }}</div>{{ else }}<div class="empty-state"><h2>Løpende beskjeder finner du i Vibbo</h2><p>Her publiseres saker som skal være tilgjengelige over tid. Driftsmeldinger og korte beskjeder sendes i Vibbo.</p><a class="button" href="https://vibbo.no/setra">Åpne Vibbo</a></div>{{ end }}
+</main>
+{{ end }}

@@ -1,0 +1,1 @@
+{{ with .Parent }}{{ if not .IsHome }}{{ partial "breadcrumb-items.html" . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a><span aria-hidden="true">/</span>{{ end }}{{ end }}

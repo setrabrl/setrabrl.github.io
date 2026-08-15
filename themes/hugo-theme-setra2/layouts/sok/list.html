@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main id="hovedinnhold" class="page-shell search-page" data-search-page>
+  <h1>Søk</h1>
+  <form class="search-box page-search" action="{{ "/sok/" | relURL }}" role="search"><label class="sr-only" for="page-query">Søk i alt innhold</label><input id="page-query" name="q" type="search" placeholder="Søk i alt innhold" autocomplete="off"><button type="submit">Søk</button></form>
+  <p class="result-count" aria-live="polite">Skriv inn det du leter etter.</p>
+  <div class="filter-row" data-search-filters><button class="filter-pill active" type="button" data-filter="alt">Alt</button><button class="filter-pill" type="button" data-filter="forowners">For beboere</button><button class="filter-pill" type="button" data-filter="projects">Prosjekter</button><button class="filter-pill" type="button" data-filter="dokumenter">Dokumenter</button></div>
+  <div class="search-results"></div>
+</main>
+{{ end }}

@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#6E2436">
+  {{ $description := .Description | default .Site.Params.description | default "Informasjon fra Setra borettslag på Hovseter i Oslo." }}
+  <meta name="description" content="{{ $description }}">
+  <title>{{ if .IsHome }}Setra borettslag{{ else }}{{ .Title }} · Setra borettslag{{ end }}</title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+  <link rel="preload" href="{{ "fonts/figtree.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "fonts/libre-franklin.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ "css/setra.css" | relURL }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ if .IsHome }}Setra borettslag{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:image" content="{{ "about/DJI_0100.jpg" | absURL }}">
+</head>

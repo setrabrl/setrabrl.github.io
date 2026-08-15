@@ -1,0 +1,9 @@
+{{ $page := .page }}{{ $status := .status | default "" }}
+<a class="page-card{{ if .compact }} compact{{ end }}" href="{{ $page.RelPermalink }}"{{ with $status }} data-status="{{ . }}"{{ end }}>
+  {{ if not .compact }}{{ with $page.Resources.ByType "image" }}{{ range first 1 . }}<div class="card-image">{{ partial "picture.html" (dict "image" . "alt" $page.LinkTitle "class" "card-photo") }}</div>{{ end }}{{ end }}{{ end }}
+  <div class="card-body">
+    {{ with $status }}<span class="status status-{{ . }}">{{ if eq . "pagaar" }}Pågår{{ else if eq . "planlagt" }}Planlagt{{ else }}Fullført{{ with $page.Params.aar }} {{ . }}{{ end }}{{ end }}</span>{{ end }}
+    <h3>{{ $page.LinkTitle }}</h3>
+    {{ with $page.Description }}<p>{{ . }}</p>{{ end }}
+  </div>
+</a>

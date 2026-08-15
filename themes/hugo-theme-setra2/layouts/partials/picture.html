@@ -1,0 +1,6 @@
+{{ $image := .image }}{{ $alt := .alt | default "" }}{{ $class := .class | default "" }}{{ $loading := .loading | default "lazy" }}
+{{ $webp := $image.Fit "1400x1400 webp q68" }}{{ $jpg := $image.Fit "1400x1400 jpg q70" }}
+<picture{{ with .pictureClass }} class="{{ . }}"{{ end }}>
+  <source srcset="{{ $webp.RelPermalink }}">
+  <img class="{{ $class }}" src="{{ $jpg.RelPermalink }}" width="{{ $jpg.Width }}" height="{{ $jpg.Height }}" alt="{{ $alt }}" loading="{{ $loading }}"{{ if eq $loading "eager" }} fetchpriority="high"{{ end }}>
+</picture>

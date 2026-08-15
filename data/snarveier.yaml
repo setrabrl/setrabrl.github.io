@@ -1,0 +1,25 @@
+- tittel: Parkering
+  undertekst: Garasje, beboerkort og gjesteparkering
+  lenke: /forowners/parking/
+- tittel: Avfall
+  undertekst: Nedkast, papp, glass og grovavfall
+  lenke: /forowners/garbage/
+- tittel: Elbillading
+  undertekst: Ladeboks, pris og strømforbruk
+  lenke: /forowners/evcharging/
+- tittel: Internett og TV
+  undertekst: Telenor, hastighet og kanalpakker
+  lenke: /forowners/internettv/
+- tittel: Felleskostnader
+  undertekst: Hva du betaler for, og fellesgjeld
+  lenke: /forowners/finance/
+- tittel: Husordensregler
+  undertekst: Ro, dyrehold, oppussing og balkong
+  lenke: /forowners/houserules/
+- tittel: Brannvarsling
+  undertekst: Hva gjør du når alarmen går
+  lenke: /forowners/firealarm/
+- tittel: Vaktmester og styret
+  undertekst: Kontakt, vakttelefon og åpningstider
+  lenke: /about/contact/
+  kontakt: true

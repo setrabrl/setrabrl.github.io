@@ -1,0 +1,7 @@
+name = "Setra 2"
+license = "MIT"
+description = "Tilgjengelig og lett Hugo-tema for Setra borettslag"
+min_version = "0.110.0"
+
+[author]
+  name = "Setra borettslag"

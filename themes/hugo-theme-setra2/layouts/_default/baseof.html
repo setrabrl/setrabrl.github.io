@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang | default "nb" }}">
+{{ partial "head.html" . }}
+<body>
+  <a class="skip-link" href="#hovedinnhold">Hopp til innhold</a>
+  {{ partial "header.html" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "footer.html" . }}
+  {{ partial "sok.html" . }}
+  <script src="{{ "js/setra.js" | relURL }}" defer></script>
+</body>
+</html>

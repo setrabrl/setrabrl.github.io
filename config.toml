@@ -7,17 +7,17 @@ staticDir = "static"
 publishDir = "public"
 
 title = "Setra borettslag"
-theme = "hugo-theme-setrabrl"
+theme = "hugo-theme-setra2"
 metadataFormat = "yaml"
 pluralizeListTitles = false
 preservetaxonomynames = true
 enableEmoji = true
 enableGitInfo = false
-disableKinds = ["RSS"] # page home section taxonomy taxonomyTerm RSS sitemap robotsTXT 404
+disableKinds = ["RSS"]
 
 [languages]
   [languages.nb]
-    title = "Setra Borettslsag"
+    title = "Setra borettslag"
     languageName = "Norsk"
     weight = 2
 
@@ -39,7 +39,7 @@ fractions = false # disable automatic fraction rendering
 [params]
 editURL = "https://github.com/setrabrl/setrabrl.github.io/blob/master/content/"
 noHomeIcon = true # default is false
-noSearch = true # default is false
+noSearch = false
 showVisitedLinks = false # default is false
 
 

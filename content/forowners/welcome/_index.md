@@ -5,40 +5,38 @@ description:  Her finner du en rask oversikt over hva som er nytt å vite om bor
 weight: 1
 ---
 
-Velkommen som beboer i Setra borettslag. Borettslaget består av ca 260 leiligheter og har nærmere 800 beboere. I denne artikkelen finner du spørsmål og svar på nyttige ting som er verdt å vite.
+Velkommen som beboer i Setra borettslag. Borettslaget består av ca. 270 leiligheter og har nærmere 800 beboere. I denne artikkelen finner du spørsmål og svar på nyttige ting som er verdt å vite.
 
-**Spørsmål 1:** Hvordan blir jeg bruker på [Vibbo](https://vibbo.no/setra)
+### Hvordan blir jeg bruker på Vibbo?
 
-**Svar:** Det er samme bruker som du bruker på Min Side hos Obos.
+Det er samme bruker som du bruker på Min Side hos OBOS. [Åpne Vibbo](https://vibbo.no/setra).
 
-**Spørsmål 2:** Hvordan holder vi oss best oppdatert med hva som skjer i borettslaget.
+### Hvordan holder vi oss best oppdatert med hva som skjer i borettslaget?
 
-**Svar:**  Den mest oppdaterte kanalen for informasjon om borettslaget er [Facebook siden til borettslaget](https://www.facebook.com/groups/855516694552952). Her kan alle som bor i borettslaget bli medlem. Nettsiden er ikke drevet av styret, men styret informer jevnlig via den siden. I tilegg informer Styret via [Vibbo](https://vibbo.no/setra). Husk sett opp varsling på Vibbo hvis du ønsker varsel på mail.
+Styret informerer via [Vibbo](https://vibbo.no/setra). Husk å slå på varsling hvis du ønsker varsel på e-post. Borettslaget har også en [Facebook-gruppe](https://www.facebook.com/groups/855516694552952) som beboere kan bli medlem av.
 
-**Spørsmål 3:** Hvordan kommer vi i kontakt med styret.
+### Hvordan kommer vi i kontakt med styret?
 
-**Svar:** Den beste måten er via epost. Detaljer finner du [her](https://setrabrl.no/about/contact/).
+Den beste måten er via e-post eller Vibbo. Detaljer finner du [her](/about/contact/).
 
-**Spørsmål 4:** Når og hvordan ønsker dere at vi betaler inn felleskostnadene?
+### Når og hvordan betaler vi inn felleskostnadene?
 
-**Svar:** Det vil komme faktura i nettbanken fra Obos. Hvis du ikke har fått dette ta kontakt med Obos kundeservice. 
+Det kommer faktura i nettbanken fra OBOS. Hvis du ikke har fått denne, tar du kontakt med OBOS kundeservice.
 
-Betalingsinformasjon blir sendt så snart OBOS mottar melding fra megler om eierskifte. Betalingsfristen er en uke. Er din e-postadresse og/eller mobilnummer registrert hos oss, vil du motta betalingsinformasjon pr. e-post og/eller SMS første gang.
+Betalingsinformasjon blir sendt så snart OBOS mottar melding fra megler om eierskifte. Betalingsfristen er én uke. Er e-postadressen og/eller mobilnummeret ditt registrert, mottar du betalingsinformasjon på e-post og/eller SMS første gang.
 
-**Spørsmål 5:** Hvor kan jeg bestille postkasseskilt
+### Hvor kan jeg bestille postkasseskilt?
 
-**Svar:** Du kan bestille skilt hos servicegruppen som har levert postkassene. Det koster ca 190 kr inkludert frakt salg@servicegruppen.no  Mens du venter på skiltet ditt kan dere bruke en midlertidlig lapp.
+Du kan bestille skilt hos Servicegruppen som har levert postkassene. Mens du venter på skiltet, kan du bruke en midlertidig lapp.
 
-**Spørsmål 6:**  Hvordan får vi endret navn på navnelisten utenfor?
+### Hvordan får vi endret navn på navnelisten utenfor?
 
-**Svar:**  Se punkt 3.4 i husordensreglene.
+Se punkt 3.4 i husordensreglene.
 
-**Spørsmål 7:** Hvor kan mine gjester parkere?
+### Hvor kan gjestene mine parkere?
 
-**Svar:** Detaljer om gjesteparkering finner du [her](https://setrabrl.no/forowners/parking/).
+Detaljer om gjesteparkering finner du [her](/forowners/parking/).
 
-**Spørsmål 8:** Hvordan får jeg skiftet navn på ringeklokken
+### Hvordan får jeg skiftet navn på ringeklokken?
 
-**Svar:** Send epost til vaktmester post@hovvakt.no
-
-{{% children description="true" depth="1" %}}
+Send e-post til vaktmester på post@hovvakt.no.

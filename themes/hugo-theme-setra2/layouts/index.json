@@ -1,0 +1,10 @@
+[
+{{- $first := true -}}
+{{- range .Site.Pages -}}
+  {{- if and (not .IsHome) (ne .Section "sok") -}}
+    {{- if not $first }},{{ end -}}{{- $first = false -}}
+    {{- $path := .LinkTitle -}}{{- with .Parent }}{{ if not .IsHome }}{{ $path = printf "%s / %s" .LinkTitle $path }}{{ end }}{{ end -}}
+    {{- dict "uri" .RelPermalink "title" .Title "path" $path "section" .Section "type" "content" "description" .Description "content" .Plain | jsonify -}}
+  {{- end -}}
+{{- end -}}
+]

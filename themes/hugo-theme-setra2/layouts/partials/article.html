@@ -1,0 +1,21 @@
+{{ partial "breadcrumbs.html" . }}
+<main id="hovedinnhold" class="page-shell article-page">
+  <div class="article-grid">
+    <aside class="article-side">{{ partial "sidemeny.html" . }}</aside>
+    <article class="article-main">
+      <header class="article-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="ingress">{{ . }}</p>{{ end }}
+        <div class="article-meta">
+          <span>Sist oppdatert {{ if gt .Lastmod.Year 1 }}{{ .Lastmod.Format "2. januar 2006" }}{{ else }}ikke oppgitt{{ end }}</span><span aria-hidden="true">·</span><span>{{ if lt .ReadingTime 1 }}1{{ else }}{{ .ReadingTime }}{{ end }} min lesetid</span><span aria-hidden="true">·</span><button type="button" data-print>Skriv ut</button>
+        </div>
+      </header>
+      <div class="toc-mobile">{{ partial "toc.html" . }}</div>
+      {{ $content := .Content | replaceRE "<img " "<img loading=\"lazy\" " }}<div class="prose{{ if or (eq .RelPermalink "/forowners/oss/") (eq .RelPermalink "/forowners/welcome/") }} js-accordion{{ end }}">{{ $content | safeHTML }}</div>
+    </article>
+    <aside class="toc-side">
+      {{ partial "toc.html" . }}
+      <a class="help-card" href="{{ "/about/contact/" | relURL }}"><span>Fant du ikke det du lette etter?</span><b>Kontakt styret →</b></a>
+    </aside>
+  </div>
+</main>
