@@ -4,6 +4,10 @@
     <h1>{{ if eq .Section "projects" }}Vedlikehold og prosjekter{{ else if eq .Section "forowners" }}For beboere{{ else }}{{ .Title }}{{ end }}</h1>
     {{ with .Description }}<p>{{ . }}</p>{{ end }}
   </header>
+  {{ if eq .Section "about" }}
+    {{ $sectionContent := .Content | replaceRE "<img " "<img loading=\"lazy\" " }}
+    <div class="prose section-content">{{ $sectionContent | safeHTML }}</div>
+  {{ end }}
   {{ $pages := .Pages.ByWeight }}
   {{ if eq .Section "forowners" }}
     <div class="featured-grid">
@@ -48,7 +52,7 @@
       {{ end }}
     </section>
   {{ else }}
-    <h2 class="group-heading">{{ if eq .Section "area" }}Opplev nærområdet{{ else }}Om borettslaget{{ end }}</h2>
+    <h2 class="group-heading">{{ if eq .Section "area" }}Opplev nærområdet{{ else }}Mer om borettslaget{{ end }}</h2>
     <div class="landing-grid">
       {{ range $pages }}{{ if not .Params.hidden }}{{ partial "page-card.html" (dict "page" .) }}{{ end }}{{ end }}
     </div>

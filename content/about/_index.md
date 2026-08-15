@@ -1,11 +1,20 @@
 ---
 title: Om borettslaget
 linktitle: Om borettslaget
-description: Setra borettslag er et hyggelig borettslag på Røa/Hovseter med 270 andelsleiligheter.
+description: Setra borettslag er et hyggelig borettslag på Røa/Hovseter med 270 leiligheter og nærmere 800 beboere.
 weight: 1
+lastmod: 2026-08-15
 ---
 
-Borettslaget ligger i et barnevennlig område med mange [barnehager](../area/kindergardenschools/kindergarden/) og [skoler](../area/kindergardenschools/schools/) i nærheten. Området har et godt utvalg av [dagligvarebutikker](../area/shoppinganddining/grocery/), [andre butikker](../area/shoppinganddining/shopping/) og [restauranter og takeaway](../area/shoppinganddining/dining/). Det er også [t-bane](../area/transport/subway/) og [buss](../area/transport/bus/) innen fem minutters gange.
+Setra borettslag består av 270 leiligheter i Hovseterveien 64, 66, 68, 82 og 84. Her bor nærmere 800 mennesker i leiligheter med ulike størrelser og planløsninger. Borettslaget har grønne fellesområder og eier garasjeanlegget i Hovseterveien 70.
+
+Borettslaget ligger i et barnevennlig og etablert boligområde på Hovseter, mellom Røa og marka. Det er mange [barnehager](../area/kindergardenschools/kindergarden/) og [skoler](../area/kindergardenschools/schools/) i nærheten. Området har også et godt utvalg av [dagligvarebutikker](../area/shoppinganddining/grocery/), [andre butikker](../area/shoppinganddining/shopping/) og [restauranter og takeaway](../area/shoppinganddining/dining/). [T-banen](../area/transport/subway/) og flere [busslinjer](../area/transport/bus/) er innen fem minutters gange, mens Hovseterdalen og turmulighetene vestover ligger rett utenfor døra.
+
+## Kart over nærområdet
+
+Kartet viser Setra borettslag og noen av stedene beboere ofte bruker i nærområdet.
+
+{{< naerkart >}}
 
 Borettslaget har gjennomgått store moderniseringer de siste årene. Vi kan på mange måter si at vi har gått fra å være den [stygge andungen til den hvite svanen](../projects/facade/beforeandafter) på Oslo vest.
 

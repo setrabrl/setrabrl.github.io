@@ -10,7 +10,7 @@
     <div class="hero-inner">
       <p class="kicker">Hovseter · Oslo vest</p>
       <h1>Alt om Setra borettslag, på ett sted</h1>
-      <p class="hero-ingress">270 andelsleiligheter, nærmere 800 beboere og et borettslag som er modernisert fra topp til tå.</p>
+      <p class="hero-ingress">270 leiligheter, nærmere 800 beboere og et borettslag som er modernisert fra topp til tå.</p>
       <form class="hero-search search-box" action="{{ "/sok/" | relURL }}" role="search">
         <label class="sr-only" for="hero-query">Søk på nettstedet</label><input id="hero-query" name="q" type="search" placeholder="Søk – f.eks. parkering, avfall, elbillading"><button type="submit">Søk</button>
       </form>
@@ -18,6 +18,18 @@
     </div>
   </section>
   {{ partial "vibbo-band.html" . }}
+
+  <section class="home-section about-intro-section">
+    <div>
+      <p class="kicker">Om Setra</p>
+      <h2>Kort vei til byen. Naturen rett utenfor.</h2>
+    </div>
+    <div class="about-intro-copy">
+      <p>Setra borettslag består av 270 leiligheter i Hovseterveien 64, 66, 68, 82 og 84. Her bor nærmere 800 mennesker i et etablert bomiljø på Hovseter, med t-bane, skoler, barnehager og Røa innen kort gangavstand.</p>
+      <p>Hovseterdalen ligger rett utenfor døra med grøntområder og aktivitetstilbud. Selve borettslaget er grundig modernisert, blant annet med nye bad og rør, etterisolerte fasader, nye vinduer og dører og et oppgradert garasjeanlegg.</p>
+      <a class="text-link" href="{{ "/about/" | relURL }}">Mer om borettslaget →</a>
+    </div>
+  </section>
 
   <section class="home-section task-section">
     <h2 class="group-heading">Det folk leter etter</h2>
@@ -39,7 +51,7 @@
     {{ with .Site.GetPage "/area/outdoor/hovseterdalen" }}<a class="neighbour-card" href="{{ .RelPermalink }}">{{ with .Resources.GetMatch "orrekjempen_frontpage.jpg" }}{{ partial "picture.html" (dict "image" . "alt" "Hovseterdalen ved Setra borettslag" "class" "neighbour-photo") }}{{ end }}<div><span class="kicker">Nærområdet</span><h3>Sju akebakker i Hovseterdalen</h3><p>Turkart, skiløyper, nærmiljøhage og Bogstadvannet ligger rett utenfor døra.</p><b>Se området →</b></div></a>{{ end }}
   </section>
 
-  <section class="facts"><div><div><strong>270</strong><span>andelsleiligheter</span></div><div><strong>~800</strong><span>beboere</span></div><div><strong>211</strong><span>garasjeplasser</span></div><div><strong>2017–22</strong><span>store oppgraderinger</span></div></div></section>
+  <section class="facts"><div><div><strong>270</strong><span>leiligheter</span></div><div><strong>~800</strong><span>beboere</span></div><div><strong>5</strong><span>adresser</span></div><div><strong>2017–22</strong><span>store oppgraderinger</span></div></div></section>
 
   <section class="home-section news-section">
     <div class="section-heading"><h2>Aktuelt</h2><a href="{{ "/aktuelt/" | relURL }}">Alle saker →</a></div>

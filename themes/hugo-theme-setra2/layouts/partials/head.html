@@ -10,6 +10,7 @@
   <link rel="preload" href="{{ "fonts/figtree.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ "fonts/libre-franklin.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ "css/setra.css" | relURL }}">
+  {{ if .HasShortcode "naerkart" }}<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">{{ end }}
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ if .IsHome }}Setra borettslag{{ else }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ $description }}">

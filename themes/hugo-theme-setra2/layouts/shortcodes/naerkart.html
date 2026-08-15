@@ -1,0 +1,17 @@
+{{- $id := printf "naerkart-%d" .Ordinal -}}
+<div class="neighbourhood-map" data-neighbourhood-map>
+  <div id="{{ $id }}" class="neighbourhood-map-canvas" data-map-canvas role="region" aria-label="Interaktivt kart over Setra borettslag og nærområdet"></div>
+  <div class="neighbourhood-map-legend">
+    <p>Velg et sted for å vise det i kartet.</p>
+    <ol>
+      <li><button type="button" data-map-location data-lat="59.9497600" data-lon="10.6531670" data-title="Setra borettslag" data-description="Hovseterveien 64, 66, 68, 82 og 84" data-url="{{ "/about/" | relURL }}" data-primary="true" aria-controls="{{ $id }}"><span>1</span><span><strong>Setra borettslag</strong><small>Her bor vi</small></span></button></li>
+      <li><button type="button" data-map-location data-lat="59.9463688" data-lon="10.6548809" data-title="Hovseter T-banestasjon" data-description="Linje 2 mot sentrum og Østerås" data-url="{{ "/area/transport/subway/" | relURL }}" aria-controls="{{ $id }}"><span>2</span><span><strong>Hovseter T-bane</strong><small>Kollektivtransport</small></span></button></li>
+      <li><button type="button" data-map-location data-lat="59.9499346" data-lon="10.6550444" data-title="Hovseter skole og idrettshall" data-description="Skole, idrettshall og nye uteområder" data-url="{{ "/area/kindergardenschools/schools/" | relURL }}" aria-controls="{{ $id }}"><span>3</span><span><strong>Hovseter skole</strong><small>Skole og idrettshall</small></span></button></li>
+      <li><button type="button" data-map-location data-lat="59.9502665" data-lon="10.6488258" data-title="Hovseterdalen" data-description="Turvei, friplass og grøntområder" data-url="{{ "/area/outdoor/hovseterdalen/" | relURL }}" aria-controls="{{ $id }}"><span>4</span><span><strong>Hovseterdalen</strong><small>Tur og aktivitet</small></span></button></li>
+      <li><button type="button" data-map-location data-lat="59.9461880" data-lon="10.6431230" data-title="Røa Torg og Røa sentrum" data-description="Butikker, servering og servicetilbud" data-url="{{ "/area/shoppinganddining/" | relURL }}" aria-controls="{{ $id }}"><span>5</span><span><strong>Røa sentrum</strong><small>Butikker og servering</small></span></button></li>
+      <li><button type="button" data-map-location data-lat="59.9550546" data-lon="10.6530682" data-title="Voksen skole" data-description="Barneskole med idrettsanlegg" data-url="{{ "/area/kindergardenschools/schools/" | relURL }}" aria-controls="{{ $id }}"><span>6</span><span><strong>Voksen skole</strong><small>Skole og idrett</small></span></button></li>
+    </ol>
+    <a class="neighbourhood-map-external" href="https://www.openstreetmap.org/?mlat=59.9497600&amp;mlon=10.6531670#map=15/59.9497600/10.6531670">Åpne større kart hos OpenStreetMap →</a>
+  </div>
+  <noscript><p class="map-fallback">Kartet krever JavaScript. <a href="https://www.openstreetmap.org/?mlat=59.9497600&amp;mlon=10.6531670#map=15/59.9497600/10.6531670">Åpne kartet hos OpenStreetMap</a>.</p></noscript>
+</div>
