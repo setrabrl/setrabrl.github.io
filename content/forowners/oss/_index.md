@@ -3,9 +3,10 @@ title: Ofte stilte spørsmål om Setra borettslag
 linktitle: Ofte stilte spørsmål
 description: Her finner du svar på vanlige spørsmål.
 weight: 1
+lastmod: 2026-08-15
 ---
 
-Sist oppdatert 9. januar 2023.
+Sist oppdatert 15. august 2026.
 
 ### Er det planlagt noen nye prosjekter?
 
@@ -32,7 +33,9 @@ Det er Telenor. Se detaljer [her](/forowners/internettv/).
 
 ### Eier leilighetene parkeringsplass eller garasjeplass?
 
-Ingen leiligheter eier en garasjeplass, men enkelte har leierett i et garasjeanlegg. I Hovseterveien 70 eier borettslaget plassene, og leieretten er derfor varig. I Landingsveien 14 leier borettslaget plassene, og det er planer om å rive anlegget. Garasjeplassene der vil derfor forsvinne en gang i fremtiden. Leieretten i Hovseterveien 70 kan sies opp dersom styret har en beboer som ønsker å overta plassen.
+Garasjeplassene som Setra borettslag disponerer, ligger i Hovseterveien 70. Borettslaget eier plassene, og enkelte leiligheter har varig leierett. Leieretten kan sies opp dersom styret har en beboer som ønsker å overta plassen.
+
+Setra leier ikke lenger plasser i Landingsveien 14. Det tidligere garasjeanlegget er revet, og utbygger tilbyr parkeringsplasser i det nye anlegget for salg direkte til interesserte i området. Disse plassene er ikke en del av borettslagets parkeringsordning.
 
 Se mer [her](/forowners/parking/).
 

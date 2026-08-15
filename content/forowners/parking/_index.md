@@ -3,6 +3,7 @@ title: Parkering i borettslaget
 linktitle: Parkering
 description: Borettslaget har flere parkeringsalternativer.
 weight: 4
+lastmod: 2026-08-15
 ---
 
 ![Parkering](garasje1.jpg "Hovseterveien 70")
@@ -38,15 +39,13 @@ I Hovseterveien 70 har borettslaget etablert infrastruktur for ladebokser. Les m
 
 ## Landingsveien 14
 
-I tillegg leies det 54 garasjeplasser i Landingsveien 14.
+Det tidligere garasjeanlegget i Landingsveien 14 er revet, og Setra borettslag leier ikke lenger parkeringsplasser der.
 
-Leiligheter som har parkeringsplass i Landingsveien 14 har nøkkel til parkeringshuset.
-
-Det er usikkert hvor lenge borettslaget får leie parkeringsplasser i Landingsveien 14, da det er nye eiere av parkeringsanlegget og hele parkeringshuset planlegges å rives for å bygges på nytt. Følg byggeprosessen her.
-
-![Beboerkort](beboerkort.png "Beboerkort")
+Utbygger oppfører et nytt underjordisk parkeringsanlegg og tilbyr parkeringsplasser for salg til interesserte i området. Disse plassene er ikke en del av borettslagets parkeringsordning. [Les mer om prosjektet](/area/projects/landingsveien14/).
 
 ## Parkering utenfor leiligheter
+
+![Beboerkort](beboerkort.png "Beboerkort")
 
 Ved oppgangene er det bare tillatt å stå under av- og pålessing, og da i maksimalt 20 minutter. Fra 1. november 2020 må et gyldig beboerkort ligge synlig i vinduet. Kortet skiller beboere fra andre som parkerer utenfor. Beboerkortet er avbildet ovenfor og fås hos styret.
 
